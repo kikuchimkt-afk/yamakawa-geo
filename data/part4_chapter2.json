@@ -1,0 +1,495 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 4,
+    "title": "つながる世界"
+  },
+  "chapter": {
+    "number": 2,
+    "title": "貿易と国際経済"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "貿易と国際経済",
+      "questions": [
+        {
+          "id": "P4-C2-S1-01",
+          "question": "各国がそれぞれに最も適した商品を生産し，国際貿易を通じて交換され，各国の産業が国際経済の全体構造の中で一定の役割をもつように組み込まれた体制を何というか。",
+          "answer": "国際分業体制",
+          "options": [
+            "国際分業体制",
+            "自由貿易",
+            "保護貿易",
+            "水平貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-02",
+          "question": "政府が国際間の商品・サービスの取引に関して，関税や数量制限などの干渉を加えずに輸出入を行うことを何というか。",
+          "answer": "自由貿易",
+          "options": [
+            "自由貿易",
+            "保護貿易",
+            "管理貿易",
+            "公正貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-03",
+          "question": "政府が国内産業を保護・育成するために，高率の輸入関税や輸出奨励金を設ける貿易を何というか。",
+          "answer": "保護貿易",
+          "options": [
+            "保護貿易",
+            "自由貿易",
+            "管理貿易",
+            "公正貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-04",
+          "question": "主として先進工業国間でみられる，それぞれの国の工業製品が相互に輸出入される貿易を何というか。",
+          "answer": "水平貿易",
+          "options": [
+            "水平貿易",
+            "垂直貿易",
+            "加工貿易",
+            "中継貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-05",
+          "question": "先進工業国からは工業製品が輸出され，発展途上国からは原材料・食料が輸出される貿易を何というか。",
+          "answer": "垂直貿易",
+          "options": [
+            "垂直貿易",
+            "水平貿易",
+            "加工貿易",
+            "中継貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-06",
+          "question": "工業の原材料を輸入し，それを製品や半製品にして輸出する貿易を何というか。",
+          "answer": "加工貿易",
+          "options": [
+            "加工貿易",
+            "水平貿易",
+            "垂直貿易",
+            "中継貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-07",
+          "question": "国際競争力が低い製品の輸出を促進するために，国などの財政から支払われる補助金を何というか。",
+          "answer": "輸出補助金",
+          "options": [
+            "輸出補助金",
+            "関税",
+            "輸入課徴金",
+            "セーフガード"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-08",
+          "question": "関税とは異なり，輸入品に対して課せられる徴収金を何というか。",
+          "answer": "輸入課徴金",
+          "options": [
+            "輸入課徴金",
+            "関税",
+            "輸出補助金",
+            "非関税障壁"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-09",
+          "question": "国境を通過する輸出入品に課せられる税金を何というか。",
+          "answer": "関税",
+          "options": [
+            "関税",
+            "輸入課徴金",
+            "輸出補助金",
+            "消費税"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-10",
+          "question": "国際収支のうち，商品の輸出と輸入による収支を何というか。",
+          "answer": "貿易収支",
+          "options": [
+            "貿易収支",
+            "サービス収支",
+            "金融収支",
+            "経常収支"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-11",
+          "question": "見えざる貿易ともいわれる，運輸・保険・観光などのサービスの取引に伴う収支を何というか。",
+          "answer": "サービス収支",
+          "options": [
+            "サービス収支",
+            "貿易収支",
+            "金融収支",
+            "経常収支"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-12",
+          "question": "海外投資や外貨準備など，国際間の金融資金の移動に伴う収支を何というか。",
+          "answer": "金融収支",
+          "options": [
+            "金融収支",
+            "貿易収支",
+            "サービス収支",
+            "経常収支"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-13",
+          "question": "1944年にブレトン＝ウッズで調印された，為替相場の安定や経済再建のための融資を行う国際連合の専門機関を何というか。",
+          "answer": "IMF（国際通貨基金）",
+          "options": [
+            "IMF（国際通貨基金）",
+            "GATT",
+            "WTO",
+            "世界銀行"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-14",
+          "question": "関税の引下げや貿易制限の緩和など，自由貿易の拡大を図ろうとする1947年から1994年まで続いた国際協定を何というか。",
+          "answer": "GATT（関税及び貿易に関する一般協定）",
+          "options": [
+            "GATT（関税及び貿易に関する一般協定）",
+            "WTO",
+            "IMF",
+            "UNCTAD"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-15",
+          "question": "IMFとGATTを中心に，外国為替相場の安定と自由な国際貿易の拡大をめざした体制を何というか。",
+          "answer": "ブレトン＝ウッズ体制（IMF＝GATT体制）",
+          "options": [
+            "ブレトン＝ウッズ体制（IMF＝GATT体制）",
+            "シカゴ体制",
+            "ワシントン体制",
+            "ヤルタ体制"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-16",
+          "question": "農産物の例外なき関税化やサービス貿易などについて協議し，1993年に合意されたGATTの多角的貿易交渉を何というか。",
+          "answer": "ウルグアイ＝ラウンド",
+          "options": [
+            "ウルグアイ＝ラウンド",
+            "ドーハ＝ラウンド",
+            "東京ラウンド",
+            "ケネディ＝ラウンド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-17",
+          "question": "ウルグアイ＝ラウンドで合意された，農産物の貿易自由化促進のための最低輸入義務量を何というか。",
+          "answer": "ミニマムアクセス",
+          "options": [
+            "ミニマムアクセス",
+            "セーフガード",
+            "関税割当",
+            "ダンピング"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-18",
+          "question": "ウルグアイ＝ラウンドの合意によりGATTを発展的に解消させ，1995年に発足した機関を何というか。",
+          "answer": "WTO（世界貿易機関）",
+          "options": [
+            "WTO（世界貿易機関）",
+            "GATT",
+            "IMF",
+            "UNCTAD"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-19",
+          "question": "貿易収支の不均衡や保護貿易政策などをめぐり生じる対立を何というか。",
+          "answer": "貿易摩擦",
+          "options": [
+            "貿易摩擦",
+            "貿易戦争",
+            "経済制裁",
+            "ダンピング"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-20",
+          "question": "輸入に際して関税以外にとられる，輸入を制限することにつながる様々な手段や制度を何というか。",
+          "answer": "非関税障壁",
+          "options": [
+            "非関税障壁",
+            "関税",
+            "セーフガード",
+            "輸入課徴金"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-21",
+          "question": "輸入品が急増し自国の産業が重大な被害を受ける恐れのある場合，その品目の輸入を禁止・制限できる措置を何というか。",
+          "answer": "セーフガード（緊急輸入制限）",
+          "options": [
+            "セーフガード（緊急輸入制限）",
+            "非関税障壁",
+            "関税",
+            "ダンピング"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-22",
+          "question": "関税や数量制限などの障壁を取り除く自由貿易地域の結成を目的として締結された国際協定を何というか。",
+          "answer": "FTA（自由貿易協定）",
+          "options": [
+            "FTA（自由貿易協定）",
+            "EPA",
+            "TPP",
+            "WTO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-23",
+          "question": "関税撤廃だけでなく，サービス・投資・知的財産権など様々な分野での連携を強化する国際協定を何というか。",
+          "answer": "EPA（経済連携協定）",
+          "options": [
+            "EPA（経済連携協定）",
+            "FTA",
+            "TPP",
+            "WTO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-24",
+          "question": "太平洋を取り囲む国々が参加し，関税撤廃や非関税障壁の撤廃をめざす経済連携協定を何というか。",
+          "answer": "TPP（環太平洋パートナーシップ協定）",
+          "options": [
+            "TPP（環太平洋パートナーシップ協定）",
+            "FTA",
+            "EPA",
+            "RCEP"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-25",
+          "question": "発展途上国の貿易および開発などの南北問題を検討するために設置された国際連合の常設機関を何というか。",
+          "answer": "UNCTAD（国連貿易開発会議）",
+          "options": [
+            "UNCTAD（国連貿易開発会議）",
+            "WTO",
+            "IMF",
+            "世界銀行"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-26",
+          "question": "農畜産物・水産物・鉱産物などのように，工業製品として加工されていない産物を何というか。",
+          "answer": "一次産品",
+          "options": [
+            "一次産品",
+            "二次産品",
+            "原材料",
+            "天然資源"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-27",
+          "question": "特定の一次産品の生産や輸出に占める割合が極端に高い経済構造を何というか。",
+          "answer": "モノカルチャー経済",
+          "options": [
+            "モノカルチャー経済",
+            "プランテーション経済",
+            "輸出志向型経済",
+            "自給自足経済"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-28",
+          "question": "発展途上国の農産物や伝統的な製品を公正な価格で購入し，経済的・社会的自立を支援する貿易を何というか。",
+          "answer": "フェアトレード",
+          "options": [
+            "フェアトレード",
+            "自由貿易",
+            "保護貿易",
+            "管理貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-29",
+          "question": "世界各地に現地法人を設立して，生産販売活動を世界的な規模で行う大企業を何というか。",
+          "answer": "多国籍企業（グローバル企業）",
+          "options": [
+            "多国籍企業（グローバル企業）",
+            "中小企業",
+            "国営企業",
+            "公益企業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-30",
+          "question": "先進工業国が発展途上国に資本や技術を提供し，資源を開発して輸入する方式を何というか。",
+          "answer": "開発輸入",
+          "options": [
+            "開発輸入",
+            "加工貿易",
+            "中継貿易",
+            "技術移転"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-31",
+          "question": "税制上の優遇措置が与えられ，海外企業が税を回避するために進出する地域を何というか。",
+          "answer": "タックス＝ヘイブン",
+          "options": [
+            "タックス＝ヘイブン",
+            "経済特区",
+            "自由貿易地域",
+            "保税地域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-32",
+          "question": "船舶税の安い外国に船籍をおく船舶を何というか。",
+          "answer": "便宜置籍船",
+          "options": [
+            "便宜置籍船",
+            "自国籍船",
+            "チャーター船",
+            "コンテナ船"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-33",
+          "question": "発展途上国などで，外国から借りた資本が巨額になり返済が困難となる問題を何というか。",
+          "answer": "累積債務問題",
+          "options": [
+            "累積債務問題",
+            "財政赤字",
+            "貿易摩擦",
+            "通貨危機"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C2-S1-34",
+          "question": "1997年にタイの変動相場制移行をきっかけに周辺諸国に波及した金融危機を何というか。",
+          "answer": "アジア通貨危機",
+          "options": [
+            "アジア通貨危機",
+            "リーマンショック",
+            "世界金融危機",
+            "累積債務問題"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 1,
+    "title": "人間と環境"
+  },
+  "chapter": {
+    "number": 5,
+    "title": "自然災害と防災"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "地震・津波災害",
+      "questions": [
+        {
+          "id": "P1-C5-S1-01",
+          "question": "非日常的な自然現象によって発生する災害を何というか。",
+          "answer": "自然災害",
+          "options": [
+            "自然災害",
+            "気象災害",
+            "地震災害",
+            "人的災害"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-02",
+          "question": "地殻内部の岩石が破壊され，その衝撃が波動となって大地を振動させる現象を何というか。",
+          "answer": "地震",
+          "options": [
+            "地震",
+            "津波",
+            "噴火",
+            "断層"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-03",
+          "question": "第四紀に活動したことがあり，今後も活動する可能性があると考えられている断層を何というか。",
+          "answer": "活断層",
+          "options": [
+            "活断層",
+            "正断層",
+            "逆断層",
+            "横ずれ断層"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-04",
+          "question": "地表付近で発生する浅発性地震を何というか。規模が小さいにもかかわらず，都市部などに大きな被害を与える。",
+          "answer": "直下型地震（内陸型地震）",
+          "options": [
+            "直下型地震（内陸型地震）",
+            "海溝型地震",
+            "火山性地震",
+            "深発地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-05",
+          "question": "海溝の陸側の海底を震源とする地震を何というか。大陸プレートとその下に沈み込む海洋プレートとの間で岩盤が破壊されて発生する。",
+          "answer": "海溝型地震",
+          "options": [
+            "海溝型地震",
+            "直下型地震",
+            "火山性地震",
+            "浅発地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-06",
+          "question": "ある地点における地震による地面の揺れの程度を表わす指標を何というか。",
+          "answer": "震度",
+          "options": [
+            "震度",
+            "マグニチュード",
+            "震源",
+            "震央"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-07",
+          "question": "地震のエネルギーの大きさを表わす指標を何というか。",
+          "answer": "マグニチュード",
+          "options": [
+            "マグニチュード",
+            "震度",
+            "震源",
+            "震央"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-08",
+          "question": "地震動により地盤が流動化して地表に陥没や噴砂を生じ，建造物に大きな被害を与える現象を何というか。",
+          "answer": "液状化現象",
+          "options": [
+            "液状化現象",
+            "地盤沈下",
+            "地すべり",
+            "土石流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-09",
+          "question": "海底地震や海底火山の噴火，地滑りなどに伴って生じる高波を何というか。",
+          "answer": "津波",
+          "options": [
+            "津波",
+            "高潮",
+            "暴風波",
+            "洪水"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-10",
+          "question": "1896（明治29）年6月15日に発生し，三陸地方を中心に津波による多くの犠牲者が生じた地震を何というか。",
+          "answer": "明治三陸地震",
+          "options": [
+            "明治三陸地震",
+            "昭和三陸地震",
+            "関東大震災",
+            "東日本大震災"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-11",
+          "question": "1923（大正12）年9月1日に発生した大正関東地震による地震災害を何というか。",
+          "answer": "関東大震災",
+          "options": [
+            "関東大震災",
+            "明治三陸地震",
+            "阪神・淡路大震災",
+            "東日本大震災"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-12",
+          "question": "1933（昭和8）年3月3日の深夜に発生し，三陸地方を中心に津波による多くの犠牲者が生じた地震を何というか。",
+          "answer": "昭和三陸地震",
+          "options": [
+            "昭和三陸地震",
+            "明治三陸地震",
+            "関東大震災",
+            "チリ地震津波"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-13",
+          "question": "1960年にチリ沖で発生したマグニチュード9.5の巨大地震による津波が太平洋をこえて日本を襲い多くの犠牲者をだした。この津波を何というか。",
+          "answer": "チリ地震津波",
+          "options": [
+            "チリ地震津波",
+            "インド洋大津波",
+            "明治三陸地震",
+            "昭和三陸地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-14",
+          "question": "1995（平成7）年1月17日の未明に発生し，神戸市を中心に大きな被害を与えた地震を何というか。",
+          "answer": "兵庫県南部地震（阪神・淡路大震災）",
+          "options": [
+            "兵庫県南部地震（阪神・淡路大震災）",
+            "関東大震災",
+            "東日本大震災",
+            "熊本地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-15",
+          "question": "2007年7月16日，新潟県沖の日本海海底を震源として発生し，柏崎市などに多大な被害を与えた地震を何というか。",
+          "answer": "中越沖地震",
+          "options": [
+            "中越沖地震",
+            "熊本地震",
+            "兵庫県南部地震",
+            "東日本大震災"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-16",
+          "question": "2004年12月26日に発生した，スマトラ島沖のスンダ海溝を震源とするマグニチュード9.1の地震を何というか。",
+          "answer": "スマトラ沖地震",
+          "options": [
+            "スマトラ沖地震",
+            "チリ地震",
+            "東日本大震災",
+            "兵庫県南部地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-17",
+          "question": "スマトラ沖地震で発生した巨大津波を何というか。30万人をこえる犠牲者をだした。",
+          "answer": "インド洋大津波",
+          "options": [
+            "インド洋大津波",
+            "チリ地震津波",
+            "東日本大震災",
+            "明治三陸地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-18",
+          "question": "2011（平成23）年3月11日に東北地方で発生したマグニチュード9.0の巨大地震を何というか。",
+          "answer": "東北地方太平洋沖地震（東日本大震災）",
+          "options": [
+            "東北地方太平洋沖地震（東日本大震災）",
+            "関東大震災",
+            "阪神・淡路大震災",
+            "熊本地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-19",
+          "question": "2016年4月16日，熊本県で発生したマグニチュード7.3の地震を何というか。",
+          "answer": "熊本地震",
+          "options": [
+            "熊本地震",
+            "中越沖地震",
+            "兵庫県南部地震",
+            "東日本大震災"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-20",
+          "question": "駿河湾から遠州灘にかけての駿河トラフを震源域として，発生が予想される海溝型地震を何というか。",
+          "answer": "東海地震",
+          "options": [
+            "東海地震",
+            "東南海地震",
+            "南海地震",
+            "関東地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-21",
+          "question": "遠州灘から紀伊半島沖の南海トラフを起源として100～150年周期で発生すると予想される海溝型地震を何というか。",
+          "answer": "東南海地震",
+          "options": [
+            "東南海地震",
+            "東海地震",
+            "南海地震",
+            "関東地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S1-22",
+          "question": "紀伊半島沖から四国南方沖にのびる南海トラフを起源とする海溝型地震を何というか。",
+          "answer": "南海地震",
+          "options": [
+            "南海地震",
+            "東南海地震",
+            "東海地震",
+            "関東地震"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "火山災害",
+      "questions": [
+        {
+          "id": "P1-C5-S2-01",
+          "question": "マグマ中の水蒸気や，地下水が熱せられて生じた水蒸気が圧力を増し爆発する噴火活動を何というか。",
+          "answer": "水蒸気噴火",
+          "options": [
+            "水蒸気噴火",
+            "マグマ噴火",
+            "火砕流",
+            "溶岩流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-02",
+          "question": "地下のマグマ溜まりからマグマが上昇して地上に噴出する噴火活動を何というか。",
+          "answer": "マグマ噴火",
+          "options": [
+            "マグマ噴火",
+            "水蒸気噴火",
+            "火砕流",
+            "溶岩流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-03",
+          "question": "火山活動により地表に放出される気体成分を何というか。",
+          "answer": "火山ガス",
+          "options": [
+            "火山ガス",
+            "火山灰",
+            "溶岩",
+            "火砕流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-04",
+          "question": "火山活動により地表に放出される直径2mm以下の細粒を何というか。",
+          "answer": "火山灰",
+          "options": [
+            "火山灰",
+            "火山ガス",
+            "溶岩",
+            "軽石"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-05",
+          "question": "地表に噴出したマグマを何というか。",
+          "answer": "溶岩",
+          "options": [
+            "溶岩",
+            "マグマ",
+            "火山灰",
+            "火砕流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-06",
+          "question": "噴火に際して，高温のガスと火山灰・軽石・火山岩塊などが斜面を高速で流下する現象を何というか。",
+          "answer": "火砕流",
+          "options": [
+            "火砕流",
+            "溶岩流",
+            "火山泥流",
+            "土石流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-07",
+          "question": "火山砕屑物が雨水や雪解け水などと混じって急速に流下する現象を何というか。",
+          "answer": "火山泥流（ラハール）",
+          "options": [
+            "火山泥流（ラハール）",
+            "火砕流",
+            "土石流",
+            "溶岩流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-08",
+          "question": "紀元79年の噴火で古代都市ポンペイを埋没させたイタリア南部の成層火山を何というか。",
+          "answer": "ヴェズヴィオ山",
+          "options": [
+            "ヴェズヴィオ山",
+            "エトナ山",
+            "ピナトゥボ山",
+            "セントヘレンズ山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-09",
+          "question": "1991年6月，20世紀最大級の巨大噴火をおこしたフィリピン，ルソン島の成層火山を何というか。",
+          "answer": "ピナトゥボ山",
+          "options": [
+            "ピナトゥボ山",
+            "ヴェズヴィオ山",
+            "マヨン山",
+            "タール火山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-10",
+          "question": "鹿児島湾北部に位置し，1914年の噴火で大隅半島と陸続きとなった火山島を何というか。",
+          "answer": "桜島",
+          "options": [
+            "桜島",
+            "霧島山",
+            "雲仙普賢岳",
+            "阿蘇山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-11",
+          "question": "鹿児島・宮崎両県にまたがり，新燃岳が噴火を繰り返している火山群を何というか。",
+          "answer": "霧島山",
+          "options": [
+            "霧島山",
+            "桜島",
+            "阿蘇山",
+            "雲仙普賢岳"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-12",
+          "question": "1990年から始まった噴火活動により，溶岩ドームを形成し火砕流による被害をだした長崎県の火山を何というか。",
+          "answer": "雲仙普賢岳",
+          "options": [
+            "雲仙普賢岳",
+            "桜島",
+            "霧島山",
+            "阿蘇山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-13",
+          "question": "2014年9月に水蒸気爆発をおこし，第二次世界大戦後最大の火山災害となった長野・岐阜県境の火山を何というか。",
+          "answer": "御嶽山",
+          "options": [
+            "御嶽山",
+            "浅間山",
+            "箱根山",
+            "磐梯山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-14",
+          "question": "1783（天明3）年の噴火で大規模な泥流が発生し約2,000人の死者をだした長野・群馬県境の活火山を何というか。",
+          "answer": "浅間山",
+          "options": [
+            "浅間山",
+            "御嶽山",
+            "磐梯山",
+            "箱根山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-15",
+          "question": "神奈川県西端に位置し，芦ノ湖や多数の温泉がある複式火山を何というか。",
+          "answer": "箱根山",
+          "options": [
+            "箱根山",
+            "浅間山",
+            "富士山",
+            "伊豆大島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-16",
+          "question": "活火山の三原山がある伊豆諸島最大の島を何というか。1986年の噴火では全島民が避難した。",
+          "answer": "伊豆大島",
+          "options": [
+            "伊豆大島",
+            "三宅島",
+            "八丈島",
+            "小笠原諸島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-17",
+          "question": "活火山の雄山を中心に噴火を繰り返す伊豆諸島の島を何というか。2000年の噴火では全島民が4年5カ月避難した。",
+          "answer": "三宅島",
+          "options": [
+            "三宅島",
+            "伊豆大島",
+            "八丈島",
+            "青ヶ島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-18",
+          "question": "1888年に大規模な水蒸気爆発をおこし山体が崩壊した，福島県猪苗代湖の北にある活火山を何というか。",
+          "answer": "磐梯山",
+          "options": [
+            "磐梯山",
+            "浅間山",
+            "御嶽山",
+            "蔵王山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S2-19",
+          "question": "北海道，洞爺湖の南東に位置し，山麓に昭和新山がある活火山を何というか。",
+          "answer": "有珠山",
+          "options": [
+            "有珠山",
+            "磐梯山",
+            "十勝岳",
+            "大雪山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "気象災害",
+      "questions": [
+        {
+          "id": "P1-C5-S3-01",
+          "question": "大雨，大雪，洪水，干ばつ，冷害，台風，落雷など気象現象に伴って発生する災害を何というか。",
+          "answer": "気象災害",
+          "options": [
+            "気象災害",
+            "自然災害",
+            "地震災害",
+            "土砂災害"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-02",
+          "question": "雨が平年よりも少ないことなどで長期間にわたり水不足状態が続き，農作物に発育不良や枯死が生じる災害を何というか。",
+          "answer": "干ばつ（干害）",
+          "options": [
+            "干ばつ（干害）",
+            "冷害",
+            "水害",
+            "風害"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-03",
+          "question": "農作物の生育期にあたる夏季の異常低温によって，農作物に発育不良や枯死が生じる災害を何というか。",
+          "answer": "冷害",
+          "options": [
+            "冷害",
+            "干ばつ",
+            "霜害",
+            "風害"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-04",
+          "question": "台風や集中豪雨などにより，河川や海水面の水位が上昇することで発生する災害を何というか。",
+          "answer": "水害",
+          "options": [
+            "水害",
+            "洪水",
+            "高潮",
+            "土砂災害"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-05",
+          "question": "狭い地域に短時間で大量に降る雨を何というか。",
+          "answer": "集中豪雨",
+          "options": [
+            "集中豪雨",
+            "暴風雨",
+            "台風",
+            "梅雨前線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-06",
+          "question": "河川の水位が異常に上昇することで河川が氾濫し，周辺の土地が浸水する現象を何というか。",
+          "answer": "洪水",
+          "options": [
+            "洪水",
+            "高潮",
+            "水害",
+            "土石流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-07",
+          "question": "土砂の崩落や流下に伴って発生する災害を何というか。",
+          "answer": "土砂災害",
+          "options": [
+            "土砂災害",
+            "水害",
+            "洪水",
+            "地震災害"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-08",
+          "question": "泥・砂・礫・岩塊などが水と一体となって高速で流下する現象を何というか。",
+          "answer": "土石流",
+          "options": [
+            "土石流",
+            "地すべり",
+            "崖崩れ",
+            "火山泥流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-09",
+          "question": "山腹や斜面を構成する土地の一部が徐々に下方へすべりだす現象を何というか。",
+          "answer": "地すべり",
+          "options": [
+            "地すべり",
+            "土石流",
+            "崖崩れ",
+            "液状化現象"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-10",
+          "question": "集中豪雨などで，都市内部の中小河川の洪水や排水があふれだして生じる災害を何というか。",
+          "answer": "都市型水害",
+          "options": [
+            "都市型水害",
+            "洪水",
+            "水害",
+            "高潮"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S3-11",
+          "question": "台風などの強い低気圧により海面が上昇したり，暴風で海水が海岸に吹き寄せられたりして生じる高波を何というか。",
+          "answer": "高潮",
+          "options": [
+            "高潮",
+            "津波",
+            "洪水",
+            "暴風波"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "気候変動と自然災害",
+      "questions": [
+        {
+          "id": "P1-C5-S4-01",
+          "question": "19世紀半ば以降，地球の平均気温が上昇している現象を何というか。",
+          "answer": "地球温暖化",
+          "options": [
+            "地球温暖化",
+            "ヒートアイランド",
+            "温室効果",
+            "オゾン層破壊"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S4-02",
+          "question": "地球温暖化による海面上昇の理由として，気温上昇に伴う海水温の上昇と，何の融解があげられるか。",
+          "answer": "氷河（大陸氷河）",
+          "options": [
+            "氷河（大陸氷河）",
+            "永久凍土",
+            "海氷",
+            "氷山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S4-03",
+          "question": "海面上昇により水没の危険性がある，インド洋のサンゴ礁の島々からなる国を何というか。",
+          "answer": "モルディブ",
+          "options": [
+            "モルディブ",
+            "ツバル",
+            "キリバス",
+            "マーシャル諸島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S4-04",
+          "question": "海面上昇により水没の危機に直面しているオセアニアの島国を何というか。",
+          "answer": "ツバル",
+          "options": [
+            "ツバル",
+            "モルディブ",
+            "キリバス",
+            "トンガ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S4-05",
+          "question": "土石流・がけ崩れ・地すべりなどの被害から地域住民を守る目的で指定される区域を何というか。",
+          "answer": "土砂災害警戒区域",
+          "options": [
+            "土砂災害警戒区域",
+            "防災区域",
+            "警戒区域",
+            "避難区域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S4-06",
+          "question": "自然災害による被害を予測し，被害範囲や避難場所・避難経路などを地図上に示したものを何というか。",
+          "answer": "ハザードマップ（防災マップ）",
+          "options": [
+            "ハザードマップ（防災マップ）",
+            "防災計画",
+            "避難計画",
+            "リスクマップ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "洪水対策",
+      "questions": [
+        {
+          "id": "P1-C5-S5-01",
+          "question": "武田信玄が甲府盆地の治水対策のために建設したことで知られる，非連続堤防を何というか。",
+          "answer": "かすみ堤",
+          "options": [
+            "かすみ堤",
+            "砂防ダム",
+            "遊水地",
+            "堤防"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S5-02",
+          "question": "土砂災害を防止するために山間部の渓流沿いなどに設置された小規模なダムを何というか。",
+          "answer": "砂防ダム",
+          "options": [
+            "砂防ダム",
+            "かすみ堤",
+            "遊水地",
+            "調整池"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S5-03",
+          "question": "水害を防止するために洪水の水を一時的に貯留する池を何というか。",
+          "answer": "遊水地",
+          "options": [
+            "遊水地",
+            "砂防ダム",
+            "調整池",
+            "貯水池"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C5-S5-04",
+          "question": "大都市の水害を軽減することを目的に洪水の水を一時的に蓄えるため，市街地の地下に建設された貯留施設を何というか。",
+          "answer": "地下調整池",
+          "options": [
+            "地下調整池",
+            "遊水地",
+            "砂防ダム",
+            "貯水池"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

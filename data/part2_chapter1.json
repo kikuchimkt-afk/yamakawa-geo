@@ -1,0 +1,2367 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 2,
+    "title": "資源と産業"
+  },
+  "chapter": {
+    "number": 1,
+    "title": "農牧業"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "農牧業の発達と成立条件",
+      "questions": [
+        {
+          "id": "P2-C1-S1-01",
+          "question": "気温の低下に伴って現われる，高緯度側の耕作限界を何というか。",
+          "answer": "寒冷（極）限界",
+          "options": [
+            "寒冷（極）限界",
+            "乾燥限界",
+            "高度限界",
+            "降水限界"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-02",
+          "question": "降水量の減少に伴って現われる耕作限界を何というか。",
+          "answer": "乾燥限界",
+          "options": [
+            "乾燥限界",
+            "寒冷限界",
+            "高度限界",
+            "降水限界"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-03",
+          "question": "標高が増すにつれて現われる耕作限界を何というか。",
+          "answer": "高度限界",
+          "options": [
+            "高度限界",
+            "寒冷限界",
+            "乾燥限界",
+            "降水限界"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-04",
+          "question": "同じ耕地に同じ作物を繰り返し栽培することを何というか。",
+          "answer": "連作",
+          "options": [
+            "連作",
+            "輪作",
+            "二毛作",
+            "混作"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-05",
+          "question": "ヨーロッパの混合農業のように，同一耕地に異なった農作物を年ごとに一定の順序で循環的に栽培することを何というか。",
+          "answer": "輪作",
+          "options": [
+            "輪作",
+            "連作",
+            "二毛作",
+            "混作"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-06",
+          "question": "生産者の自家消費をたてまえとして行なわれる農業を何というか。",
+          "answer": "自給的農業",
+          "options": [
+            "自給的農業",
+            "商業的農業",
+            "企業的農業",
+            "集約的農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-07",
+          "question": "生産物の販売を目的として行なわれる農業を何というか。",
+          "answer": "商業的（企業的）農業",
+          "options": [
+            "商業的（企業的）農業",
+            "自給的農業",
+            "集約的農業",
+            "粗放的農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-08",
+          "question": "単位面積あたりの土地から得られる生産力の大きさを何というか。",
+          "answer": "土地生産性",
+          "options": [
+            "土地生産性",
+            "労働生産性",
+            "収穫量",
+            "単収"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-09",
+          "question": "単位時間あたりの労力によって得られる生産力の大きさを何というか。",
+          "answer": "労働生産性",
+          "options": [
+            "労働生産性",
+            "土地生産性",
+            "収穫量",
+            "単収"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-10",
+          "question": "単位面積あたりの資本投下・労働力が多く，収穫量や土地利用率が高い農業を何というか。",
+          "answer": "集約的農業",
+          "options": [
+            "集約的農業",
+            "粗放的農業",
+            "企業的農業",
+            "自給的農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-11",
+          "question": "単位面積あたりの資本投下・労働力が少なく，収穫量や土地利用率が低い農業を何というか。",
+          "answer": "粗放的農業",
+          "options": [
+            "粗放的農業",
+            "集約的農業",
+            "自給的農業",
+            "企業的農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-12",
+          "question": "耕作している農地のほとんどが自己の所有地である農家を何というか。",
+          "answer": "自作農",
+          "options": [
+            "自作農",
+            "小作農",
+            "大土地所有制",
+            "農業協同組合"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-13",
+          "question": "耕作している農地の多くを地主から借り，土地の借用料を支払っている農家を何というか。",
+          "answer": "小作農",
+          "options": [
+            "小作農",
+            "自作農",
+            "大土地所有制",
+            "農業協同組合"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-14",
+          "question": "広大な農牧場に多数の雇用労働者を定住させ，責任者の管理のもとに作業させる土地制度を何というか。",
+          "answer": "大土地所有制",
+          "options": [
+            "大土地所有制",
+            "小作農",
+            "自作農",
+            "農業協同組合"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-15",
+          "question": "地主制度などの封建的な土地所有制度を，自作農中心などの近代的な土地所有に変えることを何というか。",
+          "answer": "土地改革（農地改革）",
+          "options": [
+            "土地改革（農地改革）",
+            "大土地所有制",
+            "農業協同組合",
+            "集団農場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S1-16",
+          "question": "農機具や肥料などの共同購入，農産物などの共同出荷・販売，金融や教育などの事業を行なう農家の共同組織を何というか。",
+          "answer": "農業協同組合",
+          "options": [
+            "農業協同組合",
+            "土地改革",
+            "大土地所有制",
+            "集団農場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "主要農畜産物",
+      "questions": [
+        {
+          "id": "P2-C1-S2-01",
+          "question": "インドのアッサムから中国のユンナン（雲南）を結ぶ地方の原産と考えられ，アジアの主要食料は何か。",
+          "answer": "米（稲）",
+          "options": [
+            "米（稲）",
+            "小麦",
+            "トウモロコシ",
+            "大豆"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-02",
+          "question": "インドや東南アジア・中国南部などで栽培される殻型が細長く，粘り気が少ない米を何というか。",
+          "answer": "インディカ種",
+          "options": [
+            "インディカ種",
+            "ジャポニカ種",
+            "陸稲",
+            "浮き稲"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-03",
+          "question": "日本や朝鮮・中国北部などで栽培される殻型が丸く，粘り気が多い米を何というか。",
+          "answer": "ジャポニカ種",
+          "options": [
+            "ジャポニカ種",
+            "インディカ種",
+            "陸稲",
+            "浮き稲"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-04",
+          "question": "焼畑地域などにみられる，畑に直播きする稲を何というか。",
+          "answer": "陸稲",
+          "options": [
+            "陸稲",
+            "水稲",
+            "浮き稲",
+            "インディカ種"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-05",
+          "question": "陸稲に対し，水田で栽培される稲を何というか。",
+          "answer": "水稲",
+          "options": [
+            "水稲",
+            "陸稲",
+            "浮き稲",
+            "ジャポニカ種"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-06",
+          "question": "減水期に直播きされ，水位が上昇するとともに茎が数mの長さに成長する，東南アジアの低湿地などにみられる稲は何か。",
+          "answer": "浮き稲",
+          "options": [
+            "浮き稲",
+            "陸稲",
+            "水稲",
+            "インディカ種"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-07",
+          "question": "冷涼・乾燥を好む西アジアあるいはカフカス地方を原産地とする穀物で，現在世界で最も広く食料として消費されている作物は何か。",
+          "answer": "小麦",
+          "options": [
+            "小麦",
+            "米",
+            "トウモロコシ",
+            "ライ麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-08",
+          "question": "春に種を播き，秋に収穫する高緯度地方で栽培される小麦を何というか。",
+          "answer": "春小麦",
+          "options": [
+            "春小麦",
+            "冬小麦",
+            "硬質小麦",
+            "軟質小麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-09",
+          "question": "秋から初冬にかけて種を播き，初夏から夏にかけて収穫する温暖な地方で栽培される小麦を何というか。",
+          "answer": "冬小麦",
+          "options": [
+            "冬小麦",
+            "春小麦",
+            "硬質小麦",
+            "軟質小麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-10",
+          "question": "世界各地の小麦の収穫時期を月別に図示し，生産地の収穫期が一目で分かるように示した表を何というか。",
+          "answer": "小麦カレンダー",
+          "options": [
+            "小麦カレンダー",
+            "農事暦",
+            "作付暦",
+            "収穫表"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-11",
+          "question": "耐寒性が強く，砂質土壌を好む麦類の一種で，黒パンの原料となるほか，ウォッカの原料にもなる穀物は何か。",
+          "answer": "ライ麦",
+          "options": [
+            "ライ麦",
+            "大麦",
+            "オート麦",
+            "小麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-12",
+          "question": "耐寒性が強くやせた土地でも育つ麦類で，ビールやウイスキーの原料として知られる穀物は何か。",
+          "answer": "大麦",
+          "options": [
+            "大麦",
+            "ライ麦",
+            "オート麦",
+            "小麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-13",
+          "question": "中央アメリカ原産で，飼料や食料として広く利用される穀物は何か。アメリカ合衆国・中国・ブラジルが主要生産国である。",
+          "answer": "トウモロコシ",
+          "options": [
+            "トウモロコシ",
+            "小麦",
+            "米",
+            "ソルガム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-14",
+          "question": "熱帯・亜熱帯の乾燥に強い穀物で，アフリカ原産の雑穀は何か。",
+          "answer": "ソルガム（モロコシ）",
+          "options": [
+            "ソルガム（モロコシ）",
+            "ヒエ",
+            "アワ",
+            "トウモロコシ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-15",
+          "question": "アフリカや南アジアで食料として広く栽培されている雑穀を何というか。",
+          "answer": "ヒエ・アワ・キビ",
+          "options": [
+            "ヒエ・アワ・キビ",
+            "ソルガム",
+            "トウモロコシ",
+            "ライ麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-16",
+          "question": "アメリカ大陸原産の油脂含量の高いマメ科の作物で，その搾り粕を肥料や飼料として用い，アメリカ合衆国などでは飼料として利用するものは何か。",
+          "answer": "大豆",
+          "options": [
+            "大豆",
+            "落花生",
+            "菜種",
+            "ヒマワリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-17",
+          "question": "成長期に高温と湿潤，収穫期には乾燥を必要とする南アメリカ原産のマメ科の作物で，中国・インド・ナイジェリア・アメリカ合衆国での生産が多く，油脂原料や食用に用いられるものは何か。",
+          "answer": "落花生",
+          "options": [
+            "落花生",
+            "大豆",
+            "菜種",
+            "ゴマ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-18",
+          "question": "冷涼な気候を好む中央・南アメリカ原産のいも類で，食用のほか家畜の飼料やアルコール原料となるものは何か。",
+          "answer": "じゃがいも（ばれいしょ）",
+          "options": [
+            "じゃがいも（ばれいしょ）",
+            "さつまいも",
+            "キャッサバ",
+            "タロいも"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-19",
+          "question": "温暖な気候を好む中央アメリカ原産のいも類で，中国が最大の生産地であり，日本では鹿児島県に生産が多い作物は何か。",
+          "answer": "さつまいも（かんしょ）",
+          "options": [
+            "さつまいも（かんしょ）",
+            "じゃがいも",
+            "キャッサバ",
+            "ヤムいも"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-20a",
+          "question": "ブラジル原産の熱帯作物で，その根茎からタピオカと呼ばれる澱粉質の粉が得られるいも類は何か。",
+          "answer": "キャッサバ（マニオク）",
+          "options": [
+            "キャッサバ（マニオク）",
+            "タロいも",
+            "ヤムいも",
+            "さつまいも"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-20b",
+          "question": "東南アジアが原産と推定され，日本のさといもに似たいも類で，オセアニアの島々や熱帯アフリカの住民の主食となっているものは何か。",
+          "answer": "タロいも",
+          "options": [
+            "タロいも",
+            "ヤムいも",
+            "キャッサバ",
+            "さつまいも"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-20c",
+          "question": "東南アジアが原産と推定され，日本のやまいもに似たいも類で，オセアニアの島々・東インド諸島・熱帯アフリカで栽培されるものは何か。",
+          "answer": "ヤムいも",
+          "options": [
+            "ヤムいも",
+            "タロいも",
+            "キャッサバ",
+            "さつまいも"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-21",
+          "question": "綿花やさとうきびなど，工業原料にするために栽培される作物を総称して何というか。",
+          "answer": "工芸作物",
+          "options": [
+            "工芸作物",
+            "食用作物",
+            "飼料作物",
+            "園芸作物"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-22",
+          "question": "熱帯雨林気候を好み，アマゾン盆地を原産地とする，樹液を利用する工芸作物で，生産量の多くが東南アジアによって占められている作物は何か。",
+          "answer": "天然ゴム",
+          "options": [
+            "天然ゴム",
+            "綿花",
+            "ジュート",
+            "コーヒー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-23",
+          "question": "成育期には高温多湿，収穫期には乾燥する気候に適し，排水のよい肥沃な砂質土壌を好み，天然繊維の中では最大の生産量を示す工芸作物は何か。",
+          "answer": "綿花",
+          "options": [
+            "綿花",
+            "天然ゴム",
+            "ジュート",
+            "麻"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-24",
+          "question": "インド原産のシナノキ科の草の茎からとり，その繊維からつくった袋は穀物や砂糖を入れるために用いられる，ガンジスデルタを主産地とする麻は何か。",
+          "answer": "ジュート（黄麻）",
+          "options": [
+            "ジュート（黄麻）",
+            "綿花",
+            "天然ゴム",
+            "マニラ麻"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-25",
+          "question": "温帯地方を中心に生育する落葉高木で，その葉が蚕の餌となる樹木は何か。",
+          "answer": "桑",
+          "options": [
+            "桑",
+            "茶",
+            "コーヒー",
+            "カカオ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-26a",
+          "question": "西アフリカを原産地とするヤシの1種で，実は食用のほか，石けんやろうそくの原料となる樹木は何か。",
+          "answer": "油やし",
+          "options": [
+            "油やし",
+            "ココやし",
+            "なつめやし",
+            "オリーブ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-26b",
+          "question": "上記aの樹木の実からとれるやし油を何というか。",
+          "answer": "パーム油",
+          "options": [
+            "パーム油",
+            "コプラ",
+            "オリーブ油",
+            "やし油"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-27a",
+          "question": "熱帯アジアを原産地とするヤシの1種で，繊維はロープの原料になり，実からは油脂原料がとれる樹木は何か。",
+          "answer": "ココやし",
+          "options": [
+            "ココやし",
+            "油やし",
+            "なつめやし",
+            "オリーブ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-27b",
+          "question": "上記aの実からとれる油脂原料を何というか。",
+          "answer": "コプラ",
+          "options": [
+            "コプラ",
+            "パーム油",
+            "やし油",
+            "オリーブ油"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-28a",
+          "question": "乾燥気候を好み，イラクまたは地中海沿岸のオアシスを原産地とするヤシの1種で，実を食用とするほか，菓子やシロップの原料となる樹木は何か。",
+          "answer": "なつめやし",
+          "options": [
+            "なつめやし",
+            "油やし",
+            "ココやし",
+            "オリーブ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-28b",
+          "question": "上記aの実を何というか。",
+          "answer": "デーツ",
+          "options": [
+            "デーツ",
+            "コプラ",
+            "パーム油",
+            "干しぶどう"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-29a",
+          "question": "ヨーロッパのアジア進出の動機となった肉スパイスやクローブなどが得られる諸島はどこか。",
+          "answer": "マルク（モルッカ）諸島",
+          "options": [
+            "マルク（モルッカ）諸島",
+            "ザンジバル島",
+            "セイロン島",
+            "スマトラ島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-29b",
+          "question": "東南アジア以外の丁字の生産地として有名なタンザニアの小島はどこか。",
+          "answer": "ザンジバル島",
+          "options": [
+            "ザンジバル島",
+            "マルク諸島",
+            "マダガスカル島",
+            "セイロン島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-30",
+          "question": "冷涼乾燥な気候に適する根菜類で，砂糖の原料となるほか，茎やしぼりかすが飼料として利用される作物は何か。",
+          "answer": "てんさい",
+          "options": [
+            "てんさい",
+            "さとうきび",
+            "綿花",
+            "大豆"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-31",
+          "question": "高温多雨な気候を好む熱帯・亜熱帯原産の作物で，砂糖の主要原料となるものは何か。",
+          "answer": "さとうきび",
+          "options": [
+            "さとうきび",
+            "てんさい",
+            "綿花",
+            "天然ゴム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-32",
+          "question": "エチオピア原産で，酸性の肥沃な土壌を好む熱帯高地の作物は何か。ブラジル・ベトナム・コロンビアが主要生産国である。",
+          "answer": "コーヒー",
+          "options": [
+            "コーヒー",
+            "茶",
+            "カカオ",
+            "天然ゴム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-33",
+          "question": "中国南部からインド北東部を原産地とし，温帯から熱帯にかけて広く栽培され，中国・インド・ケニア・スリランカが主要生産国である作物は何か。",
+          "answer": "茶",
+          "options": [
+            "茶",
+            "コーヒー",
+            "カカオ",
+            "天然ゴム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-34",
+          "question": "中央アメリカ原産の熱帯作物で，西アフリカのギニア湾沿岸諸国が主要生産地である嗜好作物は何か。",
+          "answer": "カカオ",
+          "options": [
+            "カカオ",
+            "コーヒー",
+            "茶",
+            "バニラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-35",
+          "question": "東南アジアの赤道付近に位置する世界有数の天然ゴム・パーム油の生産国はどこか。",
+          "answer": "マレーシア",
+          "options": [
+            "マレーシア",
+            "インドネシア",
+            "タイ",
+            "ベトナム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-36",
+          "question": "家畜の中で最も飼育頭数が多い動物は何か。",
+          "answer": "牛",
+          "options": [
+            "牛",
+            "豚",
+            "羊",
+            "鶏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-37",
+          "question": "ヒンドゥー教では神聖な動物として食用にしない家畜は何か。",
+          "answer": "牛",
+          "options": [
+            "牛",
+            "豚",
+            "羊",
+            "鶏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-38",
+          "question": "イスラームでは不浄な動物として飼育しない家畜は何か。",
+          "answer": "豚",
+          "options": [
+            "豚",
+            "牛",
+            "羊",
+            "馬"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-39",
+          "question": "乾燥地域や山岳地域で飼育され，毛・肉・乳が利用される家畜は何か。",
+          "answer": "羊",
+          "options": [
+            "羊",
+            "山羊",
+            "牛",
+            "馬"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-40",
+          "question": "乾燥地域での砂漠の運搬手段として「砂漠の舟」と呼ばれる家畜は何か。",
+          "answer": "ラクダ",
+          "options": [
+            "ラクダ",
+            "馬",
+            "ロバ",
+            "牛"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-41",
+          "question": "チベットやモンゴルの高地で飼育される，長い毛をもつ牛の一種は何か。",
+          "answer": "ヤク",
+          "options": [
+            "ヤク",
+            "ラクダ",
+            "水牛",
+            "トナカイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-42",
+          "question": "南アメリカのアンデス地方で飼育され，荷物の運搬や毛の利用に使われるラクダ科の家畜は何か。",
+          "answer": "リャマ（ラマ）・アルパカ",
+          "options": [
+            "リャマ（ラマ）・アルパカ",
+            "ヤク",
+            "ラクダ",
+            "トナカイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-43",
+          "question": "北極圏のツンドラ地帯で遊牧民が飼育する家畜は何か。",
+          "answer": "トナカイ",
+          "options": [
+            "トナカイ",
+            "ヤク",
+            "ラクダ",
+            "リャマ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-44",
+          "question": "東南アジアや南アジアの水田農業で使役用に広く利用される家畜は何か。",
+          "answer": "水牛",
+          "options": [
+            "水牛",
+            "牛",
+            "馬",
+            "ヤク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S2-45",
+          "question": "地中海沿岸地域を原産地とし，果実からは良質の食用油がとれる常緑樹は何か。",
+          "answer": "オリーブ",
+          "options": [
+            "オリーブ",
+            "油やし",
+            "ココやし",
+            "なつめやし"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "農牧業地域の諸形態",
+      "questions": [
+        {
+          "id": "P2-C1-S3-01",
+          "question": "アメリカの地理学者ホイットルセーは世界の農牧業をいくつの形態に区分したか。",
+          "answer": "13形態",
+          "options": [
+            "13形態",
+            "10形態",
+            "15形態",
+            "8形態"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-02",
+          "question": "乾燥地帯やツンドラ地帯で，牧草を求めて家畜とともに移動する牧畜を何というか。",
+          "answer": "遊牧",
+          "options": [
+            "遊牧",
+            "放牧",
+            "企業的牧畜",
+            "移牧"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-03",
+          "question": "熱帯の森林地帯で行われる，森林を焼き払って灰を肥料にし耕作する農業を何というか。",
+          "answer": "焼畑農業",
+          "options": [
+            "焼畑農業",
+            "遊牧",
+            "自給的農業",
+            "プランテーション"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-04",
+          "question": "熱帯・亜熱帯地域で，輸出向けの単一作物を大規模に栽培する農業形態を何というか。",
+          "answer": "プランテーション農業",
+          "options": [
+            "プランテーション農業",
+            "企業的穀物栽培",
+            "混合農業",
+            "焼畑農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-05",
+          "question": "家畜の飼育と作物の栽培を組み合わせた農業を何というか。ヨーロッパで発達した。",
+          "answer": "混合農業",
+          "options": [
+            "混合農業",
+            "酪農",
+            "園芸農業",
+            "地中海式農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-06",
+          "question": "主に乳牛を飼育し，牛乳・バター・チーズなどの乳製品を生産する農業を何というか。",
+          "answer": "酪農",
+          "options": [
+            "酪農",
+            "混合農業",
+            "企業的牧畜",
+            "放牧"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-07",
+          "question": "都市近郊で，野菜・果物・花卉などを集約的に栽培する農業を何というか。",
+          "answer": "園芸農業",
+          "options": [
+            "園芸農業",
+            "近郊農業",
+            "混合農業",
+            "地中海式農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-08",
+          "question": "冬に小麦・大麦などの穀物を栽培し，夏にオリーブ・ぶどう・柑橘類を栽培する農業を何というか。",
+          "answer": "地中海式農業",
+          "options": [
+            "地中海式農業",
+            "混合農業",
+            "園芸農業",
+            "酪農"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-09",
+          "question": "広大な土地で大型機械を使い，小麦やトウモロコシなどを大規模に栽培する農業を何というか。",
+          "answer": "企業的穀物栽培",
+          "options": [
+            "企業的穀物栽培",
+            "プランテーション",
+            "混合農業",
+            "自給的農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-10",
+          "question": "広大な放牧地で肉牛や羊を大規模に飼育する畜産業を何というか。",
+          "answer": "企業的牧畜",
+          "options": [
+            "企業的牧畜",
+            "遊牧",
+            "酪農",
+            "放牧"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-11",
+          "question": "アジアの人口稠密地域でみられる，集約的な稲作農業を何というか。",
+          "answer": "アジア式稲作農業",
+          "options": [
+            "アジア式稲作農業",
+            "アジア式畑作農業",
+            "プランテーション",
+            "焼畑農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-12",
+          "question": "アジアの乾燥地域や冷涼地域でみられる，小麦・雑穀などの畑作中心の農業を何というか。",
+          "answer": "アジア式畑作農業",
+          "options": [
+            "アジア式畑作農業",
+            "アジア式稲作農業",
+            "混合農業",
+            "企業的穀物栽培"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S3-13",
+          "question": "季節によって家畜を高地と低地の間で移動させる牧畜を何というか。",
+          "answer": "移牧",
+          "options": [
+            "移牧",
+            "遊牧",
+            "放牧",
+            "企業的牧畜"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "アジアの農牧業",
+      "questions": [
+        {
+          "id": "P2-C1-S4-01",
+          "question": "中国東北部からアムール川流域にかけて広がる肥沃な黒色土壌地帯で栽培される主要作物は何か。",
+          "answer": "大豆・春小麦・トウモロコシ",
+          "options": [
+            "大豆・春小麦・トウモロコシ",
+            "米・綿花",
+            "茶・桑",
+            "さとうきび・バナナ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-02",
+          "question": "中国の稲作の中心地域で，長江流域を中心とする地域を何というか。",
+          "answer": "華中",
+          "options": [
+            "華中",
+            "華北",
+            "華南",
+            "東北"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-03",
+          "question": "中国の華北地方の主要作物は何か。",
+          "answer": "小麦・トウモロコシ・綿花",
+          "options": [
+            "小麦・トウモロコシ・綿花",
+            "米・茶",
+            "大豆・そば",
+            "さとうきび"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-04",
+          "question": "タイやベトナムなどの東南アジア諸国で主要な輸出農産物は何か。",
+          "answer": "米",
+          "options": [
+            "米",
+            "天然ゴム",
+            "パーム油",
+            "コーヒー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-05",
+          "question": "インドの主要な商品作物である，デカン高原の黒色土（レグール）で栽培される作物は何か。",
+          "answer": "綿花",
+          "options": [
+            "綿花",
+            "茶",
+            "米",
+            "小麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-06",
+          "question": "インドのアッサム地方やスリランカで盛んに栽培されている嗜好作物は何か。",
+          "answer": "茶",
+          "options": [
+            "茶",
+            "コーヒー",
+            "カカオ",
+            "スパイス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-07",
+          "question": "パンジャーブ地方を中心に，インドの穀倉地帯として小麦やコメの生産量が飛躍的に増大した技術革新を何というか。",
+          "answer": "緑の革命",
+          "options": [
+            "緑の革命",
+            "白い革命",
+            "青い革命",
+            "産業革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-08",
+          "question": "インドで牛乳の生産を増大させた運動を何というか。",
+          "answer": "白い革命",
+          "options": [
+            "白い革命",
+            "緑の革命",
+            "青い革命",
+            "産業革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-09",
+          "question": "西アジアの乾燥地域で，灌漑によって行われる農業の中心となるオアシスでは何が栽培されるか。",
+          "answer": "なつめやし・小麦・綿花",
+          "options": [
+            "なつめやし・小麦・綿花",
+            "米・大豆",
+            "コーヒー・カカオ",
+            "さとうきび・バナナ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S4-10",
+          "question": "東南アジアで植民地時代から続く，天然ゴム・パーム油・コーヒーなどの輸出向け大規模農園を何というか。",
+          "answer": "プランテーション",
+          "options": [
+            "プランテーション",
+            "混合農業",
+            "焼畑",
+            "アグロフォレストリー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "アフリカの農牧業",
+      "questions": [
+        {
+          "id": "P2-C1-S5-01",
+          "question": "サハラ以南のアフリカで広く行われている伝統的農業は何か。",
+          "answer": "焼畑農業",
+          "options": [
+            "焼畑農業",
+            "プランテーション",
+            "混合農業",
+            "遊牧"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S5-02",
+          "question": "ギニア湾沿岸の西アフリカ諸国で主要な輸出作物は何か。",
+          "answer": "カカオ",
+          "options": [
+            "カカオ",
+            "コーヒー",
+            "綿花",
+            "茶"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S5-03",
+          "question": "コートジボワールやガーナなどの主要輸出品であるカカオの栽培方式を何というか。",
+          "answer": "プランテーション",
+          "options": [
+            "プランテーション",
+            "焼畑",
+            "混合農業",
+            "アグロフォレストリー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S5-04",
+          "question": "ケニアやタンザニアの高原地帯で栽培されている嗜好作物は何か。",
+          "answer": "コーヒー・茶",
+          "options": [
+            "コーヒー・茶",
+            "カカオ",
+            "綿花",
+            "天然ゴム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S5-05",
+          "question": "エチオピアが原産地であり，世界的に広く普及した嗜好飲料の原料は何か。",
+          "answer": "コーヒー",
+          "options": [
+            "コーヒー",
+            "茶",
+            "カカオ",
+            "スパイス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S5-06",
+          "question": "サヘル地域で問題となっている，過放牧や過耕作による土地の荒廃を何というか。",
+          "answer": "砂漠化",
+          "options": [
+            "砂漠化",
+            "森林破壊",
+            "土壌侵食",
+            "塩害"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S5-07",
+          "question": "南アフリカ共和国の主要な農産物は何か。",
+          "answer": "トウモロコシ・小麦・果物・ワイン",
+          "options": [
+            "トウモロコシ・小麦・果物・ワイン",
+            "カカオ・コーヒー",
+            "米・大豆",
+            "綿花・茶"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S5-08",
+          "question": "ナイル川流域のエジプトで古くから栽培されてきた主要輸出作物は何か。",
+          "answer": "綿花",
+          "options": [
+            "綿花",
+            "米",
+            "小麦",
+            "さとうきび"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "ヨーロッパの農牧業",
+      "questions": [
+        {
+          "id": "P2-C1-S6-01",
+          "question": "西ヨーロッパの温帯地域で発達した，作物栽培と家畜飼育を組み合わせた農業を何というか。",
+          "answer": "混合農業",
+          "options": [
+            "混合農業",
+            "酪農",
+            "地中海式農業",
+            "園芸農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S6-02",
+          "question": "デンマーク・オランダなどの北海沿岸地域で盛んな，乳牛の飼育を中心とした農業を何というか。",
+          "answer": "酪農",
+          "options": [
+            "酪農",
+            "混合農業",
+            "園芸農業",
+            "企業的牧畜"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S6-03",
+          "question": "オランダが世界的に有名な園芸農業の産品は何か。",
+          "answer": "チューリップ（花卉）",
+          "options": [
+            "チューリップ（花卉）",
+            "ワイン",
+            "オリーブ",
+            "チーズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S6-04",
+          "question": "地中海沿岸地域で行われる，夏にオリーブ・ぶどう・柑橘類を栽培し，冬に小麦を栽培する農業を何というか。",
+          "answer": "地中海式農業",
+          "options": [
+            "地中海式農業",
+            "混合農業",
+            "酪農",
+            "園芸農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S6-05",
+          "question": "フランス・イタリア・スペインなどで盛んな，ぶどうから作られる飲料は何か。",
+          "answer": "ワイン",
+          "options": [
+            "ワイン",
+            "ビール",
+            "ウイスキー",
+            "ウォッカ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S6-06",
+          "question": "EUの共通農業政策を何というか。",
+          "answer": "CAP（共通農業政策）",
+          "options": [
+            "CAP（共通農業政策）",
+            "GATT",
+            "WTO",
+            "FTA"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S6-07",
+          "question": "イギリスで18世紀に確立された，カブ・大麦・クローバー・小麦を4年周期で輪作する方式を何というか。",
+          "answer": "ノーフォーク農法",
+          "options": [
+            "ノーフォーク農法",
+            "三圃式農業",
+            "二圃式農業",
+            "プランテーション"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S6-08",
+          "question": "中世ヨーロッパで行われていた，耕地を3つに分け，冬穀・夏穀・休閑地を輪作する方式を何というか。",
+          "answer": "三圃式農業",
+          "options": [
+            "三圃式農業",
+            "ノーフォーク農法",
+            "二圃式農業",
+            "混合農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "旧ソ連諸国の農牧業",
+      "questions": [
+        {
+          "id": "P2-C1-S7-01",
+          "question": "ソ連時代に国有農場として運営されていた大規模農場を何というか。",
+          "answer": "ソフホーズ",
+          "options": [
+            "ソフホーズ",
+            "コルホーズ",
+            "ダーチャ",
+            "集団農場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S7-02",
+          "question": "ソ連時代に農民による集団農場として運営されていた組織を何というか。",
+          "answer": "コルホーズ",
+          "options": [
+            "コルホーズ",
+            "ソフホーズ",
+            "ダーチャ",
+            "人民公社"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S7-03",
+          "question": "ロシアなどの旧ソ連諸国で都市住民が所有する郊外の菜園付き小別荘を何というか。",
+          "answer": "ダーチャ",
+          "options": [
+            "ダーチャ",
+            "コルホーズ",
+            "ソフホーズ",
+            "自留地"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S7-04",
+          "question": "カザフスタンやウズベキスタンの乾燥地帯で灌漑農業により栽培される主要作物は何か。",
+          "answer": "綿花",
+          "options": [
+            "綿花",
+            "小麦",
+            "米",
+            "大豆"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S7-05",
+          "question": "ウクライナの肥沃な黒色土壌地帯を何というか。",
+          "answer": "チェルノーゼム",
+          "options": [
+            "チェルノーゼム",
+            "レグール",
+            "テラロッサ",
+            "ラトソル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S7-06",
+          "question": "ウクライナが「ヨーロッパの穀倉」と呼ばれる理由となる主要作物は何か。",
+          "answer": "小麦",
+          "options": [
+            "小麦",
+            "トウモロコシ",
+            "大麦",
+            "ライ麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S7-07",
+          "question": "1950年代にソ連のフルシチョフが推進した，カザフスタンなどの未開拓地を開墾する政策を何というか。",
+          "answer": "処女地開拓",
+          "options": [
+            "処女地開拓",
+            "集団農場化",
+            "農地改革",
+            "土地改革"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S7-08",
+          "question": "アラル海の縮小の主な原因となった灌漑農業で栽培されている作物は何か。",
+          "answer": "綿花",
+          "options": [
+            "綿花",
+            "小麦",
+            "米",
+            "トウモロコシ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "アングロアメリカの農牧業",
+      "questions": [
+        {
+          "id": "P2-C1-S8-01",
+          "question": "アメリカ合衆国の中西部に広がる，気候・土壌に適した作物を地域ごとに栽培する農業の仕組みを何というか。",
+          "answer": "適地適作",
+          "options": [
+            "適地適作",
+            "輪作",
+            "混合農業",
+            "モノカルチャー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-02",
+          "question": "アメリカ合衆国の五大湖周辺からウィスコンシン州にかけて広がる農業地域を何というか。",
+          "answer": "酪農地帯",
+          "options": [
+            "酪農地帯",
+            "コーンベルト",
+            "綿花地帯",
+            "春小麦地帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-03",
+          "question": "アイオワ州やイリノイ州を中心に広がる，トウモロコシと大豆の栽培・養豚を組み合わせた農業地帯を何というか。",
+          "answer": "コーンベルト",
+          "options": [
+            "コーンベルト",
+            "酪農地帯",
+            "綿花地帯",
+            "小麦地帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-04",
+          "question": "アメリカ南部のかつての綿花地帯で，現在は作物の多角化が進んでいる地域を何というか。",
+          "answer": "コットンベルト",
+          "options": [
+            "コットンベルト",
+            "コーンベルト",
+            "酪農地帯",
+            "小麦地帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-05",
+          "question": "アメリカ合衆国のグレートプレーンズで大規模に行われている穀物栽培は何か。",
+          "answer": "小麦",
+          "options": [
+            "小麦",
+            "トウモロコシ",
+            "大豆",
+            "米"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-06",
+          "question": "カリフォルニア州の地中海性気候地域で栽培される果物やワインの原料は何か。",
+          "answer": "ぶどう・柑橘類",
+          "options": [
+            "ぶどう・柑橘類",
+            "りんご・いちご",
+            "バナナ・パイナップル",
+            "コーヒー・カカオ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-07",
+          "question": "アメリカ合衆国で行われている，センターピボット方式の灌漑農業が盛んな地域の地下水源を何というか。",
+          "answer": "オガララ帯水層",
+          "options": [
+            "オガララ帯水層",
+            "グレートアーテジアン盆地",
+            "五大湖",
+            "ミシシッピ川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-08",
+          "question": "大規模な農業経営を行い，穀物の生産・流通・加工を支配する巨大企業を何というか。",
+          "answer": "アグリビジネス",
+          "options": [
+            "アグリビジネス",
+            "プランテーション",
+            "コングロマリット",
+            "多国籍企業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-09",
+          "question": "カナダの主要な穀物生産地帯であるプレーリーで栽培される主な作物は何か。",
+          "answer": "春小麦",
+          "options": [
+            "春小麦",
+            "冬小麦",
+            "トウモロコシ",
+            "大豆"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-10",
+          "question": "アメリカ合衆国で大量に生産されるトウモロコシや大豆を使った畜産用飼料を何というか。",
+          "answer": "配合飼料",
+          "options": [
+            "配合飼料",
+            "粗飼料",
+            "濃縮飼料",
+            "穀物飼料"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S8-11",
+          "question": "大規模な肉牛の肥育場を何というか。",
+          "answer": "フィードロット",
+          "options": [
+            "フィードロット",
+            "牧場",
+            "酪農場",
+            "養鶏場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "ラテンアメリカの農牧業",
+      "questions": [
+        {
+          "id": "P2-C1-S9-01",
+          "question": "ブラジルが世界最大の生産国である嗜好作物は何か。",
+          "answer": "コーヒー",
+          "options": [
+            "コーヒー",
+            "カカオ",
+            "さとうきび",
+            "大豆"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-02",
+          "question": "ブラジルのコーヒー栽培に適した赤紫色の玄武岩質土壌を何というか。",
+          "answer": "テラローシャ",
+          "options": [
+            "テラローシャ",
+            "テラロッサ",
+            "チェルノーゼム",
+            "レグール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-03",
+          "question": "ブラジルで近年急速に生産が増加し，アメリカに次ぐ世界第2位の生産国となっている油料作物は何か。",
+          "answer": "大豆",
+          "options": [
+            "大豆",
+            "落花生",
+            "菜種",
+            "ヒマワリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-04",
+          "question": "アルゼンチンの温帯草原パンパで盛んに行われている農牧業は何か。",
+          "answer": "企業的穀物栽培・牧畜",
+          "options": [
+            "企業的穀物栽培・牧畜",
+            "プランテーション",
+            "焼畑農業",
+            "酪農"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-05",
+          "question": "メキシコやグアテマラなどの中央アメリカで古くから栽培されている主食用作物は何か。",
+          "answer": "トウモロコシ",
+          "options": [
+            "トウモロコシ",
+            "小麦",
+            "米",
+            "じゃがいも"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-06",
+          "question": "カリブ海諸島やブラジルで大規模に栽培されている，砂糖の原料作物は何か。",
+          "answer": "さとうきび",
+          "options": [
+            "さとうきび",
+            "てんさい",
+            "綿花",
+            "コーヒー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-07",
+          "question": "ブラジルでさとうきびから生産される自動車用燃料は何か。",
+          "answer": "バイオエタノール",
+          "options": [
+            "バイオエタノール",
+            "バイオディーゼル",
+            "天然ガス",
+            "水素"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-08",
+          "question": "ラテンアメリカの大土地所有制に基づく大農園を何というか（スペイン語圏）。",
+          "answer": "アシエンダ",
+          "options": [
+            "アシエンダ",
+            "ファゼンダ",
+            "エスタンシア",
+            "プランテーション"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-09",
+          "question": "ブラジルの大土地所有に基づく大農園を何というか（ポルトガル語圏）。",
+          "answer": "ファゼンダ",
+          "options": [
+            "ファゼンダ",
+            "アシエンダ",
+            "エスタンシア",
+            "プランテーション"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-10",
+          "question": "アルゼンチンの大牧場を何というか。",
+          "answer": "エスタンシア",
+          "options": [
+            "エスタンシア",
+            "ファゼンダ",
+            "アシエンダ",
+            "ランチ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-11",
+          "question": "エクアドルやコロンビアなどで盛んに栽培されている輸出用果物は何か。",
+          "answer": "バナナ",
+          "options": [
+            "バナナ",
+            "コーヒー",
+            "カカオ",
+            "パイナップル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S9-12",
+          "question": "チリの地中海性気候地域で栽培される主要な輸出農産物は何か。",
+          "answer": "ぶどう・ワイン・果物",
+          "options": [
+            "ぶどう・ワイン・果物",
+            "コーヒー・カカオ",
+            "小麦・大豆",
+            "さとうきび・綿花"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "オセアニアの農牧業",
+      "questions": [
+        {
+          "id": "P2-C1-S10-01",
+          "question": "オーストラリアの農牧業の主力である家畜は何か。",
+          "answer": "羊",
+          "options": [
+            "羊",
+            "牛",
+            "豚",
+            "馬"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S10-02",
+          "question": "オーストラリアで飼育される羊の代表的な品種で，良質のウールを産出するものは何か。",
+          "answer": "メリノ種",
+          "options": [
+            "メリノ種",
+            "サフォーク種",
+            "コリデール種",
+            "ロムニー種"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S10-03",
+          "question": "オーストラリアの乾燥地帯で，被圧地下水を利用した牧畜が行われている盆地を何というか。",
+          "answer": "グレートアーテジアン盆地",
+          "options": [
+            "グレートアーテジアン盆地",
+            "マーレーダーリング盆地",
+            "カーペンタリア湾",
+            "ギブソン砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S10-04",
+          "question": "オーストラリア南東部のマーレーダーリング盆地で盛んな農業は何か。",
+          "answer": "小麦栽培と牧羊の混合農業",
+          "options": [
+            "小麦栽培と牧羊の混合農業",
+            "酪農",
+            "プランテーション",
+            "企業的穀物栽培"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S10-05",
+          "question": "ニュージーランドで盛んな農業は何か。",
+          "answer": "酪農・牧羊",
+          "options": [
+            "酪農・牧羊",
+            "小麦栽培",
+            "プランテーション",
+            "企業的穀物栽培"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S10-06",
+          "question": "オーストラリアの主要な穀物輸出品は何か。",
+          "answer": "小麦",
+          "options": [
+            "小麦",
+            "米",
+            "トウモロコシ",
+            "大麦"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "日本の農牧業",
+      "questions": [
+        {
+          "id": "P2-C1-S11-01",
+          "question": "第二次世界大戦後にGHQの指導のもとで行われた，地主の農地を小作農に分配する改革を何というか。",
+          "answer": "農地改革",
+          "options": [
+            "農地改革",
+            "土地改革",
+            "地租改正",
+            "殖産興業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-02",
+          "question": "日本の農業の特徴として，経営規模が小さく，兼業農家が多いことを表す言葉は何か。",
+          "answer": "零細経営",
+          "options": [
+            "零細経営",
+            "大規模経営",
+            "企業的経営",
+            "集約的経営"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-03",
+          "question": "農業以外にも収入を得ている農家を何というか。",
+          "answer": "兼業農家",
+          "options": [
+            "兼業農家",
+            "専業農家",
+            "自作農",
+            "小作農"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-04",
+          "question": "日本の米の生産調整政策を何というか。",
+          "answer": "減反政策",
+          "options": [
+            "減反政策",
+            "緑の革命",
+            "白い革命",
+            "食糧管理制度"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-05",
+          "question": "北海道の十勝平野で盛んな農業は何か。",
+          "answer": "畑作（豆類・てんさい・じゃがいも）",
+          "options": [
+            "畑作（豆類・てんさい・じゃがいも）",
+            "稲作",
+            "酪農",
+            "果樹栽培"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-06",
+          "question": "北海道の根釧台地で盛んな農業は何か。",
+          "answer": "酪農",
+          "options": [
+            "酪農",
+            "畑作",
+            "稲作",
+            "果樹栽培"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-07",
+          "question": "宮崎平野や高知平野で行われている，温暖な気候を利用した野菜の早出し栽培を何というか。",
+          "answer": "促成栽培",
+          "options": [
+            "促成栽培",
+            "抑制栽培",
+            "近郊農業",
+            "施設園芸"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-08",
+          "question": "長野県や群馬県の高冷地で行われている，夏の涼しさを利用した野菜栽培を何というか。",
+          "answer": "抑制栽培（高冷地農業）",
+          "options": [
+            "抑制栽培（高冷地農業）",
+            "促成栽培",
+            "近郊農業",
+            "施設園芸"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-09",
+          "question": "大都市近郊で新鮮な野菜や花卉を供給する農業を何というか。",
+          "answer": "近郊農業",
+          "options": [
+            "近郊農業",
+            "促成栽培",
+            "抑制栽培",
+            "園芸農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S11-10",
+          "question": "日本の食料自給率（カロリーベース）は約何%か（2020年代）。",
+          "answer": "約38%",
+          "options": [
+            "約38%",
+            "約50%",
+            "約65%",
+            "約80%"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "世界の食料問題",
+      "questions": [
+        {
+          "id": "P2-C1-S12-01",
+          "question": "その国の食料消費量に対する国内生産量の割合を何というか。",
+          "answer": "食料自給率",
+          "options": [
+            "食料自給率",
+            "食料安全保障",
+            "食料供給率",
+            "食料生産率"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-02",
+          "question": "穀物の国際的な流通・販売を支配するアメリカの巨大企業群を何というか。",
+          "answer": "穀物メジャー",
+          "options": [
+            "穀物メジャー",
+            "アグリビジネス",
+            "多国籍企業",
+            "カーギル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-03",
+          "question": "特定の農産物や鉱産物の輸出に経済が大きく依存する状態を何というか。",
+          "answer": "モノカルチャー経済",
+          "options": [
+            "モノカルチャー経済",
+            "自給経済",
+            "混合経済",
+            "計画経済"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-04",
+          "question": "食料の安定的な供給を確保するための国家の取り組みを何というか。",
+          "answer": "食料安全保障",
+          "options": [
+            "食料安全保障",
+            "食料自給率",
+            "食料備蓄",
+            "食料援助"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-05",
+          "question": "1960年代からアジアで導入された高収量品種による農業技術革新を何というか。",
+          "answer": "緑の革命",
+          "options": [
+            "緑の革命",
+            "白い革命",
+            "青い革命",
+            "産業革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-06",
+          "question": "遺伝子組み換え技術を利用して開発された作物を何というか。",
+          "answer": "遺伝子組み換え作物（GMO）",
+          "options": [
+            "遺伝子組み換え作物（GMO）",
+            "高収量品種",
+            "ハイブリッド種",
+            "有機栽培"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-07",
+          "question": "環境に配慮し化学肥料や農薬を使わない農業を何というか。",
+          "answer": "有機農業",
+          "options": [
+            "有機農業",
+            "慣行農業",
+            "自然農法",
+            "緑の革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-08",
+          "question": "食品の生産から消費までの過程を追跡できる仕組みを何というか。",
+          "answer": "トレーサビリティ",
+          "options": [
+            "トレーサビリティ",
+            "フードマイレージ",
+            "食料安全保障",
+            "HACCP"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-09",
+          "question": "食料の輸送距離と量を掛け合わせた環境負荷の指標を何というか。",
+          "answer": "フードマイレージ",
+          "options": [
+            "フードマイレージ",
+            "トレーサビリティ",
+            "食料自給率",
+            "カーボンフットプリント"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C1-S12-10",
+          "question": "まだ食べられるのに廃棄される食品を何というか。",
+          "answer": "食品ロス（フードロス）",
+          "options": [
+            "食品ロス（フードロス）",
+            "食料廃棄",
+            "生ゴミ",
+            "リサイクル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

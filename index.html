@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="山川 一問一答 地理 - 大学受験用の地理4択クイズアプリ">
+  <title>山川 一問一答 地理</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- タイトル画面 -->
+  <div id="screen-title" class="screen active">
+    <div class="title-container">
+      <div class="title-badge">大学受験対策</div>
+      <h1 class="title-main">山川 一問一答<br><span class="title-accent">地理</span></h1>
+      <p class="title-subtitle">4択クイズで効率的に学習</p>
+      <div class="title-divider"></div>
+      <div id="chapter-select-area">
+        <!-- 動的に生成 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- クイズ画面 -->
+  <div id="screen-quiz" class="screen">
+    <header class="quiz-header">
+      <button id="btn-back" class="btn-icon" aria-label="戻る">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+      </button>
+      <div class="quiz-header-info">
+        <span id="quiz-part-chapter" class="quiz-label"></span>
+        <span id="quiz-section" class="quiz-section-label"></span>
+      </div>
+      <div class="quiz-progress-badge">
+        <span id="quiz-current-num">1</span>/<span id="quiz-total-num">14</span>
+      </div>
+    </header>
+
+    <div class="quiz-progress-bar">
+      <div id="progress-fill" class="quiz-progress-fill"></div>
+    </div>
+
+    <main class="quiz-body">
+      <div class="question-card" id="question-card">
+        <div class="question-id-badge" id="question-id"></div>
+        <p class="question-text" id="question-text"></p>
+        <div id="question-image-area"></div>
+      </div>
+
+      <div class="options-area" id="options-area">
+        <!-- 動的に生成 -->
+      </div>
+
+      <div class="feedback-area" id="feedback-area" style="display:none;">
+        <div id="feedback-content" class="feedback-content"></div>
+        <button id="btn-next" class="btn-next">次の問題へ</button>
+      </div>
+    </main>
+  </div>
+
+  <!-- 結果画面 -->
+  <div id="screen-result" class="screen">
+    <div class="result-container">
+      <div class="result-icon" id="result-icon">🎯</div>
+      <h2 class="result-title">結果発表</h2>
+      <div class="result-score-ring">
+        <svg viewBox="0 0 120 120" class="score-svg">
+          <circle cx="60" cy="60" r="52" class="score-bg"></circle>
+          <circle cx="60" cy="60" r="52" class="score-fill" id="score-ring"></circle>
+        </svg>
+        <div class="score-text">
+          <span id="result-percent" class="score-percent">0</span><span class="score-unit">%</span>
+        </div>
+      </div>
+      <p class="result-detail"><span id="result-correct">0</span> / <span id="result-total">0</span> 問正解</p>
+      <div class="result-message" id="result-message"></div>
+      <div class="result-buttons">
+        <button id="btn-retry" class="btn-primary">もう一度挑戦</button>
+        <button id="btn-home" class="btn-secondary">トップに戻る</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1243 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 1,
+    "title": "人間と環境"
+  },
+  "chapter": {
+    "number": 4,
+    "title": "海洋・陸水"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "海洋",
+      "questions": [
+        {
+          "id": "P1-C4-S1-01",
+          "question": "ユーラシア・オーストラリア・南北アメリカの各大陸の間に広がる世界最大の海洋を何というか。",
+          "answer": "太平洋",
+          "options": [
+            "太平洋",
+            "大西洋",
+            "インド洋",
+            "南極海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-02",
+          "question": "ユーラシア・アフリカ・南北アメリカの各大陸と最大の島グリーンランドの間に広がる世界第2の面積をもつ海洋を何というか。",
+          "answer": "大西洋",
+          "options": [
+            "大西洋",
+            "太平洋",
+            "インド洋",
+            "南極海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-03",
+          "question": "ユーラシア・オーストラリア・アフリカ・南極大陸の各大陸の間に広がる世界第3の面積をもつ海洋を何というか。",
+          "answer": "インド洋",
+          "options": [
+            "インド洋",
+            "大西洋",
+            "太平洋",
+            "南極海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-04",
+          "question": "南極大陸周辺の海域を何というか。太平洋・大西洋・インド洋の南方海域をさし，これら海洋との間に明瞭な区分はない。",
+          "answer": "南極海",
+          "options": [
+            "南極海",
+            "太平洋",
+            "大西洋",
+            "北極海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-05",
+          "question": "太平洋・大西洋・インド洋を総称して何というか。",
+          "answer": "三大洋",
+          "options": [
+            "三大洋",
+            "五大洋",
+            "世界海洋",
+            "大洋"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-06",
+          "question": "大陸・列島・半島などに囲まれた大洋の周辺海域を何というか。大洋に対する位置によって地中海と縁海（沿海）に分けられる。",
+          "answer": "付属海",
+          "options": [
+            "付属海",
+            "内海",
+            "縁海",
+            "地中海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-07",
+          "question": "ヨーロッパとアフリカの間の海，カリブ海・メキシコ湾・北極海などのように2つの大陸に囲まれた海を何というか。",
+          "answer": "地中海（用語）",
+          "options": [
+            "地中海（用語）",
+            "縁海（沿海）",
+            "内海",
+            "付属海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-08",
+          "question": "ベーリング海・オホーツク海・日本海・東シナ海・バルト海・北海などのように，大陸の外縁にあって，島や半島で囲まれている海を何というか。",
+          "answer": "縁海（沿海）",
+          "options": [
+            "縁海（沿海）",
+            "地中海",
+            "内海",
+            "付属海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-09",
+          "question": "ユーラシア大陸・アフリカ大陸に囲まれた海を何というか。面積251万km²，西はジブラルタル海峡で大西洋と，東はボスポラス海峡とダーダネルス海峡で黒海と，南はスエズ運河を介して紅海・インド洋とつながる。",
+          "answer": "地中海（地名）",
+          "options": [
+            "地中海（地名）",
+            "黒海",
+            "紅海",
+            "カリブ海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-10",
+          "question": "ユーラシア大陸・北アメリカ大陸・グリーンランド島に囲まれた海洋を何というか。大部分が海氷により閉ざされているが，地球温暖化の影響で氷結期間が短くなっている。",
+          "answer": "北極海",
+          "options": [
+            "北極海",
+            "南極海",
+            "バルト海",
+            "オホーツク海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-11",
+          "question": "ヨーロッパ大陸と小アジア半島に囲まれた地中海の付属海を何というか。ウクライナ，ロシア，トルコ，モルドバ，ルーマニア，ブルガリア，ジョージア（グルジア）などの国々に囲まれる。",
+          "answer": "黒海",
+          "options": [
+            "黒海",
+            "紅海",
+            "カスピ海",
+            "地中海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-12",
+          "question": "アフリカ大陸北東部とアラビア半島との間の細長い海洋を何というか。アフリカ大地溝帯の一角を形成する海域で，南はマンダブ海峡を介してアラビア海に，北はスエズ運河を介して地中海につながる。",
+          "answer": "紅海",
+          "options": [
+            "紅海",
+            "黒海",
+            "アラビア海",
+            "地中海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-13",
+          "question": "ユーラン（ユトランド）半島とスカンディナヴィア半島に囲まれた地中海を何というか。湾奥はボスニア湾とフィンランド湾に分かれ，西はカテガット海峡とスカゲラック海峡を介して北海とつながる。",
+          "answer": "バルト海",
+          "options": [
+            "バルト海",
+            "北海",
+            "黒海",
+            "地中海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-14",
+          "question": "南北アメリカ大陸・西インド諸島に囲まれた地中海を何というか。パナマ運河を通じて太平洋とつながる。大型ハリケーンの通り道であり，サトウキビ栽培地域が広がる。",
+          "answer": "カリブ海",
+          "options": [
+            "カリブ海",
+            "メキシコ湾",
+            "地中海",
+            "ギニア湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-15",
+          "question": "カムチャツカ半島・サハリン（樺太）島・千島列島に囲まれた縁海を何というか。冬季には流氷におおわれ，豊かな漁場を形成する。",
+          "answer": "オホーツク海",
+          "options": [
+            "オホーツク海",
+            "ベーリング海",
+            "日本海",
+            "東シナ海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-16",
+          "question": "日本列島とユーラシア大陸に囲まれた縁海を何というか。暖流の対馬海流が流入し，冬季は北西の季節風により日本海側に大雪をもたらす。",
+          "answer": "日本海",
+          "options": [
+            "日本海",
+            "東シナ海",
+            "南シナ海",
+            "オホーツク海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-17",
+          "question": "日本列島・台湾・中国大陸に囲まれた縁海を何というか。暖流の黒潮が流れ，大陸棚が広がる。",
+          "answer": "東シナ海",
+          "options": [
+            "東シナ海",
+            "南シナ海",
+            "日本海",
+            "フィリピン海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-18",
+          "question": "インドシナ半島・フィリピン諸島・マレー半島・ボルネオ島に囲まれた縁海を何というか。東南アジアと東アジアを結ぶ重要な海上交通路である。",
+          "answer": "南シナ海",
+          "options": [
+            "南シナ海",
+            "東シナ海",
+            "フィリピン海",
+            "アラビア海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-19",
+          "question": "インド半島の西側，アラビア半島との間に広がる海域を何というか。",
+          "answer": "アラビア海",
+          "options": [
+            "アラビア海",
+            "紅海",
+            "ベンガル湾",
+            "インド洋"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-20",
+          "question": "アフリカ大陸西岸の湾入部を何というか。赤道を挟んで広がり，ニジェール川などが流入する。",
+          "answer": "ギニア湾",
+          "options": [
+            "ギニア湾",
+            "カリブ海",
+            "メキシコ湾",
+            "ベンガル湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-21",
+          "question": "イギリス・ノルウェー・デンマークなどに囲まれた縁海を何というか。大陸棚が広がり，好漁場であるとともに北海油田が開発されている。",
+          "answer": "北海",
+          "options": [
+            "北海",
+            "バルト海",
+            "地中海",
+            "アドリア海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-22",
+          "question": "イタリア半島とバルカン半島に挟まれた地中海の一部を何というか。",
+          "answer": "アドリア海",
+          "options": [
+            "アドリア海",
+            "エーゲ海",
+            "地中海",
+            "北海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-23",
+          "question": "ギリシャとトルコの間に広がる地中海の一部を何というか。多くの島が散在する。",
+          "answer": "エーゲ海",
+          "options": [
+            "エーゲ海",
+            "アドリア海",
+            "地中海",
+            "北海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-24",
+          "question": "日本列島の東，太平洋西部に広がる海域を何というか。マリアナ海溝を含む。",
+          "answer": "フィリピン海",
+          "options": [
+            "フィリピン海",
+            "南シナ海",
+            "東シナ海",
+            "太平洋"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-25",
+          "question": "海水中には平均で約何パーミル（‰）の塩分が含まれているか。",
+          "answer": "35‰",
+          "options": [
+            "35‰",
+            "25‰",
+            "45‰",
+            "15‰"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-26",
+          "question": "海水中の塩分の約78％を占める主成分を何というか。",
+          "answer": "塩化ナトリウム",
+          "options": [
+            "塩化ナトリウム",
+            "塩化マグネシウム",
+            "硫酸マグネシウム",
+            "塩化カリウム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-27",
+          "question": "暖流と寒流がぶつかる境界線を何というか。好漁場が形成される。",
+          "answer": "潮境（潮目）",
+          "options": [
+            "潮境（潮目）",
+            "海嶺",
+            "大陸棚",
+            "海溝"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-28",
+          "question": "大陸の周辺に広がる水深約200mまでの浅い海底を何というか。好漁場が形成され，石油・天然ガスなどの海底資源が豊富である。",
+          "answer": "大陸棚",
+          "options": [
+            "大陸棚",
+            "海嶺",
+            "海溝",
+            "大洋底"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-29",
+          "question": "海底に連なる山脈状の大起伏を何というか。",
+          "answer": "海嶺",
+          "options": [
+            "海嶺",
+            "海溝",
+            "大陸棚",
+            "大洋底"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-30",
+          "question": "大洋の底にある深さ6,000m以上の細長い溝状の海底地形を何というか。",
+          "answer": "海溝",
+          "options": [
+            "海溝",
+            "海嶺",
+            "大陸棚",
+            "大洋底"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-31",
+          "question": "地球上で最も深い海底を何というか。太平洋西部のマリアナ海溝にあり，最深部は約11,000mに達する。",
+          "answer": "マリアナ海溝",
+          "options": [
+            "マリアナ海溝",
+            "日本海溝",
+            "トンガ海溝",
+            "フィリピン海溝"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-32",
+          "question": "大陸棚の外縁から急傾斜で大洋底につながる海底斜面を何というか。",
+          "answer": "大陸斜面",
+          "options": [
+            "大陸斜面",
+            "大陸棚",
+            "海嶺",
+            "海溝"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-33",
+          "question": "風が海水面を動かすことによって生じる海流を何というか。",
+          "answer": "吹送流",
+          "options": [
+            "吹送流",
+            "補流",
+            "潮流",
+            "沿岸流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-34",
+          "question": "海水が一方に流れ去ったあとに，海面の高低差を補うように流れる海流を何というか。",
+          "answer": "補流",
+          "options": [
+            "補流",
+            "吹送流",
+            "潮流",
+            "沿岸流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-35",
+          "question": "潮の干満によって生じる海水の流れを何というか。",
+          "answer": "潮流",
+          "options": [
+            "潮流",
+            "吹送流",
+            "補流",
+            "沿岸流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-36",
+          "question": "海岸に沿って流れる海流を何というか。",
+          "answer": "沿岸流",
+          "options": [
+            "沿岸流",
+            "潮流",
+            "吹送流",
+            "補流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-37",
+          "question": "低緯度から高緯度に向かって流れる水温の高い海流を何というか。",
+          "answer": "暖流",
+          "options": [
+            "暖流",
+            "寒流",
+            "吹送流",
+            "補流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-38",
+          "question": "高緯度から低緯度に向かって流れる水温の低い海流を何というか。",
+          "answer": "寒流",
+          "options": [
+            "寒流",
+            "暖流",
+            "吹送流",
+            "潮流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-39",
+          "question": "貿易風に吹かれて赤道の北側を西に流れる海流を何というか。",
+          "answer": "北赤道海流",
+          "options": [
+            "北赤道海流",
+            "南赤道海流",
+            "赤道反流",
+            "メキシコ湾流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-40",
+          "question": "貿易風に吹かれて赤道の南側を西に流れる海流を何というか。",
+          "answer": "南赤道海流",
+          "options": [
+            "南赤道海流",
+            "北赤道海流",
+            "赤道反流",
+            "ブラジル海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-41",
+          "question": "北赤道海流と南赤道海流の間を東に向かって流れる海流を何というか。",
+          "answer": "赤道反流",
+          "options": [
+            "赤道反流",
+            "北赤道海流",
+            "南赤道海流",
+            "西風皮流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-42",
+          "question": "北大西洋のカリブ海・メキシコ湾を経てフロリダ半島沖からヨーロッパ方面へ流れる大規模な暖流を何というか。",
+          "answer": "メキシコ湾流",
+          "options": [
+            "メキシコ湾流",
+            "北大西洋海流",
+            "ブラジル海流",
+            "カナリア海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-43",
+          "question": "メキシコ湾流の延長で，ヨーロッパ西岸に達する暖流を何というか。",
+          "answer": "北大西洋海流",
+          "options": [
+            "北大西洋海流",
+            "メキシコ湾流",
+            "カナリア海流",
+            "ブラジル海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-44",
+          "question": "日本列島南岸を北東に流れる暖流を何というか。",
+          "answer": "日本海流（黒潮）",
+          "options": [
+            "日本海流（黒潮）",
+            "対馬海流",
+            "千島海流（親潮）",
+            "北赤道海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-45",
+          "question": "アフリカ南東岸を南に流れる暖流を何というか。",
+          "answer": "モザンビーク海流",
+          "options": [
+            "モザンビーク海流",
+            "ベンゲラ海流",
+            "カナリア海流",
+            "ブラジル海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-46",
+          "question": "南アメリカ大陸東岸を南に流れる暖流を何というか。",
+          "answer": "ブラジル海流",
+          "options": [
+            "ブラジル海流",
+            "メキシコ湾流",
+            "モザンビーク海流",
+            "北大西洋海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-47",
+          "question": "日本海を北上する暖流を何というか。",
+          "answer": "対馬海流",
+          "options": [
+            "対馬海流",
+            "日本海流（黒潮）",
+            "千島海流（親潮）",
+            "リマン海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-48",
+          "question": "アフリカ北西岸を南に流れる寒流を何というか。",
+          "answer": "カナリア海流",
+          "options": [
+            "カナリア海流",
+            "ベンゲラ海流",
+            "カリフォルニア海流",
+            "ペルー海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-49",
+          "question": "北アメリカ大陸東岸を南に流れる寒流を何というか。",
+          "answer": "ラブラドル海流",
+          "options": [
+            "ラブラドル海流",
+            "カリフォルニア海流",
+            "カナリア海流",
+            "千島海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-50",
+          "question": "日本列島の東を南に流れる寒流を何というか。",
+          "answer": "千島海流（親潮）",
+          "options": [
+            "千島海流（親潮）",
+            "リマン海流",
+            "ラブラドル海流",
+            "カリフォルニア海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-51",
+          "question": "北アメリカ大陸の太平洋岸を南に流れる寒流を何というか。",
+          "answer": "カリフォルニア海流",
+          "options": [
+            "カリフォルニア海流",
+            "ペルー海流",
+            "ラブラドル海流",
+            "カナリア海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-52",
+          "question": "南アメリカ大陸の太平洋岸を北に流れる寒流を何というか。",
+          "answer": "ペルー海流",
+          "options": [
+            "ペルー海流",
+            "カリフォルニア海流",
+            "ベンゲラ海流",
+            "カナリア海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-53",
+          "question": "アフリカ南西岸を北に流れる寒流を何というか。",
+          "answer": "ベンゲラ海流",
+          "options": [
+            "ベンゲラ海流",
+            "カナリア海流",
+            "ペルー海流",
+            "カリフォルニア海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S1-54",
+          "question": "南半球の中高緯度帯を西から東に流れる海流を何というか。",
+          "answer": "西風皮流",
+          "options": [
+            "西風皮流",
+            "北赤道海流",
+            "南赤道海流",
+            "赤道反流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "陸水",
+      "questions": [
+        {
+          "id": "P1-C4-S2-01",
+          "question": "陸上に存在するすべての水を総称して何というか。",
+          "answer": "陸水",
+          "options": [
+            "陸水",
+            "海水",
+            "淡水",
+            "地下水"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-02",
+          "question": "河川や湖沼など地表面を流れる水を何というか。",
+          "answer": "表流水",
+          "options": [
+            "表流水",
+            "地下水",
+            "陸水",
+            "淡水"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-03",
+          "question": "地中に浸透して地下の帯水層にたくわえられた水を何というか。",
+          "answer": "地下水",
+          "options": [
+            "地下水",
+            "表流水",
+            "湧水",
+            "伏流水"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-04",
+          "question": "人間が利用可能な水を何というか。河川水・湖沼水・地下水などが含まれる。",
+          "answer": "水資源",
+          "options": [
+            "水資源",
+            "陸水",
+            "淡水",
+            "表流水"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-05",
+          "question": "塩分をほとんど含まない水を何というか。",
+          "answer": "淡水",
+          "options": [
+            "淡水",
+            "硬水",
+            "軟水",
+            "海水"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-06",
+          "question": "カルシウムやマグネシウムなどのミネラル分を多く含む水を何というか。石灰岩地帯の地下水に多い。",
+          "answer": "硬水",
+          "options": [
+            "硬水",
+            "軟水",
+            "淡水",
+            "鉱泉"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-07",
+          "question": "カルシウムやマグネシウムなどのミネラル分の少ない水を何というか。日本の水はこれが多い。",
+          "answer": "軟水",
+          "options": [
+            "軟水",
+            "硬水",
+            "淡水",
+            "鉱泉"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-08",
+          "question": "内陸の乾燥地域などにみられる，塩分濃度の高い湖を何というか。",
+          "answer": "塩湖",
+          "options": [
+            "塩湖",
+            "汽水湖",
+            "淡水湖",
+            "富栄養湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-09",
+          "question": "海水と淡水が混じり合った湖を何というか。",
+          "answer": "汽水湖",
+          "options": [
+            "汽水湖",
+            "塩湖",
+            "淡水湖",
+            "富栄養湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-10",
+          "question": "塩分をほとんど含まない湖を何というか。",
+          "answer": "淡水湖",
+          "options": [
+            "淡水湖",
+            "塩湖",
+            "汽水湖",
+            "貧栄養湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-11",
+          "question": "栄養塩類が多く，プランクトンの繁殖が盛んな湖を何というか。",
+          "answer": "富栄養湖",
+          "options": [
+            "富栄養湖",
+            "貧栄養湖",
+            "塩湖",
+            "汽水湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-12",
+          "question": "栄養塩類が少なく，透明度の高い湖を何というか。",
+          "answer": "貧栄養湖",
+          "options": [
+            "貧栄養湖",
+            "富栄養湖",
+            "淡水湖",
+            "汽水湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-13",
+          "question": "世界最大の湖を何というか。中央アジアに位置し，面積は約37万km²で，塩湖である。",
+          "answer": "カスピ海",
+          "options": [
+            "カスピ海",
+            "バイカル湖",
+            "ヴィクトリア湖",
+            "アラル海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-14",
+          "question": "カザフスタン東部にある，東半分が淡水，西半分が塩水という特異な湖を何というか。",
+          "answer": "バルハシ湖",
+          "options": [
+            "バルハシ湖",
+            "カスピ海",
+            "アラル海",
+            "バイカル湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-15",
+          "question": "世界最深の湖を何というか。ロシアのシベリアに位置し，最大深度は約1,637mに達する。",
+          "answer": "バイカル湖",
+          "options": [
+            "バイカル湖",
+            "カスピ海",
+            "タンガニーカ湖",
+            "ヴィクトリア湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-16",
+          "question": "アフリカ東部に位置し，面積では世界第3位の淡水湖を何というか。",
+          "answer": "ヴィクトリア湖",
+          "options": [
+            "ヴィクトリア湖",
+            "タンガニーカ湖",
+            "バイカル湖",
+            "チャド湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-17",
+          "question": "アフリカ大地溝帯に沿った南北に細長い湖を何というか。深度ではバイカル湖に次いで世界第2位である。",
+          "answer": "タンガニーカ湖",
+          "options": [
+            "タンガニーカ湖",
+            "ヴィクトリア湖",
+            "マラウイ湖",
+            "チャド湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-18",
+          "question": "アフリカ北東部を流れる世界最長の河川を何というか。",
+          "answer": "ナイル川",
+          "options": [
+            "ナイル川",
+            "アマゾン川",
+            "ミシシッピ川",
+            "長江"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-19",
+          "question": "南アメリカ大陸を流れる世界最大の流域面積をもつ河川を何というか。",
+          "answer": "アマゾン川",
+          "options": [
+            "アマゾン川",
+            "ナイル川",
+            "コンゴ川",
+            "ミシシッピ川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-20",
+          "question": "パキスタンを流れ，アラビア海に注ぐ河川を何というか。",
+          "answer": "インダス川",
+          "options": [
+            "インダス川",
+            "ガンジス川",
+            "ナイル川",
+            "チグリス川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-21",
+          "question": "ロシアのシベリアを流れ，北極海に注ぐ河川を何というか。西シベリア低地を流れる。",
+          "answer": "オビ川",
+          "options": [
+            "オビ川",
+            "レナ川",
+            "エニセイ川",
+            "ヴォルガ川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-22",
+          "question": "ロシアのシベリアを流れ，北極海に注ぐ河川を何というか。中央シベリア高原の東を流れる。",
+          "answer": "レナ川",
+          "options": [
+            "レナ川",
+            "オビ川",
+            "エニセイ川",
+            "アムール川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-23",
+          "question": "河川の年間最大流量と年間最小流量の比を何というか。この値が大きいほど流量の変動が激しいことを示す。",
+          "answer": "河況係数",
+          "options": [
+            "河況係数",
+            "流域面積",
+            "流出係数",
+            "降水量"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-24",
+          "question": "地下水を含む透水性の高い地層を何というか。",
+          "answer": "帯水層（透水層）",
+          "options": [
+            "帯水層（透水層）",
+            "不透水層",
+            "被圧帯水層",
+            "宙水層"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-25",
+          "question": "地下水を通さない地層を何というか。",
+          "answer": "不透水層",
+          "options": [
+            "不透水層",
+            "帯水層",
+            "透水層",
+            "被圧帯水層"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-26",
+          "question": "不透水層の上に自由な水面をもつ地下水を何というか。",
+          "answer": "自由地下水",
+          "options": [
+            "自由地下水",
+            "被圧地下水",
+            "宙水",
+            "鉱泉"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-27",
+          "question": "帯水層の途中に小規模な不透水層があって，その上にたまった小規模な地下水を何というか。",
+          "answer": "宙水",
+          "options": [
+            "宙水",
+            "自由地下水",
+            "被圧地下水",
+            "湧水"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-28",
+          "question": "地下水が自然に地表に湧き出てくる場所を何というか。",
+          "answer": "湧水帯",
+          "options": [
+            "湧水帯",
+            "帯水層",
+            "伏流水",
+            "鉱泉"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-29",
+          "question": "特殊な化学成分や温度をもつ地下水が自然に湧き出たものを何というか。",
+          "answer": "鉱泉",
+          "options": [
+            "鉱泉",
+            "温泉",
+            "湧水",
+            "伏流水"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-30",
+          "question": "地下水が地熱によって加温され，25℃以上の温度をもつ湧水を何というか。",
+          "answer": "温泉",
+          "options": [
+            "温泉",
+            "鉱泉",
+            "湧水",
+            "間欠泉"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-31",
+          "question": "上下を不透水層に挟まれた帯水層中の地下水で，圧力がかかっている地下水を何というか。",
+          "answer": "被圧地下水",
+          "options": [
+            "被圧地下水",
+            "自由地下水",
+            "宙水",
+            "鉱泉"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-32",
+          "question": "被圧地下水を利用するために掘った井戸を何というか。地下水が圧力によって自噴することがある。",
+          "answer": "掘り抜き井戸（自噴井）",
+          "options": [
+            "掘り抜き井戸（自噴井）",
+            "浅井戸",
+            "深井戸",
+            "間欠泉"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C4-S2-33",
+          "question": "オーストラリア東部の広大な盆地で，掘り抜き井戸による被圧地下水を利用している盆地を何というか。",
+          "answer": "グレートアーテジアン（大鑽井）盆地",
+          "options": [
+            "グレートアーテジアン（大鑽井）盆地",
+            "グレートヴィクトリア砂漠",
+            "マーレーダーリング盆地",
+            "カーペンタリア湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

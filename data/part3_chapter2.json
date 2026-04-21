@@ -1,0 +1,709 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 3,
+    "title": "生活と文化"
+  },
+  "chapter": {
+    "number": 2,
+    "title": "人口"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "人口分布と人口密度",
+      "questions": [
+        {
+          "id": "P3-C2-S1-01",
+          "question": "地球上の全陸地面積の約90％を占める，人類の居住し生活している地域を何というか。",
+          "answer": "エクメーネ（居住地域）",
+          "options": [
+            "エクメーネ（居住地域）",
+            "アネクメーネ",
+            "人口集中地区",
+            "都市圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S1-02",
+          "question": "地球上の全陸地面積の約10％を占める，人類が常住していない地域を何というか。",
+          "answer": "アネクメーネ（非居住地域）",
+          "options": [
+            "アネクメーネ（非居住地域）",
+            "エクメーネ",
+            "過疎地域",
+            "限界集落"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S1-03",
+          "question": "ある地域の人口を土地の面積で除した，単位面積あたりの人口を何というか。",
+          "answer": "人口密度",
+          "options": [
+            "人口密度",
+            "人口重心",
+            "人口集中度",
+            "人口分布"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S1-04",
+          "question": "一人ひとりの重さを同じと仮定した場合に，ある地域の人口の重さのバランスを保つ支点にあたる位置を何というか。",
+          "answer": "人口重心",
+          "options": [
+            "人口重心",
+            "人口密度",
+            "重力モデル",
+            "中心地"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S1-05",
+          "question": "国勢調査において，人口密度が1km²につき4,000人以上かつ合計人口5,000人以上の地区を何というか。",
+          "answer": "人口集中地区（DID）",
+          "options": [
+            "人口集中地区（DID）",
+            "都市計画区域",
+            "市街化区域",
+            "エクメーネ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "人口の増減と移動",
+      "questions": [
+        {
+          "id": "P3-C2-S2-01",
+          "question": "5年ごとに実施される，人口についての総合的な調査を何というか。",
+          "answer": "国勢調査（センサス）",
+          "options": [
+            "国勢調査（センサス）",
+            "世論調査",
+            "統計調査",
+            "住民基本台帳"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-02",
+          "question": "出生・死亡・移動等による人口の変化を何というか。",
+          "answer": "人口動態",
+          "options": [
+            "人口動態",
+            "人口静態",
+            "人口構成",
+            "人口転換"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-03",
+          "question": "一定期間における人口増加の割合を何というか。",
+          "answer": "人口増加率",
+          "options": [
+            "人口増加率",
+            "自然増加率",
+            "出生率",
+            "死亡率"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-04",
+          "question": "ある年の出生数を人口で除した割合（‰）を何というか。",
+          "answer": "出生率（普通出生率）",
+          "options": [
+            "出生率（普通出生率）",
+            "死亡率",
+            "自然増加率",
+            "合計特殊出生率"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-05",
+          "question": "ある年の死亡数を人口で除した割合（‰）を何というか。",
+          "answer": "死亡率（普通死亡率）",
+          "options": [
+            "死亡率（普通死亡率）",
+            "出生率",
+            "自然増加率",
+            "乳児死亡率"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-06",
+          "question": "出生後1年以内に死亡する乳児の割合を何というか。",
+          "answer": "乳児死亡率",
+          "options": [
+            "乳児死亡率",
+            "死亡率",
+            "新生児死亡率",
+            "周産期死亡率"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-07",
+          "question": "出生率から死亡率を差し引いた値を何というか。",
+          "answer": "自然増加率",
+          "options": [
+            "自然増加率",
+            "人口増加率",
+            "社会増加率",
+            "出生率"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-08",
+          "question": "1人の女性が生涯に出産する子どもの平均数を何というか。",
+          "answer": "合計特殊出生率",
+          "options": [
+            "合計特殊出生率",
+            "出生率",
+            "自然増加率",
+            "再生産率"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-09",
+          "question": "出生率・死亡率ともに高い段階を何というか。",
+          "answer": "多産多死型",
+          "options": [
+            "多産多死型",
+            "多産少死型",
+            "少産少死型",
+            "少産多死型"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-10",
+          "question": "出生率が高く死亡率が低下した段階を何というか。",
+          "answer": "多産少死型",
+          "options": [
+            "多産少死型",
+            "多産多死型",
+            "少産少死型",
+            "少産多死型"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-11",
+          "question": "出生率・死亡率ともに低い段階を何というか。",
+          "answer": "少産少死型",
+          "options": [
+            "少産少死型",
+            "多産多死型",
+            "多産少死型",
+            "少産多死型"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-12",
+          "question": "人口増加タイプが多産多死から少産少死へと移行することを何というか。",
+          "answer": "人口転換（人口革命）",
+          "options": [
+            "人口転換（人口革命）",
+            "人口爆発",
+            "エネルギー革命",
+            "産業革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-13",
+          "question": "特定の季節だけ他の地域へ移動して働くことを何というか。",
+          "answer": "出稼ぎ",
+          "options": [
+            "出稼ぎ",
+            "移民",
+            "難民",
+            "季節労働"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-14",
+          "question": "アメリカの開拓時代に，東部から西部へ開拓地が広がっていった運動を何というか。",
+          "answer": "西漸運動",
+          "options": [
+            "西漸運動",
+            "ゴールドラッシュ",
+            "フロンティア",
+            "マニフェストデスティニー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-15",
+          "question": "アメリカの開拓の最前線を何というか。",
+          "answer": "フロンティア",
+          "options": [
+            "フロンティア",
+            "西漸運動",
+            "ニューフロンティア",
+            "サンベルト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-16",
+          "question": "1848年にカリフォルニアで金鉱が発見され，大量の人々が移住した出来事を何というか。",
+          "answer": "ゴールドラッシュ",
+          "options": [
+            "ゴールドラッシュ",
+            "西漸運動",
+            "フロンティア",
+            "マニフェストデスティニー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-17",
+          "question": "他国に移り住んで定住する国際的な人口移動を何というか。",
+          "answer": "移民",
+          "options": [
+            "移民",
+            "難民",
+            "出稼ぎ",
+            "ディアスポラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-18",
+          "question": "ドイツなどが1960年代に外国人労働者を受け入れた制度で，その労働者を何というか。",
+          "answer": "ガストアルバイター（外国人労働者）",
+          "options": [
+            "ガストアルバイター（外国人労働者）",
+            "移民",
+            "難民",
+            "出稼ぎ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S2-19",
+          "question": "海外に移住した中国人で，現地に定住した人々を何というか。",
+          "answer": "華人",
+          "options": [
+            "華人",
+            "華僑",
+            "印僑",
+            "日系人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "人口構成",
+      "questions": [
+        {
+          "id": "P3-C2-S3-01",
+          "question": "人口を性別・年齢別に区分した構成を何というか。",
+          "answer": "性別・年齢別人口構成",
+          "options": [
+            "性別・年齢別人口構成",
+            "産業別人口構成",
+            "職業別人口構成",
+            "階級別人口構成"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-02",
+          "question": "15歳から64歳までの人口を何というか。",
+          "answer": "生産年齢人口",
+          "options": [
+            "生産年齢人口",
+            "老年人口",
+            "年少人口",
+            "就労人口"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-03",
+          "question": "65歳以上の人口を何というか。",
+          "answer": "老年人口",
+          "options": [
+            "老年人口",
+            "生産年齢人口",
+            "年少人口",
+            "高齢者"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-04",
+          "question": "0歳から14歳までの人口を何というか。",
+          "answer": "年少人口",
+          "options": [
+            "年少人口",
+            "生産年齢人口",
+            "老年人口",
+            "幼年人口"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-05",
+          "question": "縦軸に年齢，横軸に男女別人口をとった性別・年齢構成を表すグラフを何というか。",
+          "answer": "人口ピラミッド",
+          "options": [
+            "人口ピラミッド",
+            "人口曲線",
+            "ロレンツ曲線",
+            "年齢別人口グラフ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-06",
+          "question": "発展途上国に多い，底辺が広い三角形の人口ピラミッドの型を何というか。",
+          "answer": "富士山型（ピラミッド型）",
+          "options": [
+            "富士山型（ピラミッド型）",
+            "釣鐘型",
+            "つぼ型",
+            "星型"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-07",
+          "question": "先進国に多い，中央部が膨らんだ人口ピラミッドの型を何というか。",
+          "answer": "釣鐘型",
+          "options": [
+            "釣鐘型",
+            "富士山型",
+            "つぼ型",
+            "星型"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-08",
+          "question": "少子高齢化が進んだ国に見られる，底辺が狭い人口ピラミッドの型を何というか。",
+          "answer": "つぼ型",
+          "options": [
+            "つぼ型",
+            "釣鐘型",
+            "富士山型",
+            "星型"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-09",
+          "question": "老年人口の割合が高まる現象を何というか。",
+          "answer": "高齢化（少子高齢化）",
+          "options": [
+            "高齢化（少子高齢化）",
+            "人口爆発",
+            "人口転換",
+            "過疎化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-10",
+          "question": "老年人口の割合が7％を超えた社会を何というか。",
+          "answer": "高齢化社会",
+          "options": [
+            "高齢化社会",
+            "高齢社会",
+            "超高齢社会",
+            "少子化社会"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S3-11",
+          "question": "老年人口の割合が14％を超えた社会を何というか。",
+          "answer": "高齢社会",
+          "options": [
+            "高齢社会",
+            "高齢化社会",
+            "超高齢社会",
+            "少子化社会"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "人口問題",
+      "questions": [
+        {
+          "id": "P3-C2-S4-01",
+          "question": "1798年に『人口論』を著し，人口増加と食料生産の関係を論じたイギリスの経済学者は誰か。",
+          "answer": "マルサス",
+          "options": [
+            "マルサス",
+            "ケインズ",
+            "アダム・スミス",
+            "リカード"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-02",
+          "question": "発展途上国における急激な人口増加を何というか。",
+          "answer": "人口爆発",
+          "options": [
+            "人口爆発",
+            "人口転換",
+            "人口革命",
+            "ベビーブーム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-03",
+          "question": "人口増加が食料生産を上回り，貧困と飢餓が深刻化する問題を何というか。",
+          "answer": "人口問題",
+          "options": [
+            "人口問題",
+            "食料問題",
+            "環境問題",
+            "貧困問題"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-04",
+          "question": "1994年に国際人口開発会議（ICPD）が開催された都市はどこか。",
+          "answer": "カイロ",
+          "options": [
+            "カイロ",
+            "ニューヨーク",
+            "ジュネーブ",
+            "ストックホルム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-05",
+          "question": "中国が人口抑制のために実施し，2015年に廃止した政策を何というか。",
+          "answer": "一人っ子政策",
+          "options": [
+            "一人っ子政策",
+            "計画出産",
+            "産児制限",
+            "家族計画"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-06",
+          "question": "日本で1947～49年に起きた出生率の急増を何というか。",
+          "answer": "第1次ベビーブーム",
+          "options": [
+            "第1次ベビーブーム",
+            "第2次ベビーブーム",
+            "人口爆発",
+            "人口転換"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-07",
+          "question": "日本で1971～74年に起きた出生率の急増を何というか。",
+          "answer": "第2次ベビーブーム",
+          "options": [
+            "第2次ベビーブーム",
+            "第1次ベビーブーム",
+            "人口爆発",
+            "人口転換"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-08",
+          "question": "都市部に人口が過度に集中する現象を何というか。",
+          "answer": "過密",
+          "options": [
+            "過密",
+            "過疎",
+            "ドーナツ化",
+            "スプロール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-09",
+          "question": "農山村部から都市への人口流出により，地域社会の機能が低下する現象を何というか。",
+          "answer": "過疎",
+          "options": [
+            "過疎",
+            "過密",
+            "限界集落",
+            "消滅可能性都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-10",
+          "question": "人口の50％以上が65歳以上の高齢者で占められ，社会的共同生活の維持が困難な集落を何というか。",
+          "answer": "限界集落",
+          "options": [
+            "限界集落",
+            "過疎地域",
+            "消滅可能性都市",
+            "山間僻地"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-11",
+          "question": "日本における外国人の不法な就労を何というか。",
+          "answer": "不法就労",
+          "options": [
+            "不法就労",
+            "出稼ぎ",
+            "移民",
+            "難民"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-12",
+          "question": "1990年の入管法改正で日本への就労が容易になった，南米からの労働者を何というか。",
+          "answer": "日系人",
+          "options": [
+            "日系人",
+            "ガストアルバイター",
+            "移民",
+            "出稼ぎ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C2-S4-13",
+          "question": "2019年に新設された，外国人労働者の受け入れ拡大のための在留資格は何か。",
+          "answer": "特定技能",
+          "options": [
+            "特定技能",
+            "技能実習",
+            "永住者",
+            "定住者"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

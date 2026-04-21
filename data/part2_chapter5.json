@@ -1,0 +1,1825 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 2,
+    "title": "資源と産業"
+  },
+  "chapter": {
+    "number": 5,
+    "title": "工業"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "工業の発達と種類",
+      "questions": [
+        {
+          "id": "P2-C5-S1-01",
+          "question": "手工業に代わり，工場で機械を用いて大量生産する生産方式を何というか。",
+          "answer": "工場制機械工業",
+          "options": [
+            "工場制機械工業",
+            "家内制手工業",
+            "マニュファクチュア",
+            "問屋制家内工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-02",
+          "question": "18世紀後半にイギリスで始まった，手工業から機械工業への転換を何というか。",
+          "answer": "産業革命",
+          "options": [
+            "産業革命",
+            "エネルギー革命",
+            "情報革命",
+            "緑の革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-03",
+          "question": "繊維・食品・製紙など，比較的軽量な原料を加工する工業を何というか。",
+          "answer": "軽工業",
+          "options": [
+            "軽工業",
+            "重工業",
+            "重化学工業",
+            "先端技術産業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-04",
+          "question": "金属・機械・化学など，重量のある原料を加工する工業を何というか。",
+          "answer": "重工業",
+          "options": [
+            "重工業",
+            "軽工業",
+            "素材型工業",
+            "加工組立型工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-05",
+          "question": "重工業と化学工業を合わせて何というか。",
+          "answer": "重化学工業",
+          "options": [
+            "重化学工業",
+            "軽工業",
+            "素材型工業",
+            "先端技術産業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-06",
+          "question": "鉄鋼・非鉄金属・化学など，原材料を加工して素材を生産する工業を何というか。",
+          "answer": "素材型工業",
+          "options": [
+            "素材型工業",
+            "加工組立型工業",
+            "軽工業",
+            "先端技術産業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-07",
+          "question": "自動車・電気機器・精密機械など，部品を組み立てて製品を作る工業を何というか。",
+          "answer": "加工組立型工業",
+          "options": [
+            "加工組立型工業",
+            "素材型工業",
+            "重化学工業",
+            "軽工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-08",
+          "question": "半導体・コンピューター・バイオテクノロジーなど，高度な技術を用いた工業を何というか。",
+          "answer": "先端技術産業（ハイテク産業）",
+          "options": [
+            "先端技術産業（ハイテク産業）",
+            "重化学工業",
+            "加工組立型工業",
+            "情報通信産業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-09",
+          "question": "IC（集積回路）やLSI（大規模集積回路）などの電子部品を何というか。",
+          "answer": "半導体",
+          "options": [
+            "半導体",
+            "トランジスタ",
+            "ダイオード",
+            "コンデンサー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-10",
+          "question": "製造工程を自動化し，コンピューターで制御する生産システムを何というか。",
+          "answer": "FA（ファクトリーオートメーション）",
+          "options": [
+            "FA（ファクトリーオートメーション）",
+            "AI",
+            "IoT",
+            "DX"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-11",
+          "question": "研究開発から生産・販売までを一貫して行う企業を何というか。",
+          "answer": "垂直統合型企業",
+          "options": [
+            "垂直統合型企業",
+            "水平分業型企業",
+            "多国籍企業",
+            "コングロマリット"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-12",
+          "question": "世界各地に生産・販売拠点を持つ巨大企業を何というか。",
+          "answer": "多国籍企業",
+          "options": [
+            "多国籍企業",
+            "垂直統合型企業",
+            "コングロマリット",
+            "中小企業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-13",
+          "question": "発展途上国が工業化を進めるために，輸入品に代わる製品を国内で生産する政策を何というか。",
+          "answer": "輸入代替型工業化",
+          "options": [
+            "輸入代替型工業化",
+            "輸出指向型工業化",
+            "自由貿易",
+            "保護貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-14",
+          "question": "発展途上国が工業化を進めるために，輸出向けの工業製品を生産する政策を何というか。",
+          "answer": "輸出指向型工業化",
+          "options": [
+            "輸出指向型工業化",
+            "輸入代替型工業化",
+            "自由貿易",
+            "保護貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-15",
+          "question": "1960年代以降に急速な工業化を遂げた韓国・台湾・香港・シンガポールを何と呼ぶか。",
+          "answer": "新興工業経済地域（NIES）",
+          "options": [
+            "新興工業経済地域（NIES）",
+            "BRICs",
+            "ASEAN",
+            "G7"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-16",
+          "question": "ブラジル・ロシア・インド・中国・南アフリカの新興経済大国を何と呼ぶか。",
+          "answer": "BRICs",
+          "options": [
+            "BRICs",
+            "NIES",
+            "ASEAN",
+            "G20"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-17",
+          "question": "工業の発展段階で，軽工業から重化学工業，さらに先端技術産業へと移行することを何というか。",
+          "answer": "工業の高度化",
+          "options": [
+            "工業の高度化",
+            "産業革命",
+            "工業化",
+            "近代化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-18",
+          "question": "先進国で製造業の比重が低下し，サービス業の比重が高まることを何というか。",
+          "answer": "脱工業化（ポスト工業化）",
+          "options": [
+            "脱工業化（ポスト工業化）",
+            "工業化",
+            "近代化",
+            "情報化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S1-19",
+          "question": "製造業の海外移転により国内の産業が空洞化することを何というか。",
+          "answer": "産業の空洞化",
+          "options": [
+            "産業の空洞化",
+            "脱工業化",
+            "グローバル化",
+            "産業革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "工業の立地と各種工業",
+      "questions": [
+        {
+          "id": "P2-C5-S2-01",
+          "question": "ドイツの経済学者ウェーバーが提唱した，工業立地を決定する要因の理論を何というか。",
+          "answer": "工業立地論",
+          "options": [
+            "工業立地論",
+            "中心地理論",
+            "農業立地論",
+            "都市化理論"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-02",
+          "question": "原料の重量が製品より大きく，原料産地に立地する工業を何というか。",
+          "answer": "原料指向型工業",
+          "options": [
+            "原料指向型工業",
+            "市場指向型工業",
+            "労働力指向型工業",
+            "臨海指向型工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-03",
+          "question": "製品の輸送費が高く，消費地に立地する工業を何というか。",
+          "answer": "市場指向型工業",
+          "options": [
+            "市場指向型工業",
+            "原料指向型工業",
+            "労働力指向型工業",
+            "臨海指向型工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-04",
+          "question": "安価な労働力を求めて立地する工業を何というか。",
+          "answer": "労働力指向型工業",
+          "options": [
+            "労働力指向型工業",
+            "原料指向型工業",
+            "市場指向型工業",
+            "臨海指向型工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-05",
+          "question": "原料や製品の輸送に便利な港湾に立地する工業を何というか。",
+          "answer": "臨海指向型工業",
+          "options": [
+            "臨海指向型工業",
+            "原料指向型工業",
+            "市場指向型工業",
+            "労働力指向型工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-06",
+          "question": "大量の電力を必要とするため，安価な電力が得られる地域に立地する工業を何というか。",
+          "answer": "電力指向型工業",
+          "options": [
+            "電力指向型工業",
+            "原料指向型工業",
+            "臨海指向型工業",
+            "労働力指向型工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-07",
+          "question": "世界最初の近代的工業として発展した繊維工業の中心地はどこか。",
+          "answer": "イギリスのランカシャー地方",
+          "options": [
+            "イギリスのランカシャー地方",
+            "ドイツのルール地方",
+            "フランスのリヨン",
+            "アメリカのニューイングランド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-08",
+          "question": "綿工業の中心として発展したイギリスの都市はどこか。",
+          "answer": "マンチェスター",
+          "options": [
+            "マンチェスター",
+            "バーミンガム",
+            "リヴァプール",
+            "リーズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-09",
+          "question": "毛織物工業の中心として発展したイギリスの都市はどこか。",
+          "answer": "リーズ",
+          "options": [
+            "リーズ",
+            "マンチェスター",
+            "バーミンガム",
+            "シェフィールド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-10",
+          "question": "鉄鉱石をコークスで還元して銑鉄を作る工程を何というか。",
+          "answer": "製銑",
+          "options": [
+            "製銑",
+            "製鋼",
+            "精錬",
+            "圧延"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-11",
+          "question": "銑鉄から不純物を除去して鋼を作る工程を何というか。",
+          "answer": "製鋼",
+          "options": [
+            "製鋼",
+            "製銑",
+            "精錬",
+            "圧延"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-12",
+          "question": "製銑から製鋼・圧延まで一貫して行う製鉄所を何というか。",
+          "answer": "銑鋼一貫製鉄所",
+          "options": [
+            "銑鋼一貫製鉄所",
+            "電炉メーカー",
+            "転炉メーカー",
+            "高炉メーカー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-13",
+          "question": "鉄くずを電気炉で溶かして鋼を作る製鉄所を何というか。",
+          "answer": "電炉メーカー",
+          "options": [
+            "電炉メーカー",
+            "銑鋼一貫製鉄所",
+            "転炉メーカー",
+            "高炉メーカー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-14",
+          "question": "石油を原料とする化学繊維・プラスチック・合成ゴムなどを生産する工業を何というか。",
+          "answer": "石油化学工業",
+          "options": [
+            "石油化学工業",
+            "製鉄業",
+            "機械工業",
+            "食品工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-15",
+          "question": "石油精製工場と石油化学工場が隣接して立地する形態を何というか。",
+          "answer": "石油化学コンビナート",
+          "options": [
+            "石油化学コンビナート",
+            "工業団地",
+            "テクノポリス",
+            "サイエンスパーク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-16",
+          "question": "セメントの主原料は何か。",
+          "answer": "石灰石",
+          "options": [
+            "石灰石",
+            "粘土",
+            "鉄鉱石",
+            "ボーキサイト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-17",
+          "question": "ガラス・陶磁器・セメントなど，非金属鉱物を原料とする工業を何というか。",
+          "answer": "窯業",
+          "options": [
+            "窯業",
+            "化学工業",
+            "金属工業",
+            "食品工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-18",
+          "question": "自動車産業の発祥国はどこか。",
+          "answer": "ドイツ",
+          "options": [
+            "ドイツ",
+            "アメリカ合衆国",
+            "イギリス",
+            "フランス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-19",
+          "question": "20世紀初頭に流れ作業方式による大量生産を確立した自動車メーカーはどこか。",
+          "answer": "フォード",
+          "options": [
+            "フォード",
+            "GM",
+            "クライスラー",
+            "トヨタ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-20",
+          "question": "航空機産業の中心的企業で，シアトルに本拠を置くアメリカの企業はどこか。",
+          "answer": "ボーイング",
+          "options": [
+            "ボーイング",
+            "エアバス",
+            "ロッキード",
+            "ノースロップ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S2-21",
+          "question": "航空機産業で，フランスのトゥールーズに本拠を置くヨーロッパの企業はどこか。",
+          "answer": "エアバス",
+          "options": [
+            "エアバス",
+            "ボーイング",
+            "ダッソー",
+            "BAEシステムズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "アングロアメリカの工業地域",
+      "questions": [
+        {
+          "id": "P2-C5-S3-01",
+          "question": "アメリカ合衆国北東部の最も古い工業地域を何というか。",
+          "answer": "ニューイングランド工業地域",
+          "options": [
+            "ニューイングランド工業地域",
+            "五大湖沿岸工業地域",
+            "メキシコ湾岸工業地域",
+            "太平洋岸工業地域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-02",
+          "question": "五大湖南岸からアパラチア山脈にかけての重工業地域の中心都市で，鉄鋼業の中心はどこか。",
+          "answer": "ピッツバーグ",
+          "options": [
+            "ピッツバーグ",
+            "デトロイト",
+            "シカゴ",
+            "クリーブランド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-03",
+          "question": "アメリカの自動車産業の中心都市はどこか。",
+          "answer": "デトロイト",
+          "options": [
+            "デトロイト",
+            "ピッツバーグ",
+            "シカゴ",
+            "クリーブランド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-04",
+          "question": "五大湖沿岸の食品加工・農業機械の中心都市はどこか。",
+          "answer": "シカゴ",
+          "options": [
+            "シカゴ",
+            "デトロイト",
+            "ピッツバーグ",
+            "クリーブランド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-05",
+          "question": "アメリカ南部から南西部にかけての温暖な工業地域を総称して何というか。",
+          "answer": "サンベルト",
+          "options": [
+            "サンベルト",
+            "ラストベルト",
+            "シリコンヴァレー",
+            "メガロポリス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-06",
+          "question": "五大湖沿岸の旧来の重工業地域が衰退した地域を何と呼ぶか。",
+          "answer": "ラストベルト（スノーベルト）",
+          "options": [
+            "ラストベルト（スノーベルト）",
+            "サンベルト",
+            "シリコンヴァレー",
+            "メガロポリス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-07",
+          "question": "カリフォルニア州サンフランシスコ郊外のIC・コンピューター産業の集積地を何というか。",
+          "answer": "シリコンヴァレー",
+          "options": [
+            "シリコンヴァレー",
+            "シリコンフォレスト",
+            "リサーチトライアングル",
+            "ボストン128号線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-08",
+          "question": "テキサス州ヒューストン周辺で盛んな工業は何か。",
+          "answer": "石油化学・航空宇宙産業",
+          "options": [
+            "石油化学・航空宇宙産業",
+            "自動車産業",
+            "鉄鋼業",
+            "繊維工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-09",
+          "question": "ワシントン州シアトルで盛んな工業は何か。",
+          "answer": "航空機産業（ボーイング）",
+          "options": [
+            "航空機産業（ボーイング）",
+            "自動車産業",
+            "鉄鋼業",
+            "石油化学"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-10",
+          "question": "ノースカロライナ州のダーラム・ローリー・チャペルヒルを結ぶ先端技術産業地域を何というか。",
+          "answer": "リサーチトライアングルパーク",
+          "options": [
+            "リサーチトライアングルパーク",
+            "シリコンヴァレー",
+            "ボストン128号線",
+            "シリコンフォレスト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-11",
+          "question": "ボストン郊外に位置するハイテク産業の集積地を何というか。",
+          "answer": "ルート128（ボストン128号線）",
+          "options": [
+            "ルート128（ボストン128号線）",
+            "シリコンヴァレー",
+            "リサーチトライアングル",
+            "シリコンフォレスト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-12",
+          "question": "カナダの工業の中心都市はどこか。",
+          "answer": "トロント",
+          "options": [
+            "トロント",
+            "モントリオール",
+            "バンクーバー",
+            "オタワ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-13",
+          "question": "ロサンゼルスで盛んな工業は何か。",
+          "answer": "航空宇宙・映画・ハイテク産業",
+          "options": [
+            "航空宇宙・映画・ハイテク産業",
+            "自動車・鉄鋼",
+            "石油化学",
+            "繊維工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S3-14",
+          "question": "アメリカ合衆国で自動車生産台数の多い日本メーカーの工場が集中する地域はどこか。",
+          "answer": "南部諸州（テネシー・ケンタッキーなど）",
+          "options": [
+            "南部諸州（テネシー・ケンタッキーなど）",
+            "五大湖沿岸",
+            "太平洋岸",
+            "メキシコ湾岸"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "ラテンアメリカとオセアニアの工業地域",
+      "questions": [
+        {
+          "id": "P2-C5-S4-01",
+          "question": "メキシコのアメリカ国境沿いに設置された，外国企業向けの保税加工区の工場を何というか。",
+          "answer": "マキラドーラ",
+          "options": [
+            "マキラドーラ",
+            "経済特区",
+            "輸出加工区",
+            "自由貿易地域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S4-02",
+          "question": "ブラジル最大の工業都市はどこか。",
+          "answer": "サンパウロ",
+          "options": [
+            "サンパウロ",
+            "リオデジャネイロ",
+            "ブラジリア",
+            "ベロオリゾンテ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S4-03",
+          "question": "ブラジルのアマゾン川流域に設置された自由貿易地域の都市はどこか。",
+          "answer": "マナウス",
+          "options": [
+            "マナウス",
+            "サンパウロ",
+            "ベレン",
+            "クリチバ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S4-04",
+          "question": "アルゼンチンの工業の中心都市はどこか。",
+          "answer": "ブエノスアイレス",
+          "options": [
+            "ブエノスアイレス",
+            "コルドバ",
+            "ロサリオ",
+            "メンドーサ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S4-05",
+          "question": "メキシコの工業の中心都市はどこか。",
+          "answer": "メキシコシティ",
+          "options": [
+            "メキシコシティ",
+            "グアダラハラ",
+            "モンテレイ",
+            "ティフアナ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S4-06",
+          "question": "オーストラリア最大の工業都市はどこか。",
+          "answer": "シドニー",
+          "options": [
+            "シドニー",
+            "メルボルン",
+            "ブリスベン",
+            "パース"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S4-07",
+          "question": "オーストラリア第2の工業都市で，自動車産業が立地していた都市はどこか。",
+          "answer": "メルボルン",
+          "options": [
+            "メルボルン",
+            "シドニー",
+            "アデレード",
+            "パース"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "ヨーロッパの工業地域",
+      "questions": [
+        {
+          "id": "P2-C5-S5-01",
+          "question": "産業革命発祥の地であるイギリスの工業都市で，鉄鋼業の中心はどこか。",
+          "answer": "シェフィールド",
+          "options": [
+            "シェフィールド",
+            "バーミンガム",
+            "マンチェスター",
+            "リーズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-02",
+          "question": "イギリス中部の金属・機械工業の中心都市はどこか。",
+          "answer": "バーミンガム",
+          "options": [
+            "バーミンガム",
+            "シェフィールド",
+            "マンチェスター",
+            "リーズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-03",
+          "question": "ロンドン東部に再開発で生まれた金融・ビジネス地区を何というか。",
+          "answer": "ドックランズ",
+          "options": [
+            "ドックランズ",
+            "シティ",
+            "テムズゲートウェイ",
+            "カナリーワーフ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-04",
+          "question": "ドイツ最大の工業地域であるルール工業地域の中心都市はどこか。",
+          "answer": "エッセン・ドルトムント",
+          "options": [
+            "エッセン・ドルトムント",
+            "フランクフルト",
+            "シュトゥットガルト",
+            "ミュンヘン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-05",
+          "question": "ドイツ南部の自動車産業の中心都市はどこか。",
+          "answer": "シュトゥットガルト",
+          "options": [
+            "シュトゥットガルト",
+            "ミュンヘン",
+            "フランクフルト",
+            "ハンブルク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-06",
+          "question": "BMW・ジーメンスなどの本社がある南ドイツの工業都市はどこか。",
+          "answer": "ミュンヘン",
+          "options": [
+            "ミュンヘン",
+            "シュトゥットガルト",
+            "フランクフルト",
+            "ベルリン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-07",
+          "question": "ドイツのライン川とマイン川の合流点に位置する金融・化学工業の中心都市はどこか。",
+          "answer": "フランクフルト",
+          "options": [
+            "フランクフルト",
+            "ミュンヘン",
+            "シュトゥットガルト",
+            "ケルン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-08",
+          "question": "ドイツ北部の港湾都市で，造船業の中心はどこか。",
+          "answer": "ハンブルク",
+          "options": [
+            "ハンブルク",
+            "ブレーメン",
+            "キール",
+            "ロストック"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-09",
+          "question": "フランスの工業の中心都市で，自動車・航空機・ファッション産業が盛んな都市はどこか。",
+          "answer": "パリ",
+          "options": [
+            "パリ",
+            "リヨン",
+            "マルセイユ",
+            "トゥールーズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-10",
+          "question": "フランス南西部の航空機産業（エアバス）の中心都市はどこか。",
+          "answer": "トゥールーズ",
+          "options": [
+            "トゥールーズ",
+            "パリ",
+            "リヨン",
+            "マルセイユ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-11",
+          "question": "フランス北東部のロレーヌ地方で盛んだった工業は何か。",
+          "answer": "鉄鋼業",
+          "options": [
+            "鉄鋼業",
+            "自動車産業",
+            "航空機産業",
+            "繊維工業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-12",
+          "question": "イタリア北部の自動車産業の中心都市で，フィアットの本社がある都市はどこか。",
+          "answer": "トリノ",
+          "options": [
+            "トリノ",
+            "ミラノ",
+            "ジェノヴァ",
+            "ボローニャ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-13",
+          "question": "イタリアの金融・ファッション・デザインの中心都市はどこか。",
+          "answer": "ミラノ",
+          "options": [
+            "ミラノ",
+            "トリノ",
+            "ローマ",
+            "フィレンツェ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-14",
+          "question": "イタリア中部の中小企業による伝統的工業が盛んな地域を何というか。",
+          "answer": "第三のイタリア",
+          "options": [
+            "第三のイタリア",
+            "北部三角地帯",
+            "メッツォジョルノ",
+            "ルネサンス地帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-15",
+          "question": "オランダのロッテルダムにある世界最大級の石油化学コンビナートを何というか。",
+          "answer": "ユーロポート",
+          "options": [
+            "ユーロポート",
+            "ルール工業地域",
+            "アントウェルペン",
+            "ロンドンドックランズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-16",
+          "question": "ベルギーのアントウェルペンで盛んな工業は何か。",
+          "answer": "ダイヤモンド加工・石油化学",
+          "options": [
+            "ダイヤモンド加工・石油化学",
+            "自動車産業",
+            "鉄鋼業",
+            "航空機産業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-17",
+          "question": "スペインのバルセロナで盛んな工業は何か。",
+          "answer": "繊維・自動車・化学",
+          "options": [
+            "繊維・自動車・化学",
+            "鉄鋼業",
+            "航空機産業",
+            "造船業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-18",
+          "question": "スウェーデンの自動車メーカーはどこか。",
+          "answer": "ボルボ",
+          "options": [
+            "ボルボ",
+            "サーブ",
+            "フィアット",
+            "ルノー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S5-19",
+          "question": "フィンランドのかつての携帯電話メーカーで，IT産業の中心だった企業は何か。",
+          "answer": "ノキア",
+          "options": [
+            "ノキア",
+            "エリクソン",
+            "ジーメンス",
+            "フィリップス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "ロシアとその周辺諸国の工業地域",
+      "questions": [
+        {
+          "id": "P2-C5-S6-01",
+          "question": "ロシアの首都で，機械・繊維・食品工業など多様な工業がある都市はどこか。",
+          "answer": "モスクワ",
+          "options": [
+            "モスクワ",
+            "サンクトペテルブルク",
+            "ニジニノヴゴロド",
+            "エカテリンブルク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S6-02",
+          "question": "ロシア第2の都市で，造船・機械・化学工業が盛んな都市はどこか。",
+          "answer": "サンクトペテルブルク",
+          "options": [
+            "サンクトペテルブルク",
+            "モスクワ",
+            "ニジニノヴゴロド",
+            "ノヴォシビルスク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S6-03",
+          "question": "ロシアのヴォルガ川中流域の自動車産業の中心都市はどこか。",
+          "answer": "ニジニノヴゴロド",
+          "options": [
+            "ニジニノヴゴロド",
+            "トリヤッチ",
+            "サマーラ",
+            "カザン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S6-04",
+          "question": "ウラル山脈の鉄鉱石を利用した重工業の中心都市はどこか。",
+          "answer": "エカテリンブルク",
+          "options": [
+            "エカテリンブルク",
+            "マグニトゴルスク",
+            "チェリャビンスク",
+            "ペルミ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S6-05",
+          "question": "ウラル山脈の鉄鋼都市として建設された都市はどこか。",
+          "answer": "マグニトゴルスク",
+          "options": [
+            "マグニトゴルスク",
+            "エカテリンブルク",
+            "チェリャビンスク",
+            "ニジニタギル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S6-06",
+          "question": "シベリアのクズネツク炭田を基盤に発展した工業都市はどこか。",
+          "answer": "ノヴォクズネツク",
+          "options": [
+            "ノヴォクズネツク",
+            "ノヴォシビルスク",
+            "オムスク",
+            "クラスノヤルスク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S6-07",
+          "question": "ウクライナの鉄鋼業の中心都市はどこか。",
+          "answer": "ドニエプロペトロフスク",
+          "options": [
+            "ドニエプロペトロフスク",
+            "ハリコフ",
+            "キーウ",
+            "ドネツク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S6-08",
+          "question": "ソ連時代に計画経済のもとで建設された工業地域の特徴を何というか。",
+          "answer": "コンビナート方式",
+          "options": [
+            "コンビナート方式",
+            "市場経済",
+            "民間主導",
+            "自由競争"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S6-09",
+          "question": "ソ連崩壊後のロシアの産業構造の変化で最も成長した分野は何か。",
+          "answer": "エネルギー（石油・天然ガス）",
+          "options": [
+            "エネルギー（石油・天然ガス）",
+            "重工業",
+            "軽工業",
+            "農業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "アジアの工業地域",
+      "questions": [
+        {
+          "id": "P2-C5-S7-01",
+          "question": "中国が1980年代に対外開放政策として設置した，外国資本を誘致する地域を何というか。",
+          "answer": "経済特区",
+          "options": [
+            "経済特区",
+            "自由貿易地域",
+            "輸出加工区",
+            "マキラドーラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-02",
+          "question": "中国の経済特区の1つで，香港に隣接する広東省の都市はどこか。",
+          "answer": "深圳（シェンチェン）",
+          "options": [
+            "深圳（シェンチェン）",
+            "珠海",
+            "汕頭",
+            "廈門"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-03",
+          "question": "中国最大の工業都市で，長江河口に位置する都市はどこか。",
+          "answer": "上海",
+          "options": [
+            "上海",
+            "北京",
+            "天津",
+            "広州"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-04",
+          "question": "中国東北部の重工業の中心都市で，旧満州時代に発展した都市はどこか。",
+          "answer": "瀋陽",
+          "options": [
+            "瀋陽",
+            "長春",
+            "ハルビン",
+            "大連"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-05",
+          "question": "中国東北部の自動車産業の中心都市はどこか。",
+          "answer": "長春",
+          "options": [
+            "長春",
+            "瀋陽",
+            "ハルビン",
+            "大連"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-06",
+          "question": "中国の珠江デルタ地域の工業の中心都市はどこか。",
+          "answer": "広州・深圳",
+          "options": [
+            "広州・深圳",
+            "上海",
+            "北京",
+            "天津"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-07",
+          "question": "中国の華中の鉄鋼業の中心都市で，長江中流に位置する都市はどこか。",
+          "answer": "武漢",
+          "options": [
+            "武漢",
+            "重慶",
+            "成都",
+            "南京"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-08",
+          "question": "中国北部の首都で，ハイテク産業が発展している都市はどこか。",
+          "answer": "北京",
+          "options": [
+            "北京",
+            "天津",
+            "上海",
+            "瀋陽"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-09",
+          "question": "韓国最大の工業都市はどこか。",
+          "answer": "ソウル",
+          "options": [
+            "ソウル",
+            "釜山",
+            "蔚山",
+            "仁川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-10",
+          "question": "韓国の臨海工業都市で，現代自動車・造船業の中心はどこか。",
+          "answer": "蔚山",
+          "options": [
+            "蔚山",
+            "釜山",
+            "浦項",
+            "巨済"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-11",
+          "question": "韓国の鉄鋼業の中心都市で，POSCOの製鉄所がある都市はどこか。",
+          "answer": "浦項",
+          "options": [
+            "浦項",
+            "蔚山",
+            "仁川",
+            "光陽"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-12",
+          "question": "台湾のハイテク産業の中心地で，「台湾のシリコンヴァレー」と呼ばれる都市はどこか。",
+          "answer": "新竹",
+          "options": [
+            "新竹",
+            "台北",
+            "台中",
+            "高雄"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-13",
+          "question": "シンガポールで盛んな工業は何か。",
+          "answer": "石油精製・電子・バイオ",
+          "options": [
+            "石油精製・電子・バイオ",
+            "自動車・鉄鋼",
+            "繊維・食品",
+            "造船・航空機"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-14",
+          "question": "タイの工業の中心都市はどこか。",
+          "answer": "バンコク",
+          "options": [
+            "バンコク",
+            "チェンマイ",
+            "プーケット",
+            "アユタヤ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-15",
+          "question": "マレーシアのハイテク産業が集積する地域はどこか。",
+          "answer": "ペナン",
+          "options": [
+            "ペナン",
+            "クアラルンプール",
+            "ジョホールバル",
+            "マラッカ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-16",
+          "question": "インド南部のIT産業の中心都市はどこか。",
+          "answer": "バンガロール（ベンガルール）",
+          "options": [
+            "バンガロール（ベンガルール）",
+            "チェンナイ",
+            "ハイデラバード",
+            "ムンバイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-17",
+          "question": "インド西部の商業・映画産業の中心都市で，綿工業が盛んな都市はどこか。",
+          "answer": "ムンバイ",
+          "options": [
+            "ムンバイ",
+            "デリー",
+            "コルカタ",
+            "チェンナイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-18",
+          "question": "インド東部の工業都市で，ジュート工業・製鉄業が盛んな都市はどこか。",
+          "answer": "コルカタ",
+          "options": [
+            "コルカタ",
+            "ムンバイ",
+            "ジャムシェドプル",
+            "チェンナイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-19",
+          "question": "インドの鉄鋼業の中心都市で，タタ製鉄所がある都市はどこか。",
+          "answer": "ジャムシェドプル",
+          "options": [
+            "ジャムシェドプル",
+            "コルカタ",
+            "ムンバイ",
+            "チェンナイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-20",
+          "question": "ASEAN諸国が外国企業を誘致するために設置した地域を何というか。",
+          "answer": "輸出加工区",
+          "options": [
+            "輸出加工区",
+            "経済特区",
+            "自由貿易地域",
+            "マキラドーラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-21",
+          "question": "インドネシアの工業の中心都市はどこか。",
+          "answer": "ジャカルタ",
+          "options": [
+            "ジャカルタ",
+            "スラバヤ",
+            "バンドン",
+            "メダン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S7-22",
+          "question": "ベトナムで外国資本による工業化が進んでいる最大の商工業都市はどこか。",
+          "answer": "ホーチミン",
+          "options": [
+            "ホーチミン",
+            "ハノイ",
+            "ダナン",
+            "ハイフォン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "日本の工業地域",
+      "questions": [
+        {
+          "id": "P2-C5-S8-01",
+          "question": "東京から北九州にかけての太平洋沿岸に連なる日本の主要工業地帯を何というか。",
+          "answer": "太平洋ベルト",
+          "options": [
+            "太平洋ベルト",
+            "日本海側工業地域",
+            "内陸工業地域",
+            "臨海工業地域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-02",
+          "question": "東京・横浜を中心とする工業地帯を何というか。",
+          "answer": "京浜工業地帯",
+          "options": [
+            "京浜工業地帯",
+            "中京工業地帯",
+            "阪神工業地帯",
+            "北九州工業地帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-03",
+          "question": "名古屋を中心とする，日本最大の出荷額を誇る工業地帯を何というか。",
+          "answer": "中京工業地帯",
+          "options": [
+            "中京工業地帯",
+            "京浜工業地帯",
+            "阪神工業地帯",
+            "北九州工業地帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-04",
+          "question": "大阪・神戸を中心とする工業地帯を何というか。",
+          "answer": "阪神工業地帯",
+          "options": [
+            "阪神工業地帯",
+            "京浜工業地帯",
+            "中京工業地帯",
+            "北九州工業地帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-05",
+          "question": "八幡製鉄所を中心に発展した工業地帯を何というか。",
+          "answer": "北九州工業地帯",
+          "options": [
+            "北九州工業地帯",
+            "京浜工業地帯",
+            "阪神工業地帯",
+            "中京工業地帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-06",
+          "question": "岡山県倉敷市水島地区の石油化学コンビナートを中心とする工業地域を何というか。",
+          "answer": "瀬戸内工業地域",
+          "options": [
+            "瀬戸内工業地域",
+            "北関東工業地域",
+            "東海工業地域",
+            "北陸工業地域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-07",
+          "question": "愛知県豊田市を中心とする自動車産業の集積地で，中京工業地帯の中心的メーカーは何か。",
+          "answer": "トヨタ自動車",
+          "options": [
+            "トヨタ自動車",
+            "ホンダ",
+            "日産",
+            "スズキ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-08",
+          "question": "千葉県の京葉工業地域で盛んな工業は何か。",
+          "answer": "石油化学・鉄鋼",
+          "options": [
+            "石油化学・鉄鋼",
+            "自動車・精密機械",
+            "繊維・食品",
+            "電子・半導体"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-09",
+          "question": "鹿島臨海工業地域の中心的工業は何か。",
+          "answer": "鉄鋼・石油化学",
+          "options": [
+            "鉄鋼・石油化学",
+            "自動車",
+            "繊維",
+            "食品"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-10",
+          "question": "日本の工業が臨海部から内陸部へ分散した理由は何か。",
+          "answer": "高速道路網の整備と用地確保",
+          "options": [
+            "高速道路網の整備と用地確保",
+            "原料の変化",
+            "労働力不足",
+            "環境規制"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-11",
+          "question": "長野県の諏訪地方で盛んな精密機械工業の中心都市はどこか。",
+          "answer": "諏訪・岡谷",
+          "options": [
+            "諏訪・岡谷",
+            "松本",
+            "長野",
+            "上田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-12",
+          "question": "群馬県太田市で盛んな工業は何か。",
+          "answer": "自動車（SUBARU）",
+          "options": [
+            "自動車（SUBARU）",
+            "精密機械",
+            "電子部品",
+            "繊維"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-13",
+          "question": "静岡県浜松市で盛んな工業は何か。",
+          "answer": "楽器・オートバイ（ヤマハ・スズキ）",
+          "options": [
+            "楽器・オートバイ（ヤマハ・スズキ）",
+            "自動車",
+            "鉄鋼",
+            "石油化学"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-14",
+          "question": "九州がIC工場の集積地となったことから何と呼ばれるか。",
+          "answer": "シリコンアイランド",
+          "options": [
+            "シリコンアイランド",
+            "テクノポリス",
+            "シリコンヴァレー",
+            "サイエンスパーク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C5-S8-15",
+          "question": "東北地方がIC工場の集積地となったことから何と呼ばれるか。",
+          "answer": "シリコンロード",
+          "options": [
+            "シリコンロード",
+            "シリコンアイランド",
+            "テクノポリス",
+            "サイエンスパーク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

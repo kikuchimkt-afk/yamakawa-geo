@@ -1,0 +1,1511 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 2,
+    "title": "資源と産業"
+  },
+  "chapter": {
+    "number": 4,
+    "title": "エネルギー・鉱産資源の利用"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "エネルギー・鉱産資源の種類と開発",
+      "questions": [
+        {
+          "id": "P2-C4-S1-01",
+          "question": "石炭・石油・天然ガスなど，古代の動植物の遺骸が地中で変化してできた燃料を総称して何というか。",
+          "answer": "化石燃料",
+          "options": [
+            "化石燃料",
+            "再生可能エネルギー",
+            "バイオマス",
+            "鉱物資源"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S1-02",
+          "question": "太陽光・風力・地熱・水力など，自然の力で繰り返し利用できるエネルギーを何というか。",
+          "answer": "再生可能エネルギー",
+          "options": [
+            "再生可能エネルギー",
+            "化石燃料",
+            "原子力",
+            "バイオマス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S1-03",
+          "question": "石炭・石油・天然ガス・ウランなど，現在の技術水準で経済的に採掘可能な量を何というか。",
+          "answer": "確認埋蔵量",
+          "options": [
+            "確認埋蔵量",
+            "推定埋蔵量",
+            "究極埋蔵量",
+            "可採年数"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S1-04",
+          "question": "確認埋蔵量を年間生産量で割った値を何というか。",
+          "answer": "可採年数",
+          "options": [
+            "可採年数",
+            "確認埋蔵量",
+            "推定埋蔵量",
+            "採掘量"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S1-05",
+          "question": "鉱産資源のうち，金属の原料となる鉱石を何というか。",
+          "answer": "金属鉱物資源",
+          "options": [
+            "金属鉱物資源",
+            "非金属鉱物資源",
+            "化石燃料",
+            "レアメタル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S1-06",
+          "question": "鉱産資源のうち，石灰石・りん鉱石・ダイヤモンドなど非金属の鉱物を何というか。",
+          "answer": "非金属鉱物資源",
+          "options": [
+            "非金属鉱物資源",
+            "金属鉱物資源",
+            "化石燃料",
+            "レアメタル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "石炭",
+      "questions": [
+        {
+          "id": "P2-C4-S2-01",
+          "question": "古生代の巨大なシダ植物が地中で炭化してできた燃料を何というか。",
+          "answer": "石炭",
+          "options": [
+            "石炭",
+            "石油",
+            "天然ガス",
+            "泥炭"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-02",
+          "question": "石炭の中で最も炭化度が高く，発熱量の大きいものを何というか。",
+          "answer": "無煙炭",
+          "options": [
+            "無煙炭",
+            "瀝青炭",
+            "褐炭",
+            "泥炭"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-03",
+          "question": "コークスの原料となり，製鉄に用いられる石炭を何というか。",
+          "answer": "瀝青炭（歴青炭）",
+          "options": [
+            "瀝青炭（歴青炭）",
+            "無煙炭",
+            "褐炭",
+            "泥炭"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-04",
+          "question": "炭化度が低く，発熱量の小さい石炭を何というか。",
+          "answer": "褐炭",
+          "options": [
+            "褐炭",
+            "無煙炭",
+            "瀝青炭",
+            "泥炭"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-05",
+          "question": "石炭を高温で蒸し焼きにして作る，製鉄の原料となるものを何というか。",
+          "answer": "コークス",
+          "options": [
+            "コークス",
+            "石炭ガス",
+            "タール",
+            "ピッチ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-06",
+          "question": "アメリカ合衆国東部に広がる，アパラチア山脈沿いの大炭田を何というか。",
+          "answer": "アパラチア炭田",
+          "options": [
+            "アパラチア炭田",
+            "ペンシルバニア炭田",
+            "ピッツバーグ炭田",
+            "イリノイ炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-07",
+          "question": "ドイツ西部のライン川支流ルール川流域に広がる炭田を何というか。",
+          "answer": "ルール炭田",
+          "options": [
+            "ルール炭田",
+            "ザール炭田",
+            "シレジア炭田",
+            "ヨークシャー炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-08",
+          "question": "ルール炭田の中心都市で，鉄鋼業の中心地として発展した都市はどこか。",
+          "answer": "エッセン",
+          "options": [
+            "エッセン",
+            "ドルトムント",
+            "デュイスブルク",
+            "デュッセルドルフ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-09",
+          "question": "フランスとドイツの国境付近に位置する炭田を何というか。",
+          "answer": "ザール炭田",
+          "options": [
+            "ザール炭田",
+            "ルール炭田",
+            "シレジア炭田",
+            "ロレーヌ炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-10",
+          "question": "ポーランド南部からチェコにかけて広がる炭田を何というか。",
+          "answer": "シレジア炭田",
+          "options": [
+            "シレジア炭田",
+            "ルール炭田",
+            "ザール炭田",
+            "ドネツ炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-11",
+          "question": "ウクライナ東部のドニエプル川支流域に広がる炭田を何というか。",
+          "answer": "ドネツ炭田",
+          "options": [
+            "ドネツ炭田",
+            "クズネツク炭田",
+            "シレジア炭田",
+            "カラガンダ炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-12",
+          "question": "ロシアのシベリア南西部に位置する炭田を何というか。",
+          "answer": "クズネツク炭田",
+          "options": [
+            "クズネツク炭田",
+            "ドネツ炭田",
+            "カラガンダ炭田",
+            "エキバストス炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-13",
+          "question": "中国山西省の省都で，中国最大の炭田がある都市はどこか。",
+          "answer": "大同（山西省）",
+          "options": [
+            "大同（山西省）",
+            "撫順",
+            "開灤",
+            "唐山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-14",
+          "question": "中国東北部遼寧省の炭鉱で，かつて日本の満州経営の中心であった炭田はどこか。",
+          "answer": "撫順",
+          "options": [
+            "撫順",
+            "大同",
+            "開灤",
+            "鶴崗"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-15",
+          "question": "イギリスの中部から北部にかけて広がる炭田を何というか。",
+          "answer": "ヨークシャー炭田",
+          "options": [
+            "ヨークシャー炭田",
+            "ランカシャー炭田",
+            "ウェールズ炭田",
+            "ルール炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-16",
+          "question": "インド東部の大炭田を何というか。",
+          "answer": "ダモダル炭田",
+          "options": [
+            "ダモダル炭田",
+            "シレジア炭田",
+            "ドネツ炭田",
+            "大同炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-17",
+          "question": "オーストラリア東部の炭田を何というか。",
+          "answer": "モウラ炭田",
+          "options": [
+            "モウラ炭田",
+            "ハンターバレー炭田",
+            "ダモダル炭田",
+            "アパラチア炭田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-18",
+          "question": "世界の石炭生産量第1位の国はどこか。",
+          "answer": "中国",
+          "options": [
+            "中国",
+            "アメリカ合衆国",
+            "インド",
+            "オーストラリア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S2-19",
+          "question": "石炭の輸出量が世界最大の国はどこか。",
+          "answer": "オーストラリア",
+          "options": [
+            "オーストラリア",
+            "インドネシア",
+            "ロシア",
+            "アメリカ合衆国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "石油・天然ガス",
+      "questions": [
+        {
+          "id": "P2-C4-S3-01",
+          "question": "古代の海洋プランクトンなどの遺骸が地下で変化してできた液体燃料を何というか。",
+          "answer": "石油",
+          "options": [
+            "石油",
+            "天然ガス",
+            "石炭",
+            "コークス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-02",
+          "question": "石油の産出に伴って得られる可燃性のガスを何というか。",
+          "answer": "天然ガス",
+          "options": [
+            "天然ガス",
+            "石炭ガス",
+            "都市ガス",
+            "LPG"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-03",
+          "question": "天然ガスを-162℃に冷却して液化したものを何というか。",
+          "answer": "LNG（液化天然ガス）",
+          "options": [
+            "LNG（液化天然ガス）",
+            "LPG",
+            "CNG",
+            "石油ガス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-04",
+          "question": "サウジアラビアにある世界最大の油田を何というか。",
+          "answer": "ガワール油田",
+          "options": [
+            "ガワール油田",
+            "ブルガン油田",
+            "キルクーク油田",
+            "マスジェデ・ソレイマーン油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-05",
+          "question": "クウェートにある大油田を何というか。",
+          "answer": "ブルガン油田",
+          "options": [
+            "ブルガン油田",
+            "ガワール油田",
+            "キルクーク油田",
+            "マスジェデ・ソレイマーン油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-06",
+          "question": "イラク北部の大油田を何というか。",
+          "answer": "キルクーク油田",
+          "options": [
+            "キルクーク油田",
+            "ガワール油田",
+            "ブルガン油田",
+            "アバダン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-07",
+          "question": "ロシアのウラル山脈西側に広がる油田・ガス田地帯を何というか。",
+          "answer": "第二バクー（ヴォルガ・ウラル油田）",
+          "options": [
+            "第二バクー（ヴォルガ・ウラル油田）",
+            "西シベリア油田",
+            "バクー油田",
+            "サハリン油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-08",
+          "question": "ロシアの西シベリア低地に広がる大油田・ガス田を何というか。",
+          "answer": "チュメニ油田（西シベリア油田）",
+          "options": [
+            "チュメニ油田（西シベリア油田）",
+            "第二バクー",
+            "バクー油田",
+            "サハリン油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-09",
+          "question": "中国東北部の大慶にある，中国最大の油田を何というか。",
+          "answer": "ターチン（大慶）油田",
+          "options": [
+            "ターチン（大慶）油田",
+            "ションリー油田",
+            "カラマイ油田",
+            "渤海湾油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-10",
+          "question": "アメリカ合衆国テキサス州・ルイジアナ州を中心とするメキシコ湾岸の油田地帯を何というか。",
+          "answer": "メキシコ湾岸油田",
+          "options": [
+            "メキシコ湾岸油田",
+            "カリフォルニア油田",
+            "アラスカ油田",
+            "アパラチア油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-11",
+          "question": "ベネズエラのマラカイボ湖周辺の油田を何というか。",
+          "answer": "マラカイボ油田",
+          "options": [
+            "マラカイボ油田",
+            "メキシコ湾岸油田",
+            "プルドーベイ油田",
+            "ガワール油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-12",
+          "question": "アラスカ北部の油田を何というか。",
+          "answer": "プルドーベイ油田",
+          "options": [
+            "プルドーベイ油田",
+            "メキシコ湾岸油田",
+            "マラカイボ油田",
+            "カリフォルニア油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-13",
+          "question": "北海にある油田・ガス田はどの国が主に開発しているか。",
+          "answer": "イギリス・ノルウェー",
+          "options": [
+            "イギリス・ノルウェー",
+            "ドイツ・オランダ",
+            "フランス・ベルギー",
+            "デンマーク・スウェーデン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-14",
+          "question": "ナイジェリアのニジェール川デルタ地帯の油田地帯を何というか。",
+          "answer": "ニジェールデルタ油田",
+          "options": [
+            "ニジェールデルタ油田",
+            "リビア油田",
+            "アルジェリア油田",
+            "ガボン油田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-15",
+          "question": "石油を長距離輸送するための管路を何というか。",
+          "answer": "パイプライン",
+          "options": [
+            "パイプライン",
+            "タンカー",
+            "鉄道",
+            "トラック"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-16",
+          "question": "旧ソ連からヨーロッパ向けに石油を送る主要パイプラインを何というか。",
+          "answer": "ドルジバ（友好）パイプライン",
+          "options": [
+            "ドルジバ（友好）パイプライン",
+            "BTCパイプライン",
+            "トランスアラスカ・パイプライン",
+            "TAP"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-17",
+          "question": "カスピ海のバクーからトルコのジェイハンまでの石油パイプラインを何というか。",
+          "answer": "BTCパイプライン",
+          "options": [
+            "BTCパイプライン",
+            "ドルジバパイプライン",
+            "トランスアラスカ・パイプライン",
+            "TAP"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-18",
+          "question": "世界の石油生産量第1位の国はどこか。",
+          "answer": "アメリカ合衆国",
+          "options": [
+            "アメリカ合衆国",
+            "サウジアラビア",
+            "ロシア",
+            "カナダ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-19",
+          "question": "頁岩（シェール）層に含まれる石油・天然ガスを何というか。",
+          "answer": "シェールオイル・シェールガス",
+          "options": [
+            "シェールオイル・シェールガス",
+            "オイルサンド",
+            "メタンハイドレート",
+            "LNG"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S3-20",
+          "question": "カナダのアルバータ州に大量に賦存する，砂と原油が混合した石油資源を何というか。",
+          "answer": "オイルサンド",
+          "options": [
+            "オイルサンド",
+            "シェールオイル",
+            "メタンハイドレート",
+            "重質油"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "電力",
+      "questions": [
+        {
+          "id": "P2-C4-S4-01",
+          "question": "石炭・石油・天然ガスなどの化石燃料を燃焼させて発電する方式を何というか。",
+          "answer": "火力発電",
+          "options": [
+            "火力発電",
+            "水力発電",
+            "原子力発電",
+            "地熱発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-02",
+          "question": "河川の水を利用して発電する方式を何というか。",
+          "answer": "水力発電",
+          "options": [
+            "水力発電",
+            "火力発電",
+            "原子力発電",
+            "潮力発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-03",
+          "question": "ウランの核分裂エネルギーを利用して発電する方式を何というか。",
+          "answer": "原子力発電",
+          "options": [
+            "原子力発電",
+            "火力発電",
+            "水力発電",
+            "核融合発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-04",
+          "question": "地下のマグマの熱を利用して発電する方式を何というか。",
+          "answer": "地熱発電",
+          "options": [
+            "地熱発電",
+            "火力発電",
+            "水力発電",
+            "太陽光発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-05",
+          "question": "太陽の光エネルギーを電気に変換して発電する方式を何というか。",
+          "answer": "太陽光発電",
+          "options": [
+            "太陽光発電",
+            "太陽熱発電",
+            "風力発電",
+            "地熱発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-06",
+          "question": "風の力を利用して発電する方式を何というか。",
+          "answer": "風力発電",
+          "options": [
+            "風力発電",
+            "太陽光発電",
+            "水力発電",
+            "潮力発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-07",
+          "question": "アメリカのテネシー川流域で行われた総合開発計画を何というか。",
+          "answer": "TVA（テネシー川流域開発公社）",
+          "options": [
+            "TVA（テネシー川流域開発公社）",
+            "フーヴァーダム",
+            "グランドクーリーダム",
+            "三峡ダム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-08",
+          "question": "アメリカのコロラド川に建設された多目的ダムを何というか。",
+          "answer": "フーヴァーダム",
+          "options": [
+            "フーヴァーダム",
+            "グランドクーリーダム",
+            "三峡ダム",
+            "イタイプダム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-09",
+          "question": "アメリカのコロンビア川に建設された多目的ダムを何というか。",
+          "answer": "グランドクーリーダム",
+          "options": [
+            "グランドクーリーダム",
+            "フーヴァーダム",
+            "三峡ダム",
+            "イタイプダム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-10",
+          "question": "中国の長江に建設された世界最大級のダムを何というか。",
+          "answer": "三峡ダム",
+          "options": [
+            "三峡ダム",
+            "フーヴァーダム",
+            "イタイプダム",
+            "アスワンハイダム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-11",
+          "question": "ブラジルとパラグアイの国境のパラナ川に建設された巨大ダムを何というか。",
+          "answer": "イタイプダム",
+          "options": [
+            "イタイプダム",
+            "三峡ダム",
+            "フーヴァーダム",
+            "アスワンハイダム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-12",
+          "question": "エジプトのナイル川に建設されたダムを何というか。",
+          "answer": "アスワンハイダム",
+          "options": [
+            "アスワンハイダム",
+            "三峡ダム",
+            "イタイプダム",
+            "フーヴァーダム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-13",
+          "question": "ロシアのシベリアに建設された世界最大級の水力発電所が設置された河川はどこか。",
+          "answer": "エニセイ川・アンガラ川",
+          "options": [
+            "エニセイ川・アンガラ川",
+            "ヴォルガ川",
+            "レナ川",
+            "オビ川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-14",
+          "question": "原子力発電の割合が最も高い国はどこか。",
+          "answer": "フランス",
+          "options": [
+            "フランス",
+            "アメリカ合衆国",
+            "日本",
+            "ロシア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-15",
+          "question": "世界最大の地熱発電所があるアメリカの地域はどこか。",
+          "answer": "ガイザーズ（カリフォルニア）",
+          "options": [
+            "ガイザーズ（カリフォルニア）",
+            "イエローストーン",
+            "ハワイ",
+            "アイスランド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-16",
+          "question": "デンマークで盛んに利用されている再生可能エネルギーは何か。",
+          "answer": "風力発電",
+          "options": [
+            "風力発電",
+            "太陽光発電",
+            "地熱発電",
+            "バイオマス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-17",
+          "question": "アイスランドで盛んに利用されているエネルギーは何か。",
+          "answer": "地熱発電・水力発電",
+          "options": [
+            "地熱発電・水力発電",
+            "原子力発電",
+            "火力発電",
+            "風力発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-18",
+          "question": "ブラジルの電力の大部分を占める発電方式は何か。",
+          "answer": "水力発電",
+          "options": [
+            "水力発電",
+            "火力発電",
+            "原子力発電",
+            "風力発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S4-19",
+          "question": "ノルウェーの電力のほぼ全てを占める発電方式は何か。",
+          "answer": "水力発電",
+          "options": [
+            "水力発電",
+            "火力発電",
+            "原子力発電",
+            "風力発電"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "鉄鉱石",
+      "questions": [
+        {
+          "id": "P2-C4-S5-01",
+          "question": "鉄鉱石の主要な成分である酸化鉄の鉱物で，鉄の含有量が60～70％の鉱石を何というか。",
+          "answer": "赤鉄鉱（ヘマタイト）",
+          "options": [
+            "赤鉄鉱（ヘマタイト）",
+            "磁鉄鉱",
+            "褐鉄鉱",
+            "菱鉄鉱"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-02",
+          "question": "アメリカ合衆国五大湖南西のスペリオル湖畔にある鉄山を何というか。",
+          "answer": "メサビ鉄山",
+          "options": [
+            "メサビ鉄山",
+            "イタビラ鉄山",
+            "カラジャス鉄山",
+            "ピルバラ鉄山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-03",
+          "question": "ブラジル南東部ミナスジェライス州にある鉄山を何というか。",
+          "answer": "イタビラ鉄山",
+          "options": [
+            "イタビラ鉄山",
+            "カラジャス鉄山",
+            "メサビ鉄山",
+            "ピルバラ鉄山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-04",
+          "question": "ブラジルのアマゾン川流域にある世界最大級の鉄山を何というか。",
+          "answer": "カラジャス鉄山",
+          "options": [
+            "カラジャス鉄山",
+            "イタビラ鉄山",
+            "メサビ鉄山",
+            "ピルバラ鉄山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-05",
+          "question": "オーストラリア西部の鉄鉱石産地を何というか。",
+          "answer": "ピルバラ地区",
+          "options": [
+            "ピルバラ地区",
+            "メサビ鉄山",
+            "カラジャス鉄山",
+            "イタビラ鉄山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-06",
+          "question": "インド東部のビハール州・オリッサ州にある鉄鉱石産地はどこか。",
+          "answer": "シングブーム",
+          "options": [
+            "シングブーム",
+            "ダモダル",
+            "デカン高原",
+            "ゴア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-07",
+          "question": "スウェーデン北部のラップランドにある鉄鉱石産地を何というか。",
+          "answer": "キルナ",
+          "options": [
+            "キルナ",
+            "イェリヴァレ",
+            "ルレオ",
+            "ナルヴィク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-08",
+          "question": "ロシアのウラル山脈にある鉄鉱石産地はどこか。",
+          "answer": "マグニトゴルスク",
+          "options": [
+            "マグニトゴルスク",
+            "クルスク",
+            "クリヴォイログ",
+            "チェリャビンスク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-09",
+          "question": "ウクライナのドニエプル川流域にある鉄鉱石産地を何というか。",
+          "answer": "クリヴォイログ",
+          "options": [
+            "クリヴォイログ",
+            "マグニトゴルスク",
+            "クルスク",
+            "ドネツク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-10",
+          "question": "世界の鉄鉱石生産量第1位の国はどこか。",
+          "answer": "オーストラリア",
+          "options": [
+            "オーストラリア",
+            "ブラジル",
+            "中国",
+            "インド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-11",
+          "question": "世界の鉄鉱石輸出量第1位の国はどこか。",
+          "answer": "オーストラリア",
+          "options": [
+            "オーストラリア",
+            "ブラジル",
+            "南アフリカ",
+            "カナダ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S5-12",
+          "question": "フランスのロレーヌ地方で産出する，りん分を多く含む鉄鉱石を何というか。",
+          "answer": "ミネット",
+          "options": [
+            "ミネット",
+            "ヘマタイト",
+            "マグネタイト",
+            "リモナイト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "非鉄金属",
+      "questions": [
+        {
+          "id": "P2-C4-S6-01",
+          "question": "電気伝導性に優れ，電線・電気機器に用いられる非鉄金属は何か。",
+          "answer": "銅",
+          "options": [
+            "銅",
+            "アルミニウム",
+            "すず",
+            "亜鉛"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-02",
+          "question": "チリにある世界最大の露天掘り銅山を何というか。",
+          "answer": "チュキカマタ銅山",
+          "options": [
+            "チュキカマタ銅山",
+            "エスコンディーダ銅山",
+            "ビンガム銅山",
+            "カタンガ銅山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-03",
+          "question": "アフリカ中南部のザンビアとコンゴ民主共和国にまたがる銅の産地を何というか。",
+          "answer": "カッパーベルト",
+          "options": [
+            "カッパーベルト",
+            "ウィットウォーターズランド",
+            "メサビ",
+            "ピルバラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-04",
+          "question": "アルミニウムの原料となる鉱石を何というか。",
+          "answer": "ボーキサイト",
+          "options": [
+            "ボーキサイト",
+            "銅鉱石",
+            "すず鉱石",
+            "鉄鉱石"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-05",
+          "question": "ボーキサイトからアルミニウムを製錬するために大量に必要なものは何か。",
+          "answer": "電力",
+          "options": [
+            "電力",
+            "石炭",
+            "石油",
+            "天然ガス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-06",
+          "question": "ボーキサイトの生産量が世界第1位の国はどこか。",
+          "answer": "オーストラリア",
+          "options": [
+            "オーストラリア",
+            "ギニア",
+            "ブラジル",
+            "ジャマイカ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-07",
+          "question": "マレーシアやインドネシアが主要産地である非鉄金属で，めっきや合金に用いられるものは何か。",
+          "answer": "すず",
+          "options": [
+            "すず",
+            "銅",
+            "亜鉛",
+            "ニッケル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-08",
+          "question": "南アフリカ共和国のヨハネスブルク近郊にある世界最大の金鉱地帯を何というか。",
+          "answer": "ウィットウォーターズランド",
+          "options": [
+            "ウィットウォーターズランド",
+            "カッパーベルト",
+            "キンバリー",
+            "ピルバラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-09",
+          "question": "南アフリカ共和国が世界有数の産出国であるダイヤモンドの産地として有名な都市はどこか。",
+          "answer": "キンバリー",
+          "options": [
+            "キンバリー",
+            "ヨハネスブルク",
+            "ケープタウン",
+            "プレトリア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-10",
+          "question": "産出量が少なく，希少で産業に不可欠な金属を総称して何というか。",
+          "answer": "レアメタル（希少金属）",
+          "options": [
+            "レアメタル（希少金属）",
+            "貴金属",
+            "ベースメタル",
+            "レアアース"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-11",
+          "question": "レアメタルの中でも特に希土類元素を何というか。",
+          "answer": "レアアース（希土類）",
+          "options": [
+            "レアアース（希土類）",
+            "レアメタル",
+            "貴金属",
+            "ベースメタル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-12",
+          "question": "レアアースの生産量が世界第1位の国はどこか。",
+          "answer": "中国",
+          "options": [
+            "中国",
+            "オーストラリア",
+            "アメリカ合衆国",
+            "ブラジル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-13",
+          "question": "ニューカレドニアが世界有数の産出国である非鉄金属は何か。",
+          "answer": "ニッケル",
+          "options": [
+            "ニッケル",
+            "銅",
+            "すず",
+            "コバルト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-14",
+          "question": "メキシコやペルーが主要産出国である貴金属は何か。",
+          "answer": "銀",
+          "options": [
+            "銀",
+            "金",
+            "プラチナ",
+            "パラジウム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S6-15",
+          "question": "南アフリカ共和国が世界最大の産出国であるプラチナ族金属は何か。",
+          "answer": "プラチナ（白金）",
+          "options": [
+            "プラチナ（白金）",
+            "金",
+            "銀",
+            "パラジウム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "エネルギー問題",
+      "questions": [
+        {
+          "id": "P2-C4-S7-01",
+          "question": "主要なエネルギー源が石炭から石油に転換したことを何というか。",
+          "answer": "エネルギー革命",
+          "options": [
+            "エネルギー革命",
+            "産業革命",
+            "緑の革命",
+            "IT革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-02",
+          "question": "自国の天然資源に対する主権を主張し，外国資本による開発を制限する動きを何というか。",
+          "answer": "資源ナショナリズム",
+          "options": [
+            "資源ナショナリズム",
+            "保護主義",
+            "国有化",
+            "モノカルチャー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-03",
+          "question": "1960年に設立された，石油輸出国による国際的なカルテル組織を何というか。",
+          "answer": "OPEC（石油輸出国機構）",
+          "options": [
+            "OPEC（石油輸出国機構）",
+            "OAPEC",
+            "IEA",
+            "IAEA"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-04",
+          "question": "1968年に設立された，アラブの石油輸出国による組織を何というか。",
+          "answer": "OAPEC（アラブ石油輸出国機構）",
+          "options": [
+            "OAPEC（アラブ石油輸出国機構）",
+            "OPEC",
+            "IEA",
+            "IAEA"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-05",
+          "question": "1973年の第四次中東戦争を契機に，OAPECが石油の減産と価格引き上げを行ったことで起きた世界的な経済混乱を何というか。",
+          "answer": "第一次石油危機（オイルショック）",
+          "options": [
+            "第一次石油危機（オイルショック）",
+            "第二次石油危機",
+            "エネルギー革命",
+            "資源ナショナリズム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-06",
+          "question": "1979年のイラン革命を契機に起きた石油危機を何というか。",
+          "answer": "第二次石油危機",
+          "options": [
+            "第二次石油危機",
+            "第一次石油危機",
+            "湾岸戦争",
+            "エネルギー革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-07",
+          "question": "石油危機後に先進国が設立した，エネルギーの安定供給を目的とする国際機関を何というか。",
+          "answer": "IEA（国際エネルギー機関）",
+          "options": [
+            "IEA（国際エネルギー機関）",
+            "OPEC",
+            "OAPEC",
+            "IAEA"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-08",
+          "question": "原子力の平和利用を推進し，軍事利用を防止する国際機関を何というか。",
+          "answer": "IAEA（国際原子力機関）",
+          "options": [
+            "IAEA（国際原子力機関）",
+            "IEA",
+            "OPEC",
+            "国連"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-09",
+          "question": "2011年に東日本大震災で事故を起こした原子力発電所はどこか。",
+          "answer": "福島第一原子力発電所",
+          "options": [
+            "福島第一原子力発電所",
+            "柏崎刈羽原子力発電所",
+            "浜岡原子力発電所",
+            "東海原子力発電所"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-10",
+          "question": "1986年に大事故を起こしたソ連（現ウクライナ）の原子力発電所はどこか。",
+          "answer": "チェルノブイリ原子力発電所",
+          "options": [
+            "チェルノブイリ原子力発電所",
+            "福島第一原子力発電所",
+            "スリーマイル島原子力発電所",
+            "セラフィールド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-11",
+          "question": "深海底に存在する，メタンを主成分とする氷状の物質を何というか。",
+          "answer": "メタンハイドレート",
+          "options": [
+            "メタンハイドレート",
+            "シェールガス",
+            "オイルサンド",
+            "LNG"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-12",
+          "question": "石油の国際的な取引価格の指標となる原油を何というか。",
+          "answer": "WTI原油・ブレント原油",
+          "options": [
+            "WTI原油・ブレント原油",
+            "ドバイ原油",
+            "軽質原油",
+            "重質原油"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C4-S7-13",
+          "question": "世界の一次エネルギー消費で最大の割合を占める化石燃料は何か。",
+          "answer": "石油",
+          "options": [
+            "石油",
+            "石炭",
+            "天然ガス",
+            "原子力"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

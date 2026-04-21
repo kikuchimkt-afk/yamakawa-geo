@@ -1,0 +1,605 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 2,
+    "title": "資源と産業"
+  },
+  "chapter": {
+    "number": 2,
+    "title": "水産業"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "漁業と漁場",
+      "questions": [
+        {
+          "id": "P2-C2-S1-01",
+          "question": "定置網や小規模漁家による小型漁船を中心として，陸地に近い海域で行なう漁業を何というか。",
+          "answer": "沿岸漁業",
+          "options": [
+            "沿岸漁業",
+            "沖合漁業",
+            "遠洋漁業",
+            "養殖漁業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-02",
+          "question": "個人経営による小・中型漁船を中心として，一般に経済水域内を2日ないし1週間程度の航海で行なう漁業を何というか。",
+          "answer": "沖合漁業",
+          "options": [
+            "沖合漁業",
+            "沿岸漁業",
+            "遠洋漁業",
+            "養殖漁業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-03",
+          "question": "企業経営による大型漁船を中心として，長期間にわたる航海と操業を伴う漁業を何というか。",
+          "answer": "遠洋漁業",
+          "options": [
+            "遠洋漁業",
+            "沖合漁業",
+            "沿岸漁業",
+            "養殖漁業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-04",
+          "question": "海岸から水深200mほどの海底の部分で，好漁場であるとともに鉱産資源の存在で注目を浴びている海底部分を何というか。",
+          "answer": "大陸棚",
+          "options": [
+            "大陸棚",
+            "バンク",
+            "潮境",
+            "湧昇海域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-05",
+          "question": "大陸棚の海底の部分が周囲より浅くなっているところで，プランクトンが発生しやすい場所を何というか。",
+          "answer": "バンク（浅堆）",
+          "options": [
+            "バンク（浅堆）",
+            "大陸棚",
+            "潮境",
+            "湧昇海域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-06",
+          "question": "寒暖両流が会合するところで，対流により下層の栄養分が上昇し，プランクトンが発生しやすい海域を何というか。",
+          "answer": "潮境（潮目）",
+          "options": [
+            "潮境（潮目）",
+            "バンク",
+            "大陸棚",
+            "湧昇海域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-07",
+          "question": "水深200～300mほどのところを流れる寒流が，暖流の補流として海面近くに湧き上がる海域を何というか。",
+          "answer": "湧昇海域",
+          "options": [
+            "湧昇海域",
+            "潮境",
+            "バンク",
+            "大陸棚"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-08",
+          "question": "たら・にしん・さけ・ほっけ・さんまなどのように，比較的低温な海域に生息する魚類を何というか。",
+          "answer": "寒海魚",
+          "options": [
+            "寒海魚",
+            "暖海魚",
+            "回遊魚",
+            "深海魚"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-09",
+          "question": "さば・ぶり・まぐろ・かつお・いわしなどのように，比較的高温な海域に生息する魚類を何というか。",
+          "answer": "暖海魚",
+          "options": [
+            "暖海魚",
+            "寒海魚",
+            "回遊魚",
+            "深海魚"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-10",
+          "question": "沿岸国に限り漁業権が認められ，他国の漁船は沿岸国の許可がなくては操業することができない水域を何というか。",
+          "answer": "漁業専管水域",
+          "options": [
+            "漁業専管水域",
+            "200海里水域",
+            "領海",
+            "公海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-11",
+          "question": "沿岸から200海里以内の範囲で，沿岸国がその水域の資源の利用について管轄権をもつ水域を何というか。",
+          "answer": "200海里（経済）水域",
+          "options": [
+            "200海里（経済）水域",
+            "漁業専管水域",
+            "領海",
+            "公海"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-12",
+          "question": "暖海系の大型回遊魚で，乱獲が進み漁獲量が厳しく制限されている魚類は何か。",
+          "answer": "マグロ",
+          "options": [
+            "マグロ",
+            "カツオ",
+            "サバ",
+            "ブリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S1-13",
+          "question": "捕獲頭数と種類・捕鯨期間と海域を取り決める基礎となる国際条約は何か。",
+          "answer": "国際捕鯨取締条約",
+          "options": [
+            "国際捕鯨取締条約",
+            "ワシントン条約",
+            "ラムサール条約",
+            "国連海洋法条約"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "世界の主要漁場",
+      "questions": [
+        {
+          "id": "P2-C2-S2-01",
+          "question": "北海を中心として，たら・にしんを主要漁獲物とする漁場を何というか。",
+          "answer": "大西洋北東部漁場（北東大西洋漁場）",
+          "options": [
+            "大西洋北東部漁場（北東大西洋漁場）",
+            "大西洋北西部漁場",
+            "太平洋北西部漁場",
+            "太平洋南東部漁場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-02",
+          "question": "北方の海域から南下し，北大西洋海流と会合して潮境をつくる寒流を何というか。",
+          "answer": "東グリーンランド海流",
+          "options": [
+            "東グリーンランド海流",
+            "ラブラドル海流",
+            "カナリア海流",
+            "ベンゲラ海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-03",
+          "question": "北海の中央部にあり，漁場の中心となっている大バンクを何というか。",
+          "answer": "ドッガーバンク",
+          "options": [
+            "ドッガーバンク",
+            "グランドバンク",
+            "ジョージズバンク",
+            "アガラス堆"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-04",
+          "question": "ノルウェー南西部にある水産物の集散と加工が盛んな都市はどこか。",
+          "answer": "ベルゲン",
+          "options": [
+            "ベルゲン",
+            "オスロ",
+            "ストックホルム",
+            "コペンハーゲン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-05",
+          "question": "ニューファンドランド島からニューイングランド沖合に至る漁場を何というか。",
+          "answer": "大西洋北西部漁場（北西大西洋漁場）",
+          "options": [
+            "大西洋北西部漁場（北西大西洋漁場）",
+            "大西洋北東部漁場",
+            "太平洋北西部漁場",
+            "太平洋南東部漁場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-06",
+          "question": "ニューファンドランド島の南東沖合にある，たら漁業の中心をなす大バンクを何というか。",
+          "answer": "グランドバンク",
+          "options": [
+            "グランドバンク",
+            "ドッガーバンク",
+            "ジョージズバンク",
+            "アガラス堆"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-07",
+          "question": "ニューファンドランド島の南東部に位置する漁業根拠地はどこか。",
+          "answer": "セントジョーンズ",
+          "options": [
+            "セントジョーンズ",
+            "ベルゲン",
+            "銚子",
+            "釧路"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-08",
+          "question": "日本列島を中心として，オホーツク海から東シナ海にかけて広がる世界最大の漁獲量をもつ漁場を何というか。",
+          "answer": "太平洋北西部漁場（北西太平洋漁場）",
+          "options": [
+            "太平洋北西部漁場（北西太平洋漁場）",
+            "大西洋北東部漁場",
+            "大西洋北西部漁場",
+            "太平洋南東部漁場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-09",
+          "question": "宗谷海峡にのぞむ北洋漁業の根拠地で，水産加工業も盛んな漁港はどこか。",
+          "answer": "稚内",
+          "options": [
+            "稚内",
+            "根室",
+            "釧路",
+            "八戸"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-10",
+          "question": "北海道東端，根室半島にあるかにの缶詰業など水産加工が盛んな漁港はどこか。",
+          "answer": "根室",
+          "options": [
+            "根室",
+            "稚内",
+            "釧路",
+            "八戸"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-11",
+          "question": "北洋漁業の根拠地で，水揚量がわが国有数の北海道東部の太平洋にのぞむ漁港はどこか。",
+          "answer": "釧路",
+          "options": [
+            "釧路",
+            "稚内",
+            "根室",
+            "八戸"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-12",
+          "question": "三陸沖の漁場をひかえ，水揚量が多い青森県南東部の漁港はどこか。",
+          "answer": "八戸",
+          "options": [
+            "八戸",
+            "釧路",
+            "銚子",
+            "焼津"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-13",
+          "question": "水揚量が多い千葉県の漁港はどこか。",
+          "answer": "銚子",
+          "options": [
+            "銚子",
+            "八戸",
+            "焼津",
+            "境港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-14",
+          "question": "まぐろ・かつおなどの水揚量が多い遠洋漁業の根拠地で，駿河湾に面する漁港はどこか。",
+          "answer": "焼津",
+          "options": [
+            "焼津",
+            "銚子",
+            "八戸",
+            "境港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-15",
+          "question": "日本海沿岸の代表的な漁港で，鳥取県弓ヶ浜の先端に位置する漁港はどこか。",
+          "answer": "境港",
+          "options": [
+            "境港",
+            "焼津",
+            "銚子",
+            "八戸"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-16",
+          "question": "寒流の湧昇海域を中心に，南半球最大の漁獲量をもつ漁場を何というか。",
+          "answer": "太平洋南東部漁場（南東太平洋漁場）",
+          "options": [
+            "太平洋南東部漁場（南東太平洋漁場）",
+            "太平洋北西部漁場",
+            "大西洋北東部漁場",
+            "大西洋北西部漁場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-17",
+          "question": "日本ではかたくちいわしと呼ばれる，太平洋南東部漁場の中心的漁獲物を何というか。",
+          "answer": "アンチョビー",
+          "options": [
+            "アンチョビー",
+            "フィッシュミール",
+            "にしん",
+            "さば"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S2-18",
+          "question": "アンチョビーから得られる，主として家畜の飼料として用いられる加工品を何というか。",
+          "answer": "フィッシュミール（魚粉）",
+          "options": [
+            "フィッシュミール（魚粉）",
+            "魚油",
+            "飼料",
+            "肥料"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "水産養殖と水産加工",
+      "questions": [
+        {
+          "id": "P2-C2-S3-01",
+          "question": "人工的にふ化させた稚魚を放流し，成長したあと再捕獲する漁業を何というか。",
+          "answer": "栽培漁業",
+          "options": [
+            "栽培漁業",
+            "水産養殖業",
+            "沿岸漁業",
+            "沖合漁業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-02",
+          "question": "河川や湖沼，また海面の特別に区画された水域で，魚介類を人工的に管理・育成する水産業を何というか。",
+          "answer": "水産養殖業",
+          "options": [
+            "水産養殖業",
+            "栽培漁業",
+            "沿岸漁業",
+            "沖合漁業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-03",
+          "question": "アメリカ合衆国東部のヴァージニア州とメリーランド州をわける長大な溺れ谷で，かきの生産地として知られる湾はどこか。",
+          "answer": "チェサピーク湾",
+          "options": [
+            "チェサピーク湾",
+            "松島湾",
+            "広島湾",
+            "英虞湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-04",
+          "question": "日本の東北地方の中心的かき養殖地はどこか。",
+          "answer": "松島湾",
+          "options": [
+            "松島湾",
+            "広島湾",
+            "英虞湾",
+            "大村湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-05",
+          "question": "日本の瀬戸内海地方の中心的かき養殖地はどこか。",
+          "answer": "広島湾",
+          "options": [
+            "広島湾",
+            "松島湾",
+            "英虞湾",
+            "大村湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-06",
+          "question": "日本ではじめて真珠養殖が成功した三重県志摩半島の溺れ谷はどこか。",
+          "answer": "英虞湾",
+          "options": [
+            "英虞湾",
+            "大村湾",
+            "松島湾",
+            "広島湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-07",
+          "question": "長崎県中部の日本有数の真珠養殖地はどこか。",
+          "answer": "大村湾",
+          "options": [
+            "大村湾",
+            "英虞湾",
+            "松島湾",
+            "広島湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-08",
+          "question": "静岡県の代表的なうなぎ養殖地はどこか。",
+          "answer": "浜名湖",
+          "options": [
+            "浜名湖",
+            "松島湾",
+            "広島湾",
+            "英虞湾"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-09",
+          "question": "水産物を缶詰・干物・燻製・練製品などに加工する工業部門を何というか。",
+          "answer": "水産加工業",
+          "options": [
+            "水産加工業",
+            "食品加工業",
+            "水産養殖業",
+            "栽培漁業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C2-S3-10",
+          "question": "かつお節の生産で有名な鹿児島県の漁港はどこか。",
+          "answer": "枕崎",
+          "options": [
+            "枕崎",
+            "焼津",
+            "境港",
+            "銚子"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1309 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 3,
+    "title": "生活と文化"
+  },
+  "chapter": {
+    "number": 3,
+    "title": "村落と都市"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "村落の立地と発達",
+      "questions": [
+        {
+          "id": "P3-C3-S1-01",
+          "question": "人々が集まって住む最小の地域社会を何というか。",
+          "answer": "集落",
+          "options": [
+            "集落",
+            "都市",
+            "村落",
+            "コミュニティ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-02",
+          "question": "農業・林業・漁業などの第1次産業を主な生業とする集落を何というか。",
+          "answer": "村落",
+          "options": [
+            "村落",
+            "都市",
+            "集落",
+            "農村"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-03",
+          "question": "扇状地の末端や台地の崖下など，湧水が得られる場所に成立した集落を何というか。",
+          "answer": "湧水集落",
+          "options": [
+            "湧水集落",
+            "谷口集落",
+            "河岸集落",
+            "泉集落"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-04",
+          "question": "山地から平野に出る谷の出口に立地した集落を何というか。",
+          "answer": "谷口集落",
+          "options": [
+            "谷口集落",
+            "湧水集落",
+            "河岸集落",
+            "峠集落"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-05",
+          "question": "洪水を防ぐために堤防で囲まれた土地に立地する集落を何というか。",
+          "answer": "輪中集落",
+          "options": [
+            "輪中集落",
+            "湧水集落",
+            "谷口集落",
+            "水防集落"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-06",
+          "question": "洪水の危険がある低地で，人工的に盛り土した上に建てられた家屋を何というか。",
+          "answer": "水屋（水塚）",
+          "options": [
+            "水屋（水塚）",
+            "高床式住居",
+            "杭上住居",
+            "土蔵"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-07",
+          "question": "河川の自然堤防上に立地した集落を何というか。",
+          "answer": "自然堤防集落",
+          "options": [
+            "自然堤防集落",
+            "輪中集落",
+            "河岸集落",
+            "後背湿地集落"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-08",
+          "question": "新田開発によって形成された集落を何というか。",
+          "answer": "新田集落",
+          "options": [
+            "新田集落",
+            "屯田集落",
+            "計画集落",
+            "開拓集落"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-09",
+          "question": "北海道の開拓のために設けられた兵村を何というか。",
+          "answer": "屯田兵村",
+          "options": [
+            "屯田兵村",
+            "新田集落",
+            "計画集落",
+            "開拓村"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-10",
+          "question": "古代日本の土地区画制度に基づく集落を何というか。",
+          "answer": "条里集落",
+          "options": [
+            "条里集落",
+            "碁盤目集落",
+            "格子状集落",
+            "方格集落"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-11",
+          "question": "アメリカ・カナダの公有地を計画的に区画して入植させた制度を何というか。",
+          "answer": "タウンシップ制",
+          "options": [
+            "タウンシップ制",
+            "条里制",
+            "植民地制",
+            "入植制度"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-12",
+          "question": "ドイツ東部で行われた森林を切り開いて計画的に建設した集落を何というか。",
+          "answer": "林地村（ヴァルトフーフェ）",
+          "options": [
+            "林地村（ヴァルトフーフェ）",
+            "路村",
+            "街村",
+            "円村"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-13",
+          "question": "共同体の規制が強く，中世ヨーロッパの三圃制などに見られる耕地制度を何というか。",
+          "answer": "開放耕地制（オープンフィールド）",
+          "options": [
+            "開放耕地制（オープンフィールド）",
+            "囲い込み",
+            "三圃制",
+            "混在耕地"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-14",
+          "question": "イギリスでかつて行われた，共有地を囲い込んで私有地にした運動を何というか。",
+          "answer": "囲い込み（エンクロージャー）",
+          "options": [
+            "囲い込み（エンクロージャー）",
+            "開放耕地制",
+            "農地改革",
+            "土地改良"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S1-15",
+          "question": "日本の集約的稲作農業地域に多い，家屋が密集する集落形態を何というか。",
+          "answer": "集村",
+          "options": [
+            "集村",
+            "散村",
+            "路村",
+            "街村"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "村落の形態と景観",
+      "questions": [
+        {
+          "id": "P3-C3-S2-01",
+          "question": "家屋が密集して立地する集落の形態を何というか。",
+          "answer": "集村（塊村）",
+          "options": [
+            "集村（塊村）",
+            "散村",
+            "路村",
+            "円村"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-02",
+          "question": "家屋が広い間隔をあけて点在する集落の形態を何というか。",
+          "answer": "散村（散居集落）",
+          "options": [
+            "散村（散居集落）",
+            "集村",
+            "路村",
+            "街村"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-03",
+          "question": "道路沿いに家屋が並ぶ集落の形態を何というか。",
+          "answer": "路村（街村）",
+          "options": [
+            "路村（街村）",
+            "集村",
+            "散村",
+            "円村"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-04",
+          "question": "村の中央の広場や教会を囲むように家屋が円形に配置される集落の形態を何というか。",
+          "answer": "円村（環村）",
+          "options": [
+            "円村（環村）",
+            "集村",
+            "路村",
+            "散村"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-05",
+          "question": "富山県の砺波平野に見られる代表的な散村地域で，各家屋の周囲に屋敷林（かいにょ）がある景観は何か。",
+          "answer": "散居村",
+          "options": [
+            "散居村",
+            "集村",
+            "路村",
+            "水田集落"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-06",
+          "question": "風よけや防雪のために家屋の周囲に植えられた木を何というか。",
+          "answer": "屋敷林（かいにょ）",
+          "options": [
+            "屋敷林（かいにょ）",
+            "防風林",
+            "防雪林",
+            "垣根"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-07",
+          "question": "沖縄の伝統的な集落に見られる，サンゴの石垣や防風林に囲まれた家屋の特徴は何か。",
+          "answer": "フクギ並木・石垣（サンゴ石灰岩）",
+          "options": [
+            "フクギ並木・石垣（サンゴ石灰岩）",
+            "屋敷林",
+            "防風林",
+            "生け垣"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-08",
+          "question": "アフリカのサバナ地域に見られる，泥壁と茅葺き屋根の円形住居を何というか。",
+          "answer": "円形住居（トゥクル）",
+          "options": [
+            "円形住居（トゥクル）",
+            "ゲル",
+            "イグルー",
+            "高床式住居"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-09",
+          "question": "東南アジアの高温多湿地域に見られる，床を高くした住居を何というか。",
+          "answer": "高床式住居",
+          "options": [
+            "高床式住居",
+            "円形住居",
+            "イグルー",
+            "ゲル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-10",
+          "question": "イランなどの乾燥地域で，地下水路によって集落に水を供給する地下灌漑施設を何というか。",
+          "answer": "カナート（カレーズ）",
+          "options": [
+            "カナート（カレーズ）",
+            "フォガラ",
+            "クウェート",
+            "ワジ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S2-11",
+          "question": "北アフリカのカナートに相当する地下水路を何というか。",
+          "answer": "フォガラ",
+          "options": [
+            "フォガラ",
+            "カナート",
+            "ワジ",
+            "オアシス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "都市の立地と発達",
+      "questions": [
+        {
+          "id": "P3-C3-S3-01",
+          "question": "第2次・第3次産業に従事する人口が多く，政治・経済・文化の中心となる集落を何というか。",
+          "answer": "都市",
+          "options": [
+            "都市",
+            "村落",
+            "集落",
+            "都心"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-02",
+          "question": "河川が合流する地点に立地した都市を何というか。",
+          "answer": "合流点都市",
+          "options": [
+            "合流点都市",
+            "河口都市",
+            "渡河点都市",
+            "港湾都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-03",
+          "question": "河川を渡る地点に立地した都市を何というか。",
+          "answer": "渡河点都市",
+          "options": [
+            "渡河点都市",
+            "合流点都市",
+            "河口都市",
+            "港湾都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-04",
+          "question": "滝や急流で船の航行が困難な地点に発達した都市を何というか。",
+          "answer": "滝線都市",
+          "options": [
+            "滝線都市",
+            "渡河点都市",
+            "合流点都市",
+            "河口都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-05",
+          "question": "標高の高い高原に立地する都市はどこか。",
+          "answer": "メキシコシティ・ボゴタ・アディスアベバ",
+          "options": [
+            "メキシコシティ・ボゴタ・アディスアベバ",
+            "リマ・サンチアゴ",
+            "カイロ・バグダッド",
+            "シンガポール・ジャカルタ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-06",
+          "question": "メソポタミア文明の古代都市はどこか。",
+          "answer": "バビロン・ウル",
+          "options": [
+            "バビロン・ウル",
+            "アテネ・ローマ",
+            "長安・洛陽",
+            "テノチティトラン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-07",
+          "question": "古代中国の都市で，碁盤目状の街路をもつ都市はどこか。",
+          "answer": "長安（西安）",
+          "options": [
+            "長安（西安）",
+            "洛陽",
+            "北京",
+            "南京"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-08",
+          "question": "中世ヨーロッパで城壁に囲まれた商工業都市を何というか。",
+          "answer": "城壁都市（城郭都市）",
+          "options": [
+            "城壁都市（城郭都市）",
+            "城下町",
+            "門前町",
+            "宿場町"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-09",
+          "question": "日本の城を中心に発達した都市を何というか。",
+          "answer": "城下町",
+          "options": [
+            "城下町",
+            "門前町",
+            "宿場町",
+            "港町"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-10",
+          "question": "寺社の門前に発達した都市を何というか。",
+          "answer": "門前町",
+          "options": [
+            "門前町",
+            "城下町",
+            "宿場町",
+            "鳥居前町"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-11",
+          "question": "街道の宿泊・休憩施設を中心に発達した都市を何というか。",
+          "answer": "宿場町",
+          "options": [
+            "宿場町",
+            "城下町",
+            "門前町",
+            "港町"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-12",
+          "question": "中世ヨーロッパの都市で，広場や教会を中心に放射状に道路が広がる街路網を何というか。",
+          "answer": "放射状街路",
+          "options": [
+            "放射状街路",
+            "碁盤目状街路",
+            "格子状街路",
+            "同心円状街路"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-13",
+          "question": "古代ローマや中国の都市に見られる，直角に交わる街路網を何というか。",
+          "answer": "碁盤目状（格子状）街路",
+          "options": [
+            "碁盤目状（格子状）街路",
+            "放射状街路",
+            "環状街路",
+            "不規則街路"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-14",
+          "question": "パリのように放射状と環状を組み合わせた街路網を何というか。",
+          "answer": "放射環状街路",
+          "options": [
+            "放射環状街路",
+            "放射状街路",
+            "碁盤目状街路",
+            "格子状街路"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-15",
+          "question": "イスラーム都市に見られる狭い路地が入り組んだ街路網を何というか。",
+          "answer": "不規則街路（迷路状街路）",
+          "options": [
+            "不規則街路（迷路状街路）",
+            "放射状街路",
+            "碁盤目状街路",
+            "放射環状街路"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-16",
+          "question": "イスラーム都市の中心にある市場を何というか。",
+          "answer": "スーク（バザール）",
+          "options": [
+            "スーク（バザール）",
+            "メディナ",
+            "モスク",
+            "カスバ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S3-17",
+          "question": "イスラーム都市の旧市街地を何というか。",
+          "answer": "メディナ",
+          "options": [
+            "メディナ",
+            "スーク",
+            "カスバ",
+            "モスク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "都市の機能",
+      "questions": [
+        {
+          "id": "P3-C3-S4-01",
+          "question": "鉱業・製造業などの生産活動が中心の都市を何というか。",
+          "answer": "生産都市（工業都市）",
+          "options": [
+            "生産都市（工業都市）",
+            "交易都市",
+            "政治都市",
+            "宗教都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-02",
+          "question": "商業・貿易など交易活動が中心の都市を何というか。",
+          "answer": "交易都市（商業都市）",
+          "options": [
+            "交易都市（商業都市）",
+            "生産都市",
+            "政治都市",
+            "観光都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-03",
+          "question": "国や地方の行政機関が置かれた都市を何というか。",
+          "answer": "政治都市（行政都市）",
+          "options": [
+            "政治都市（行政都市）",
+            "交易都市",
+            "生産都市",
+            "宗教都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-04",
+          "question": "ブラジルの首都で，計画的に建設された政治都市はどこか。",
+          "answer": "ブラジリア",
+          "options": [
+            "ブラジリア",
+            "リオデジャネイロ",
+            "サンパウロ",
+            "マナウス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-05",
+          "question": "オーストラリアの首都で，計画的に建設された政治都市はどこか。",
+          "answer": "キャンベラ",
+          "options": [
+            "キャンベラ",
+            "シドニー",
+            "メルボルン",
+            "パース"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-06",
+          "question": "パキスタンの首都で，計画的に建設された政治都市はどこか。",
+          "answer": "イスラマバード",
+          "options": [
+            "イスラマバード",
+            "カラチ",
+            "ラホール",
+            "ラワルピンディー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-07",
+          "question": "宗教的な施設を中心に発達した都市を何というか。",
+          "answer": "宗教都市",
+          "options": [
+            "宗教都市",
+            "政治都市",
+            "観光都市",
+            "文化都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-08",
+          "question": "キリスト教・イスラーム・ユダヤ教の聖地である都市はどこか。",
+          "answer": "エルサレム",
+          "options": [
+            "エルサレム",
+            "メッカ",
+            "メディナ",
+            "バチカン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-09",
+          "question": "カトリックの総本山がある世界最小の国家はどこか。",
+          "answer": "バチカン市国",
+          "options": [
+            "バチカン市国",
+            "モナコ",
+            "サンマリノ",
+            "リヒテンシュタイン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-10",
+          "question": "大学や研究機関を中心に発達した都市を何というか。",
+          "answer": "学術都市（大学都市）",
+          "options": [
+            "学術都市（大学都市）",
+            "政治都市",
+            "文化都市",
+            "宗教都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-11",
+          "question": "イギリスの代表的な大学都市を2つ挙げよ。",
+          "answer": "オックスフォード・ケンブリッジ",
+          "options": [
+            "オックスフォード・ケンブリッジ",
+            "ロンドン・マンチェスター",
+            "バーミンガム・リーズ",
+            "エディンバラ・グラスゴー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-12",
+          "question": "周辺地域に対して財やサービスを提供する都市の役割を何というか。",
+          "answer": "中心地機能",
+          "options": [
+            "中心地機能",
+            "衛星都市機能",
+            "ベッドタウン機能",
+            "ゲートウェイ機能"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-13",
+          "question": "中心地理論を提唱したドイツの地理学者は誰か。",
+          "answer": "クリスタラー",
+          "options": [
+            "クリスタラー",
+            "ウェーバー",
+            "チューネン",
+            "ハーヴェイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-14",
+          "question": "中心地が提供するサービスが届く範囲を何というか。",
+          "answer": "商圏（勢力圏）",
+          "options": [
+            "商圏（勢力圏）",
+            "都市圏",
+            "通勤圏",
+            "生活圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-15",
+          "question": "都市の規模が大きいほどその数が少なく，間隔が広くなるという法則を何というか。",
+          "answer": "中心地理論（クリスタラーの法則）",
+          "options": [
+            "中心地理論（クリスタラーの法則）",
+            "順位規模法則",
+            "プライメートシティ法則",
+            "重力モデル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-16",
+          "question": "順位規模法則を提唱したアメリカの言語学者は誰か。",
+          "answer": "ジップ",
+          "options": [
+            "ジップ",
+            "クリスタラー",
+            "ウェーバー",
+            "チューネン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-17",
+          "question": "その国の第2位の都市と比べて極端に人口が多い首位都市を何というか。",
+          "answer": "プライメートシティ（首位都市）",
+          "options": [
+            "プライメートシティ（首位都市）",
+            "メガシティ",
+            "メトロポリス",
+            "メガロポリス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-18",
+          "question": "人口1,000万人以上の巨大都市を何というか。",
+          "answer": "メガシティ",
+          "options": [
+            "メガシティ",
+            "メトロポリス",
+            "メガロポリス",
+            "プライメートシティ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-19",
+          "question": "複数の大都市が連担して形成された巨大都市圏を何というか。",
+          "answer": "メガロポリス",
+          "options": [
+            "メガロポリス",
+            "メガシティ",
+            "メトロポリス",
+            "コナベーション"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-20",
+          "question": "隣接する都市が合体して1つの大きな市街地を形成することを何というか。",
+          "answer": "コナベーション（連接都市）",
+          "options": [
+            "コナベーション（連接都市）",
+            "メガロポリス",
+            "メガシティ",
+            "都市圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-21",
+          "question": "アメリカ東海岸のボストンからワシントンD.C.にかけてのメガロポリスを何というか。",
+          "answer": "ボスウォッシュ",
+          "options": [
+            "ボスウォッシュ",
+            "サンサン",
+            "東海道メガロポリス",
+            "ルールメガロポリス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S4-22",
+          "question": "東京から北九州にかけてのメガロポリスを何というか。",
+          "answer": "東海道メガロポリス",
+          "options": [
+            "東海道メガロポリス",
+            "太平洋ベルト",
+            "ボスウォッシュ",
+            "サンサン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "都市化と都市の地域分化",
+      "questions": [
+        {
+          "id": "P3-C3-S5-01",
+          "question": "都市の人口が増加し，都市的地域が拡大する現象を何というか。",
+          "answer": "都市化",
+          "options": [
+            "都市化",
+            "郊外化",
+            "スプロール",
+            "ジェントリフィケーション"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-02",
+          "question": "都市の中心部にあるビジネス・商業の中核地区を何というか。",
+          "answer": "CBD（中心業務地区）",
+          "options": [
+            "CBD（中心業務地区）",
+            "副都心",
+            "ベッドタウン",
+            "ダウンタウン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-03",
+          "question": "都市の内部構造を同心円状に分類したモデルを提唱したのは誰か。",
+          "answer": "バージェス",
+          "options": [
+            "バージェス",
+            "ホイト",
+            "ハリス",
+            "クリスタラー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-04",
+          "question": "都市の内部構造を扇形に分類したモデルを提唱したのは誰か。",
+          "answer": "ホイト",
+          "options": [
+            "ホイト",
+            "バージェス",
+            "ハリス",
+            "ウルマン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-05",
+          "question": "都市の内部構造を多核心に分類したモデルを提唱したのは誰か。",
+          "answer": "ハリスとウルマン",
+          "options": [
+            "ハリスとウルマン",
+            "バージェス",
+            "ホイト",
+            "クリスタラー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-06",
+          "question": "都心の人口が減少し，郊外の人口が増加する現象を何というか。",
+          "answer": "ドーナツ化現象",
+          "options": [
+            "ドーナツ化現象",
+            "スプロール現象",
+            "ジェントリフィケーション",
+            "都市化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-07",
+          "question": "都市の郊外が無秩序に開発される現象を何というか。",
+          "answer": "スプロール現象",
+          "options": [
+            "スプロール現象",
+            "ドーナツ化現象",
+            "ジェントリフィケーション",
+            "郊外化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-08",
+          "question": "大都市の周辺に位置し，通勤者が多く住む都市を何というか。",
+          "answer": "ベッドタウン（衛星都市）",
+          "options": [
+            "ベッドタウン（衛星都市）",
+            "副都心",
+            "ニュータウン",
+            "中心都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-09",
+          "question": "都心の荒廃した地区に高所得者が移り住み，再開発が進む現象を何というか。",
+          "answer": "ジェントリフィケーション",
+          "options": [
+            "ジェントリフィケーション",
+            "ドーナツ化現象",
+            "スプロール現象",
+            "郊外化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S5-10",
+          "question": "都心部の旧市街地が衰退する問題を何というか。",
+          "answer": "インナーシティ問題",
+          "options": [
+            "インナーシティ問題",
+            "ドーナツ化現象",
+            "スプロール現象",
+            "郊外化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "都市問題と都市計画",
+      "questions": [
+        {
+          "id": "P3-C3-S6-01",
+          "question": "大都市への人口集中により生じる交通渋滞・住宅不足・環境悪化などの問題を何というか。",
+          "answer": "都市問題",
+          "options": [
+            "都市問題",
+            "人口問題",
+            "環境問題",
+            "過密問題"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-02",
+          "question": "発展途上国の都市に形成される不法占拠の貧困地区を何というか。",
+          "answer": "スラム",
+          "options": [
+            "スラム",
+            "ゲットー",
+            "ファベーラ",
+            "ゲジェコンドゥ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-03",
+          "question": "ブラジルの大都市に見られるスラムを何というか。",
+          "answer": "ファベーラ",
+          "options": [
+            "ファベーラ",
+            "ゲジェコンドゥ",
+            "バリオ",
+            "スラム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-04",
+          "question": "トルコの大都市に見られるスラムを何というか。",
+          "answer": "ゲジェコンドゥ",
+          "options": [
+            "ゲジェコンドゥ",
+            "ファベーラ",
+            "バリオ",
+            "スラム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-05",
+          "question": "アメリカの大都市に見られる，特定の人種・民族が集中して住む地区を何というか。",
+          "answer": "ゲットー",
+          "options": [
+            "ゲットー",
+            "スラム",
+            "ファベーラ",
+            "チャイナタウン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-06",
+          "question": "都市の気温が周辺地域より高くなる現象を何というか。",
+          "answer": "ヒートアイランド現象",
+          "options": [
+            "ヒートアイランド現象",
+            "温暖化",
+            "フェーン現象",
+            "逆転層"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-07",
+          "question": "1944年にロンドンで策定された，緑地帯（グリーンベルト）の設置を含む都市計画を何というか。",
+          "answer": "大ロンドン計画",
+          "options": [
+            "大ロンドン計画",
+            "ニュータウン計画",
+            "田園都市構想",
+            "都市再開発"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-08",
+          "question": "都市の無秩序な拡大を防ぐために設けられた緑地帯を何というか。",
+          "answer": "グリーンベルト",
+          "options": [
+            "グリーンベルト",
+            "ニュータウン",
+            "緑道",
+            "公園緑地"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-09",
+          "question": "イギリスのハワードが提唱した，都市と農村の利点を合わせた理想都市を何というか。",
+          "answer": "田園都市",
+          "options": [
+            "田園都市",
+            "ニュータウン",
+            "コンパクトシティ",
+            "エコシティ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-10",
+          "question": "計画的に建設された新しい住宅都市を何というか。",
+          "answer": "ニュータウン",
+          "options": [
+            "ニュータウン",
+            "田園都市",
+            "ベッドタウン",
+            "衛星都市"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-11",
+          "question": "都市機能を中心部にコンパクトに集約し，効率的な都市を目指す考え方を何というか。",
+          "answer": "コンパクトシティ",
+          "options": [
+            "コンパクトシティ",
+            "田園都市",
+            "スマートシティ",
+            "ニュータウン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-12",
+          "question": "日本で1968年に制定された，都市の土地利用を規制する法律は何か。",
+          "answer": "都市計画法",
+          "options": [
+            "都市計画法",
+            "建築基準法",
+            "国土利用計画法",
+            "土地区画整理法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-13",
+          "question": "都市計画法で，開発を促進する区域を何というか。",
+          "answer": "市街化区域",
+          "options": [
+            "市街化区域",
+            "市街化調整区域",
+            "用途地域",
+            "都市計画区域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-14",
+          "question": "都市計画法で，開発を抑制する区域を何というか。",
+          "answer": "市街化調整区域",
+          "options": [
+            "市街化調整区域",
+            "市街化区域",
+            "用途地域",
+            "農業振興地域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C3-S6-15",
+          "question": "住居・商業・工業など，土地の利用目的を定めた区域を何というか。",
+          "answer": "用途地域",
+          "options": [
+            "用途地域",
+            "市街化区域",
+            "市街化調整区域",
+            "都市計画区域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

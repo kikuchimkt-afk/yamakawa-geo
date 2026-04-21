@@ -1,0 +1,991 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 2,
+    "title": "資源と産業"
+  },
+  "chapter": {
+    "number": 6,
+    "title": "消費と余暇活動"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "消費活動と生活",
+      "questions": [
+        {
+          "id": "P2-C6-S1-01",
+          "question": "消費者に直接商品を販売する業種を何というか。",
+          "answer": "小売業",
+          "options": [
+            "小売業",
+            "卸売業",
+            "流通業",
+            "サービス業"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-02",
+          "question": "生産者から商品を仕入れ，小売業者に販売する業種を何というか。",
+          "answer": "卸売業",
+          "options": [
+            "卸売業",
+            "小売業",
+            "流通業",
+            "商社"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-03",
+          "question": "生産者から消費者に至る商品の流れを何というか。",
+          "answer": "流通",
+          "options": [
+            "流通",
+            "物流",
+            "商流",
+            "サプライチェーン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-04",
+          "question": "流通過程の合理化・効率化を何というか。",
+          "answer": "流通革命",
+          "options": [
+            "流通革命",
+            "産業革命",
+            "情報革命",
+            "物流革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-05",
+          "question": "販売時点での情報を管理するシステムを何というか。",
+          "answer": "POSシステム",
+          "options": [
+            "POSシステム",
+            "GPS",
+            "GIS",
+            "ERP"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-06",
+          "question": "商品の仕入先の範囲を何というか。",
+          "answer": "仕入圏",
+          "options": [
+            "仕入圏",
+            "商圏",
+            "販売圏",
+            "経済圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-07",
+          "question": "商品が販売される地理的範囲を何というか。",
+          "answer": "商圏（販売圏）",
+          "options": [
+            "商圏（販売圏）",
+            "仕入圏",
+            "経済圏",
+            "生活圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-08",
+          "question": "食料品・日用品など，日常的に近くの店で購入する商品を何というか。",
+          "answer": "最寄り品",
+          "options": [
+            "最寄り品",
+            "買いまわり品",
+            "専門品",
+            "嗜好品"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-09",
+          "question": "衣料品・家具など，比較して購入する商品を何というか。",
+          "answer": "買いまわり品",
+          "options": [
+            "買いまわり品",
+            "最寄り品",
+            "専門品",
+            "嗜好品"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-10",
+          "question": "ドイツの地理学者クリスタラーが提唱した，都市の分布と規模に関する理論を何というか。",
+          "answer": "中心地理論",
+          "options": [
+            "中心地理論",
+            "工業立地論",
+            "農業立地論",
+            "都市化理論"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-11",
+          "question": "大量仕入れ・低価格販売を行う大規模小売店を何というか。",
+          "answer": "スーパーマーケット",
+          "options": [
+            "スーパーマーケット",
+            "百貨店",
+            "コンビニエンスストア",
+            "ショッピングモール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-12",
+          "question": "24時間営業の小型小売店を何というか。",
+          "answer": "コンビニエンスストア",
+          "options": [
+            "コンビニエンスストア",
+            "スーパーマーケット",
+            "百貨店",
+            "ドラッグストア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-13",
+          "question": "郊外に立地する大規模な複合商業施設を何というか。",
+          "answer": "ショッピングセンター（モール）",
+          "options": [
+            "ショッピングセンター（モール）",
+            "百貨店",
+            "スーパーマーケット",
+            "アウトレット"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-14",
+          "question": "インターネットを通じて商品を売買することを何というか。",
+          "answer": "電子商取引（Eコマース）",
+          "options": [
+            "電子商取引（Eコマース）",
+            "POS",
+            "テレマーケティング",
+            "通信販売"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-15",
+          "question": "大都市の中心部にある商店街が衰退する現象を何というか。",
+          "answer": "中心市街地の空洞化",
+          "options": [
+            "中心市街地の空洞化",
+            "ドーナツ化現象",
+            "郊外化",
+            "スプロール現象"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-16",
+          "question": "同一の経営方式で多数の店舗を展開する小売業の形態を何というか。",
+          "answer": "チェーンストア",
+          "options": [
+            "チェーンストア",
+            "フランチャイズ",
+            "百貨店",
+            "個人商店"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-17",
+          "question": "本部が加盟店に経営ノウハウや商標を提供する経営方式を何というか。",
+          "answer": "フランチャイズ",
+          "options": [
+            "フランチャイズ",
+            "チェーンストア",
+            "直営店",
+            "代理店"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-18",
+          "question": "消費者の購買行動が変化し，車社会の進展で郊外の大型店舗が増加する現象を何というか。",
+          "answer": "モータリゼーション",
+          "options": [
+            "モータリゼーション",
+            "郊外化",
+            "ドーナツ化",
+            "スプロール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-19",
+          "question": "食料品の消費について，エンゲルが発見した法則は何か。",
+          "answer": "エンゲルの法則",
+          "options": [
+            "エンゲルの法則",
+            "マルサスの法則",
+            "需要供給の法則",
+            "収穫逓減の法則"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-20",
+          "question": "家計の消費支出に占める食料費の割合を何というか。",
+          "answer": "エンゲル係数",
+          "options": [
+            "エンゲル係数",
+            "ジニ係数",
+            "消費者物価指数",
+            "GDP"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-21",
+          "question": "一般に所得水準が高い国ほどエンゲル係数はどうなるか。",
+          "answer": "低くなる",
+          "options": [
+            "低くなる",
+            "高くなる",
+            "変わらない",
+            "不規則に変動する"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-22",
+          "question": "アメリカで生まれた，郊外の車でアクセスしやすい場所に立地する巨大小売店を何というか。",
+          "answer": "ウォルマート型大型店",
+          "options": [
+            "ウォルマート型大型店",
+            "百貨店",
+            "コンビニ",
+            "専門店"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-23",
+          "question": "地域の特産品や手作り品を販売する定期的な市場を何というか。",
+          "answer": "マルシェ（朝市・青空市場）",
+          "options": [
+            "マルシェ（朝市・青空市場）",
+            "スーパーマーケット",
+            "ショッピングモール",
+            "百貨店"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S1-24",
+          "question": "公正な価格で取引し，発展途上国の生産者を支援する貿易を何というか。",
+          "answer": "フェアトレード",
+          "options": [
+            "フェアトレード",
+            "自由貿易",
+            "保護貿易",
+            "特恵貿易"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "観光",
+      "questions": [
+        {
+          "id": "P2-C6-S2-01",
+          "question": "観光の対象となる歴史的建造物・自然景観などを総称して何というか。",
+          "answer": "観光資源",
+          "options": [
+            "観光資源",
+            "世界遺産",
+            "文化財",
+            "自然遺産"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-02",
+          "question": "農村地域での交流や体験を目的とする観光を何というか。",
+          "answer": "グリーンツーリズム",
+          "options": [
+            "グリーンツーリズム",
+            "エコツーリズム",
+            "マスツーリズム",
+            "アグリツーリズム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-03",
+          "question": "自然環境の保全を考慮しながら行う観光を何というか。",
+          "answer": "エコツーリズム",
+          "options": [
+            "エコツーリズム",
+            "グリーンツーリズム",
+            "マスツーリズム",
+            "サステナブルツーリズム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-04",
+          "question": "大量の観光客が訪れることによる地域への悪影響を何というか。",
+          "answer": "オーバーツーリズム",
+          "options": [
+            "オーバーツーリズム",
+            "マスツーリズム",
+            "観光公害",
+            "過密問題"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-05",
+          "question": "1972年にユネスコで採択された，文化遺産と自然遺産を保護する条約を何というか。",
+          "answer": "世界遺産条約",
+          "options": [
+            "世界遺産条約",
+            "ラムサール条約",
+            "ワシントン条約",
+            "生物多様性条約"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-06",
+          "question": "世界遺産のうち，建造物・遺跡・文化的景観などを何というか。",
+          "answer": "文化遺産",
+          "options": [
+            "文化遺産",
+            "自然遺産",
+            "複合遺産",
+            "無形文化遺産"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-07",
+          "question": "世界遺産のうち，自然景観・地形・生態系などを何というか。",
+          "answer": "自然遺産",
+          "options": [
+            "自然遺産",
+            "文化遺産",
+            "複合遺産",
+            "天然記念物"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-08",
+          "question": "世界遺産のうち，文化遺産と自然遺産の両方の価値を持つものを何というか。",
+          "answer": "複合遺産",
+          "options": [
+            "複合遺産",
+            "文化遺産",
+            "自然遺産",
+            "無形文化遺産"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-09",
+          "question": "世界遺産登録数が最も多い国はどこか。",
+          "answer": "イタリア",
+          "options": [
+            "イタリア",
+            "中国",
+            "スペイン",
+            "フランス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-10",
+          "question": "スイスのアルプス山麓の観光保養地として有名な都市はどこか。",
+          "answer": "インターラーケン・ツェルマット",
+          "options": [
+            "インターラーケン・ツェルマット",
+            "ジュネーブ",
+            "チューリッヒ",
+            "ベルン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-11",
+          "question": "フランスの地中海沿岸の高級避暑地帯を何というか。",
+          "answer": "コートダジュール（リヴィエラ）",
+          "options": [
+            "コートダジュール（リヴィエラ）",
+            "プロヴァンス",
+            "ノルマンディー",
+            "ブルターニュ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-12",
+          "question": "スペインの地中海沿岸の観光地帯を何というか。",
+          "answer": "コスタデルソル",
+          "options": [
+            "コスタデルソル",
+            "コートダジュール",
+            "マヨルカ島",
+            "カナリア諸島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-13",
+          "question": "ハワイ諸島の観光の中心地はどこか。",
+          "answer": "ワイキキ（ホノルル）",
+          "options": [
+            "ワイキキ（ホノルル）",
+            "マウイ島",
+            "ハワイ島",
+            "カウアイ島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-14",
+          "question": "情報通信技術を用いて場所を問わず仕事をする人を何というか。",
+          "answer": "テレワーカー",
+          "options": [
+            "テレワーカー",
+            "フリーランサー",
+            "ノマドワーカー",
+            "リモートワーカー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-15",
+          "question": "観光地で仕事と休暇を組み合わせる働き方を何というか。",
+          "answer": "ワーケーション",
+          "options": [
+            "ワーケーション",
+            "テレワーク",
+            "リモートワーク",
+            "フレックスタイム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-16",
+          "question": "エジプトの世界文化遺産で，古代エジプト文明のシンボルは何か。",
+          "answer": "ピラミッドとスフィンクス",
+          "options": [
+            "ピラミッドとスフィンクス",
+            "アブシンベル神殿",
+            "ルクソール神殿",
+            "カルナック神殿"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-17",
+          "question": "インドの世界文化遺産で，ムガル帝国の白い大理石の霊廟は何か。",
+          "answer": "タージマハル",
+          "options": [
+            "タージマハル",
+            "アンコールワット",
+            "万里の長城",
+            "故宮"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-18",
+          "question": "カンボジアの世界文化遺産であるクメール王朝の寺院遺跡は何か。",
+          "answer": "アンコールワット",
+          "options": [
+            "アンコールワット",
+            "タージマハル",
+            "ボロブドゥール",
+            "バガン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-19",
+          "question": "中国の世界文化遺産で，秦から始まる北方防衛の建造物は何か。",
+          "answer": "万里の長城",
+          "options": [
+            "万里の長城",
+            "故宮",
+            "兵馬俑",
+            "敦煌"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-20",
+          "question": "ペルーの世界文化遺産で，インカ帝国の空中都市遺跡は何か。",
+          "answer": "マチュピチュ",
+          "options": [
+            "マチュピチュ",
+            "ナスカの地上絵",
+            "クスコ",
+            "チチカカ湖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-21",
+          "question": "イタリアの世界文化遺産で，古代ローマの円形闘技場は何か。",
+          "answer": "コロッセオ",
+          "options": [
+            "コロッセオ",
+            "パンテオン",
+            "フォロ・ロマーノ",
+            "ポンペイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-22",
+          "question": "ギリシアの世界文化遺産で，アテネの丘の上にある古代神殿は何か。",
+          "answer": "パルテノン神殿（アクロポリス）",
+          "options": [
+            "パルテノン神殿（アクロポリス）",
+            "デルフィ",
+            "オリンピア",
+            "クノッソス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-23",
+          "question": "アメリカの世界自然遺産で，コロラド川の侵食でできた大峡谷は何か。",
+          "answer": "グランドキャニオン",
+          "options": [
+            "グランドキャニオン",
+            "イエローストーン",
+            "ヨセミテ",
+            "エベルグレーズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-24",
+          "question": "アメリカの世界自然遺産で，間欠泉で有名な国立公園は何か。",
+          "answer": "イエローストーン",
+          "options": [
+            "イエローストーン",
+            "グランドキャニオン",
+            "ヨセミテ",
+            "ハワイ火山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-25",
+          "question": "オーストラリアの世界自然遺産で，世界最大のサンゴ礁は何か。",
+          "answer": "グレートバリアリーフ",
+          "options": [
+            "グレートバリアリーフ",
+            "ウルル",
+            "タスマニア原生地域",
+            "ブルーマウンテンズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-26",
+          "question": "オーストラリアの世界複合遺産で，先住民の聖地である巨大な一枚岩は何か。",
+          "answer": "ウルル（エアーズロック）",
+          "options": [
+            "ウルル（エアーズロック）",
+            "グレートバリアリーフ",
+            "タスマニア",
+            "ブルーマウンテンズ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-27",
+          "question": "ガラパゴス諸島はどの国に属する世界自然遺産か。",
+          "answer": "エクアドル",
+          "options": [
+            "エクアドル",
+            "ペルー",
+            "コロンビア",
+            "ブラジル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-28",
+          "question": "タンザニアの世界自然遺産で，野生動物の大移動で有名な国立公園は何か。",
+          "answer": "セレンゲティ国立公園",
+          "options": [
+            "セレンゲティ国立公園",
+            "クルーガー国立公園",
+            "マサイマラ",
+            "ンゴロンゴロ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-29",
+          "question": "日本の世界文化遺産で，「白鷺城」とも呼ばれる城は何か。",
+          "answer": "姫路城",
+          "options": [
+            "姫路城",
+            "熊本城",
+            "松本城",
+            "名古屋城"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-30",
+          "question": "日本の世界文化遺産で，17の寺社・城を含む古都の遺産はどこか。",
+          "answer": "古都京都の文化財",
+          "options": [
+            "古都京都の文化財",
+            "古都奈良の文化財",
+            "法隆寺",
+            "日光"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-31",
+          "question": "日本の世界自然遺産で，青森県と秋田県にまたがるブナの原生林はどこか。",
+          "answer": "白神山地",
+          "options": [
+            "白神山地",
+            "屋久島",
+            "知床",
+            "小笠原諸島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-32",
+          "question": "日本の世界自然遺産で，鹿児島県の樹齢数千年の屋久杉で有名な島はどこか。",
+          "answer": "屋久島",
+          "options": [
+            "屋久島",
+            "白神山地",
+            "知床",
+            "小笠原諸島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-33",
+          "question": "日本の世界自然遺産で，北海道東部の半島はどこか。",
+          "answer": "知床",
+          "options": [
+            "知床",
+            "白神山地",
+            "屋久島",
+            "小笠原諸島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-34",
+          "question": "日本の世界自然遺産で，東京都に属する太平洋上の島嶼はどこか。",
+          "answer": "小笠原諸島",
+          "options": [
+            "小笠原諸島",
+            "知床",
+            "白神山地",
+            "屋久島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-35",
+          "question": "2013年に世界文化遺産に登録された日本の山は何か。",
+          "answer": "富士山",
+          "options": [
+            "富士山",
+            "白山",
+            "立山",
+            "大山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-36",
+          "question": "日本の世界文化遺産で，広島県の海上に浮かぶ神社はどこか。",
+          "answer": "厳島神社",
+          "options": [
+            "厳島神社",
+            "出雲大社",
+            "熊野三山",
+            "春日大社"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-37",
+          "question": "日本の世界文化遺産で，広島市の平和記念碑（原爆ドーム）は何年に登録されたか。",
+          "answer": "1996年",
+          "options": [
+            "1996年",
+            "1993年",
+            "2000年",
+            "2005年"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-38",
+          "question": "日本の世界文化遺産で，岩手県の仏教寺院群はどこか。",
+          "answer": "平泉",
+          "options": [
+            "平泉",
+            "中尊寺",
+            "毛越寺",
+            "白神山地"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-39",
+          "question": "日本の世界文化遺産で，群馬県の絹産業遺産は何か。",
+          "answer": "富岡製糸場",
+          "options": [
+            "富岡製糸場",
+            "生糸工場",
+            "紡績工場",
+            "養蚕場"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-40",
+          "question": "日本の世界自然遺産で，2021年に登録された鹿児島県・沖縄県の島々はどこか。",
+          "answer": "奄美大島・徳之島・沖縄島北部・西表島",
+          "options": [
+            "奄美大島・徳之島・沖縄島北部・西表島",
+            "小笠原諸島",
+            "屋久島",
+            "知床"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-41",
+          "question": "2015年に「明治日本の産業革命遺産」として世界文化遺産に登録された施設群の1つで，山口県にある幕末の工業施設は何か。",
+          "answer": "萩の反射炉・松下村塾",
+          "options": [
+            "萩の反射炉・松下村塾",
+            "三池炭鉱",
+            "端島（軍艦島）",
+            "八幡製鉄所"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-42",
+          "question": "明治日本の産業革命遺産の1つで，福岡県大牟田市の炭鉱施設は何か。",
+          "answer": "三池炭鉱",
+          "options": [
+            "三池炭鉱",
+            "萩の反射炉",
+            "端島",
+            "八幡製鉄所"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-43",
+          "question": "明治日本の産業革命遺産の1つで，長崎県の廃墟の島（通称：軍艦島）は何か。",
+          "answer": "端島（軍艦島）",
+          "options": [
+            "端島（軍艦島）",
+            "三池炭鉱",
+            "萩の反射炉",
+            "グラバー邸"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-44",
+          "question": "世界の国際観光客到着数で第1位の国はどこか。",
+          "answer": "フランス",
+          "options": [
+            "フランス",
+            "スペイン",
+            "アメリカ合衆国",
+            "中国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C6-S2-45",
+          "question": "世界の国際観光収入で第1位の国はどこか。",
+          "answer": "アメリカ合衆国",
+          "options": [
+            "アメリカ合衆国",
+            "フランス",
+            "スペイン",
+            "中国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

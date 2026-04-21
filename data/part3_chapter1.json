@@ -1,0 +1,1507 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 3,
+    "title": "生活と文化"
+  },
+  "chapter": {
+    "number": 1,
+    "title": "民族"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "人種と民族",
+      "questions": [
+        {
+          "id": "P3-C1-S1-01",
+          "question": "皮膚の色・毛髪・顔の形などの身体的特徴により，人類を分類する概念を何というか。",
+          "answer": "人種",
+          "options": [
+            "人種",
+            "民族",
+            "国民",
+            "種族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-02",
+          "question": "ヨーロッパ・西アジア・北アフリカなどに分布する，白い皮膚を特徴とする人種を何というか。",
+          "answer": "コーカソイド（白色人種）",
+          "options": [
+            "コーカソイド（白色人種）",
+            "モンゴロイド",
+            "ネグロイド",
+            "オーストラロイド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-03",
+          "question": "東アジア・東南アジア・南北アメリカの先住民などに分布する，黄色い皮膚を特徴とする人種を何というか。",
+          "answer": "モンゴロイド（黄色人種）",
+          "options": [
+            "モンゴロイド（黄色人種）",
+            "コーカソイド",
+            "ネグロイド",
+            "オーストラロイド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-04",
+          "question": "サハラ以南のアフリカに分布する，黒い皮膚を特徴とする人種を何というか。",
+          "answer": "ネグロイド（黒色人種）",
+          "options": [
+            "ネグロイド（黒色人種）",
+            "コーカソイド",
+            "モンゴロイド",
+            "オーストラロイド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-05",
+          "question": "言語・宗教・習慣などの文化的特徴を共有する集団を何というか。",
+          "answer": "民族",
+          "options": [
+            "民族",
+            "人種",
+            "国民",
+            "部族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-06",
+          "question": "フィンランド語・ハンガリー語・エストニア語などが属する語族を何というか。",
+          "answer": "ウラル語族",
+          "options": [
+            "ウラル語族",
+            "インド＝ヨーロッパ語族",
+            "アルタイ語族",
+            "シナ＝チベット語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-07",
+          "question": "中国語・チベット語・ビルマ語などが属する語族を何というか。",
+          "answer": "シナ＝チベット語族",
+          "options": [
+            "シナ＝チベット語族",
+            "ウラル語族",
+            "アルタイ語族",
+            "オーストロネシア語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-08",
+          "question": "英語・ドイツ語・フランス語・ヒンディー語などが属する語族を何というか。",
+          "answer": "インド＝ヨーロッパ語族",
+          "options": [
+            "インド＝ヨーロッパ語族",
+            "シナ＝チベット語族",
+            "ウラル語族",
+            "アフロ＝アジア語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-09",
+          "question": "アラビア語・ヘブライ語などが属する語族を何というか。",
+          "answer": "アフロ＝アジア語族（セム＝ハム語族）",
+          "options": [
+            "アフロ＝アジア語族（セム＝ハム語族）",
+            "インド＝ヨーロッパ語族",
+            "アルタイ語族",
+            "ニジェール＝コンゴ語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-10",
+          "question": "トルコ語・モンゴル語などが属する語族を何というか。",
+          "answer": "アルタイ語族",
+          "options": [
+            "アルタイ語族",
+            "ウラル語族",
+            "シナ＝チベット語族",
+            "インド＝ヨーロッパ語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-11",
+          "question": "マレー語・インドネシア語・タガログ語・ポリネシア諸語などが属する語族を何というか。",
+          "answer": "オーストロネシア語族（マレー＝ポリネシア語族）",
+          "options": [
+            "オーストロネシア語族（マレー＝ポリネシア語族）",
+            "オーストロアジア語族",
+            "シナ＝チベット語族",
+            "アルタイ語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-12",
+          "question": "サハラ以南のアフリカで最大の語族を何というか。",
+          "answer": "ニジェール＝コンゴ語族",
+          "options": [
+            "ニジェール＝コンゴ語族",
+            "アフロ＝アジア語族",
+            "ナイル＝サハラ語族",
+            "コイサン語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-13",
+          "question": "ベトナム語・クメール語などが属する語族を何というか。",
+          "answer": "オーストロアジア語族",
+          "options": [
+            "オーストロアジア語族",
+            "オーストロネシア語族",
+            "シナ＝チベット語族",
+            "タイ＝カダイ語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-14",
+          "question": "タイ語・ラオス語などが属する語族を何というか。",
+          "answer": "タイ＝カダイ語族",
+          "options": [
+            "タイ＝カダイ語族",
+            "オーストロアジア語族",
+            "シナ＝チベット語族",
+            "オーストロネシア語族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S1-15",
+          "question": "朝鮮語・日本語のように，系統関係が明確でない言語を何というか。",
+          "answer": "孤立語（系統不明の言語）",
+          "options": [
+            "孤立語（系統不明の言語）",
+            "クレオール語",
+            "ピジン語",
+            "共通語"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "世界の民族",
+      "questions": [
+        {
+          "id": "P3-C1-S2-01",
+          "question": "北海道を中心に居住する日本の先住民族を何というか。",
+          "answer": "アイヌ",
+          "options": [
+            "アイヌ",
+            "琉球民族",
+            "大和民族",
+            "蝦夷"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-02",
+          "question": "中国で人口の約92％を占める民族を何というか。",
+          "answer": "漢族（漢民族）",
+          "options": [
+            "漢族（漢民族）",
+            "チワン族",
+            "満州族",
+            "モンゴル族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-03",
+          "question": "中国で漢族以外の民族を総称して何というか。",
+          "answer": "少数民族",
+          "options": [
+            "少数民族",
+            "先住民族",
+            "原住民",
+            "部族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-04",
+          "question": "中国最大の少数民族で，広西チワン族自治区に多く居住する民族は何か。",
+          "answer": "チワン族",
+          "options": [
+            "チワン族",
+            "ウイグル族",
+            "チベット族",
+            "モンゴル族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-05",
+          "question": "新疆ウイグル自治区に居住するトルコ系の民族は何か。",
+          "answer": "ウイグル族",
+          "options": [
+            "ウイグル族",
+            "チワン族",
+            "チベット族",
+            "回族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-06",
+          "question": "チベット自治区に居住し，チベット仏教を信仰する民族は何か。",
+          "answer": "チベット族",
+          "options": [
+            "チベット族",
+            "ウイグル族",
+            "モンゴル族",
+            "回族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-07",
+          "question": "ミャンマー・タイなどに居住する少数民族で，独立運動で知られる民族は何か。",
+          "answer": "カレン族",
+          "options": [
+            "カレン族",
+            "シャン族",
+            "ロヒンギャ",
+            "モン族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-08",
+          "question": "東南アジアで経済的に大きな影響力を持つ中国系住民を何というか。",
+          "answer": "華人（華僑）",
+          "options": [
+            "華人（華僑）",
+            "印僑",
+            "日系人",
+            "在外同胞"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-09",
+          "question": "インドの先住民族で，ドラヴィダ語族に属する南インドの民族を何というか。",
+          "answer": "ドラヴィダ人（タミル人等）",
+          "options": [
+            "ドラヴィダ人（タミル人等）",
+            "アーリア人",
+            "ベンガル人",
+            "シク教徒"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-10",
+          "question": "スリランカで多数派を占める民族は何か。",
+          "answer": "シンハラ人",
+          "options": [
+            "シンハラ人",
+            "タミル人",
+            "ヴェッダ人",
+            "ムーア人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-11",
+          "question": "スリランカで少数派の民族で，内戦の一方の当事者は何か。",
+          "answer": "タミル人",
+          "options": [
+            "タミル人",
+            "シンハラ人",
+            "ヴェッダ人",
+            "ムーア人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-12",
+          "question": "アラビア語を話し，イスラームを信仰する西アジア・北アフリカの民族は何か。",
+          "answer": "アラブ人",
+          "options": [
+            "アラブ人",
+            "ペルシア人",
+            "トルコ人",
+            "クルド人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-13",
+          "question": "イラン・アフガニスタンなどに居住するインド＝ヨーロッパ語族の民族は何か。",
+          "answer": "ペルシア人（イラン人）",
+          "options": [
+            "ペルシア人（イラン人）",
+            "アラブ人",
+            "トルコ人",
+            "クルド人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-14",
+          "question": "トルコ・中央アジアに分布するアルタイ語族の民族は何か。",
+          "answer": "トルコ人（テュルク系民族）",
+          "options": [
+            "トルコ人（テュルク系民族）",
+            "アラブ人",
+            "ペルシア人",
+            "クルド人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-15",
+          "question": "トルコ・イラク・イラン・シリアなどにまたがって居住し，独自の国家を持たない世界最大の民族は何か。",
+          "answer": "クルド人",
+          "options": [
+            "クルド人",
+            "パレスチナ人",
+            "ロマ人",
+            "バスク人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-16",
+          "question": "ユダヤ教を信仰し，イスラエルを建国した民族は何か。",
+          "answer": "ユダヤ人",
+          "options": [
+            "ユダヤ人",
+            "アラブ人",
+            "ペルシア人",
+            "クルド人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-17",
+          "question": "東アフリカのケニア・タンザニアで遊牧生活を営む民族は何か。",
+          "answer": "マサイ族",
+          "options": [
+            "マサイ族",
+            "ズールー族",
+            "バントゥー族",
+            "ピグミー族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-18",
+          "question": "サハラ以南のアフリカに広く分布する語族で，多くの民族を含む集団は何か。",
+          "answer": "バントゥー系民族",
+          "options": [
+            "バントゥー系民族",
+            "ナイル系民族",
+            "クシ系民族",
+            "コイサン系民族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-19",
+          "question": "コンゴ盆地の熱帯雨林に住む小柄な狩猟採集民を何というか。",
+          "answer": "ピグミー",
+          "options": [
+            "ピグミー",
+            "マサイ",
+            "ズールー",
+            "サン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-20",
+          "question": "カラハリ砂漠周辺に住む狩猟採集民を何というか。",
+          "answer": "サン（ブッシュマン）",
+          "options": [
+            "サン（ブッシュマン）",
+            "ピグミー",
+            "マサイ",
+            "ホッテントット"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-21",
+          "question": "ドイツ・オランダ・スカンジナビア・イギリスなどの民族系統は何か。",
+          "answer": "ゲルマン系民族",
+          "options": [
+            "ゲルマン系民族",
+            "ラテン系民族",
+            "スラブ系民族",
+            "ケルト系民族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-22",
+          "question": "フランス・イタリア・スペイン・ポルトガルなどの民族系統は何か。",
+          "answer": "ラテン系民族",
+          "options": [
+            "ラテン系民族",
+            "ゲルマン系民族",
+            "スラブ系民族",
+            "ケルト系民族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-23",
+          "question": "ロシア・ポーランド・チェコ・セルビアなどの民族系統は何か。",
+          "answer": "スラブ系民族",
+          "options": [
+            "スラブ系民族",
+            "ゲルマン系民族",
+            "ラテン系民族",
+            "ケルト系民族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-24",
+          "question": "アイルランド・スコットランド・ウェールズ・ブルターニュなどに残る古代ヨーロッパの民族は何か。",
+          "answer": "ケルト系民族",
+          "options": [
+            "ケルト系民族",
+            "ゲルマン系民族",
+            "ラテン系民族",
+            "スラブ系民族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-25",
+          "question": "スペインとフランスにまたがるピレネー山脈周辺に住む，系統不明の民族は何か。",
+          "answer": "バスク人",
+          "options": [
+            "バスク人",
+            "カタルーニャ人",
+            "ケルト人",
+            "ロマ人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-26",
+          "question": "スカンジナビア半島北部からロシア北西部にかけて住む，トナカイ遊牧民は何か。",
+          "answer": "サーミ（ラップ）人",
+          "options": [
+            "サーミ（ラップ）人",
+            "フィン人",
+            "バスク人",
+            "ケルト人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-27",
+          "question": "ロシア連邦内のヴォルガ川中流域に住むトルコ系民族は何か。",
+          "answer": "タタール人",
+          "options": [
+            "タタール人",
+            "チェチェン人",
+            "カザフ人",
+            "ウズベク人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-28",
+          "question": "ロシア連邦カフカス地方で独立運動を展開した民族は何か。",
+          "answer": "チェチェン人",
+          "options": [
+            "チェチェン人",
+            "タタール人",
+            "グルジア人",
+            "アルメニア人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-29",
+          "question": "アメリカ大陸の先住民族を何というか。",
+          "answer": "インディアン（ネイティブアメリカン）",
+          "options": [
+            "インディアン（ネイティブアメリカン）",
+            "イヌイット",
+            "アボリジニ",
+            "マオリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-30",
+          "question": "北極圏に住むモンゴロイド系の先住民族を何というか。",
+          "answer": "イヌイット（エスキモー）",
+          "options": [
+            "イヌイット（エスキモー）",
+            "インディアン",
+            "アイヌ",
+            "サーミ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-31",
+          "question": "アメリカ合衆国の支配層を構成する白人プロテスタントの略称は何か。",
+          "answer": "WASP",
+          "options": [
+            "WASP",
+            "NAACP",
+            "NAFTA",
+            "NATO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-32",
+          "question": "アメリカ合衆国で増加するスペイン語を話す中南米系移民を何というか。",
+          "answer": "ヒスパニック（ラティーノ）",
+          "options": [
+            "ヒスパニック（ラティーノ）",
+            "WASP",
+            "アフリカ系アメリカ人",
+            "アジア系アメリカ人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-33",
+          "question": "中南アメリカの先住民族を何というか。",
+          "answer": "インディオ",
+          "options": [
+            "インディオ",
+            "インディアン",
+            "イヌイット",
+            "メスチソ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-34",
+          "question": "白人と先住民の混血を何というか。",
+          "answer": "メスチソ（メスティーソ）",
+          "options": [
+            "メスチソ（メスティーソ）",
+            "ムラート",
+            "サンボ",
+            "クリオーリョ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-35",
+          "question": "白人と黒人の混血を何というか。",
+          "answer": "ムラート（ムラット）",
+          "options": [
+            "ムラート（ムラット）",
+            "メスチソ",
+            "サンボ",
+            "クリオーリョ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-36",
+          "question": "オーストラリアの先住民族を何というか。",
+          "answer": "アボリジニ",
+          "options": [
+            "アボリジニ",
+            "マオリ",
+            "メラネシア人",
+            "ポリネシア人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S2-37",
+          "question": "ニュージーランドの先住民族を何というか。",
+          "answer": "マオリ",
+          "options": [
+            "マオリ",
+            "アボリジニ",
+            "メラネシア人",
+            "ポリネシア人"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "民族と文化",
+      "questions": [
+        {
+          "id": "P3-C1-S3-01",
+          "question": "世界三大宗教の1つで，イエス＝キリストを救世主と信じる宗教は何か。",
+          "answer": "キリスト教",
+          "options": [
+            "キリスト教",
+            "イスラーム",
+            "仏教",
+            "ヒンドゥー教"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-02",
+          "question": "キリスト教の宗派で，ローマ教皇を首長とする最大の宗派は何か。",
+          "answer": "カトリック（旧教）",
+          "options": [
+            "カトリック（旧教）",
+            "プロテスタント",
+            "東方正教会",
+            "英国国教会"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-03",
+          "question": "キリスト教の宗派で，16世紀の宗教改革で分離した宗派は何か。",
+          "answer": "プロテスタント（新教）",
+          "options": [
+            "プロテスタント（新教）",
+            "カトリック",
+            "東方正教会",
+            "英国国教会"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-04",
+          "question": "キリスト教の宗派で，ロシア・ギリシア・東欧で信仰される宗派は何か。",
+          "answer": "東方正教会（オーソドックス）",
+          "options": [
+            "東方正教会（オーソドックス）",
+            "カトリック",
+            "プロテスタント",
+            "英国国教会"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-05",
+          "question": "ムハンマドを預言者とし，コーランを聖典とする宗教は何か。",
+          "answer": "イスラーム（イスラム教）",
+          "options": [
+            "イスラーム（イスラム教）",
+            "キリスト教",
+            "仏教",
+            "ヒンドゥー教"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-06",
+          "question": "イスラームの多数派を占める宗派は何か。",
+          "answer": "スンナ派（スンニ派）",
+          "options": [
+            "スンナ派（スンニ派）",
+            "シーア派",
+            "スーフィズム",
+            "ワッハーブ派"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-07",
+          "question": "イスラームの少数派で，イラン・イラクに多い宗派は何か。",
+          "answer": "シーア派",
+          "options": [
+            "シーア派",
+            "スンナ派",
+            "スーフィズム",
+            "ワッハーブ派"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-08",
+          "question": "イスラームの聖地で，サウジアラビアにある都市はどこか。",
+          "answer": "メッカ",
+          "options": [
+            "メッカ",
+            "メディナ",
+            "エルサレム",
+            "カイロ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-09",
+          "question": "ブッダ（釈迦）の教えに基づく世界三大宗教の1つは何か。",
+          "answer": "仏教",
+          "options": [
+            "仏教",
+            "キリスト教",
+            "イスラーム",
+            "ヒンドゥー教"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-10",
+          "question": "仏教の宗派で，スリランカ・東南アジアに広がる宗派は何か。",
+          "answer": "上座部仏教（小乗仏教）",
+          "options": [
+            "上座部仏教（小乗仏教）",
+            "大乗仏教",
+            "チベット仏教",
+            "禅宗"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-11",
+          "question": "仏教の宗派で，中国・朝鮮・日本に広がる宗派は何か。",
+          "answer": "大乗仏教",
+          "options": [
+            "大乗仏教",
+            "上座部仏教",
+            "チベット仏教",
+            "禅宗"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-12",
+          "question": "インドで最も多くの信者を持つ民族宗教は何か。",
+          "answer": "ヒンドゥー教",
+          "options": [
+            "ヒンドゥー教",
+            "仏教",
+            "ジャイナ教",
+            "シク教"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-13",
+          "question": "ヒンドゥー教社会の身分制度を何というか。",
+          "answer": "カースト制度",
+          "options": [
+            "カースト制度",
+            "封建制度",
+            "奴隷制度",
+            "階級制度"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-14",
+          "question": "インドでヒンドゥー教とイスラームの要素を融合した宗教は何か。",
+          "answer": "シク教",
+          "options": [
+            "シク教",
+            "ジャイナ教",
+            "ゾロアスター教",
+            "バハーイー教"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-15",
+          "question": "ユダヤ民族の民族宗教で，旧約聖書を聖典とする宗教は何か。",
+          "answer": "ユダヤ教",
+          "options": [
+            "ユダヤ教",
+            "キリスト教",
+            "イスラーム",
+            "ゾロアスター教"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-16",
+          "question": "中国の伝統的な思想・宗教で，老子・荘子を始祖とするものは何か。",
+          "answer": "道教",
+          "options": [
+            "道教",
+            "儒教",
+            "仏教",
+            "神道"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-17",
+          "question": "国際的な公用語として最も広く使われている言語は何か。",
+          "answer": "英語",
+          "options": [
+            "英語",
+            "中国語",
+            "スペイン語",
+            "フランス語"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-18",
+          "question": "母語人口が最も多い言語は何か。",
+          "answer": "中国語",
+          "options": [
+            "中国語",
+            "英語",
+            "スペイン語",
+            "ヒンディー語"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-19",
+          "question": "朝鮮語の表記に用いられる文字を何というか。",
+          "answer": "ハングル",
+          "options": [
+            "ハングル",
+            "漢字",
+            "カタカナ",
+            "アラビア文字"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-20",
+          "question": "異なる言語を持つ人々の間で生まれた簡略化された言語を何というか。",
+          "answer": "ピジン語",
+          "options": [
+            "ピジン語",
+            "クレオール語",
+            "共通語",
+            "公用語"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-21",
+          "question": "ピジン語が母語として定着したものを何というか。",
+          "answer": "クレオール語",
+          "options": [
+            "クレオール語",
+            "ピジン語",
+            "リンガフランカ",
+            "共通語"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-22",
+          "question": "ベトナムの女性の伝統的な民族衣装を何というか。",
+          "answer": "アオザイ",
+          "options": [
+            "アオザイ",
+            "チマチョゴリ",
+            "サリー",
+            "チャイナドレス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-23",
+          "question": "韓国の女性の伝統的な民族衣装を何というか。",
+          "answer": "チマチョゴリ",
+          "options": [
+            "チマチョゴリ",
+            "アオザイ",
+            "サリー",
+            "チャイナドレス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-24",
+          "question": "インドの女性の伝統的な民族衣装を何というか。",
+          "answer": "サリー",
+          "options": [
+            "サリー",
+            "アオザイ",
+            "チマチョゴリ",
+            "チャイナドレス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-25",
+          "question": "朝鮮半島の代表的な漬物を何というか。",
+          "answer": "キムチ",
+          "options": [
+            "キムチ",
+            "ナンプラー",
+            "パエリア",
+            "タコス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-26",
+          "question": "スペインの代表的な米料理を何というか。",
+          "answer": "パエリア",
+          "options": [
+            "パエリア",
+            "リゾット",
+            "ピラフ",
+            "クスクス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-27",
+          "question": "モンゴルの遊牧民が使う移動式テントを何というか。",
+          "answer": "ゲル（パオ）",
+          "options": [
+            "ゲル（パオ）",
+            "イグルー",
+            "ティピー",
+            "ユルト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-28",
+          "question": "イヌイットが使う雪や氷で作ったドーム型の住居を何というか。",
+          "answer": "イグルー",
+          "options": [
+            "イグルー",
+            "ゲル",
+            "ティピー",
+            "高床式住居"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-29",
+          "question": "朝鮮半島の伝統的な床暖房を何というか。",
+          "answer": "オンドル",
+          "options": [
+            "オンドル",
+            "カン",
+            "暖炉",
+            "ペチカ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-30",
+          "question": "多様な民族が共存し，互いの文化を尊重する社会を何というか。",
+          "answer": "多文化社会（多文化主義）",
+          "options": [
+            "多文化社会（多文化主義）",
+            "同化政策",
+            "人種分離",
+            "民族浄化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-31",
+          "question": "カナダが採用している，多民族の共存を目指す政策を何というか。",
+          "answer": "多文化主義（モザイク社会）",
+          "options": [
+            "多文化主義（モザイク社会）",
+            "メルティングポット",
+            "サラダボウル",
+            "同化政策"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-32",
+          "question": "アメリカ合衆国をかつて表現した，多民族が融合する社会を表す言葉は何か。",
+          "answer": "メルティングポット（人種のるつぼ）",
+          "options": [
+            "メルティングポット（人種のるつぼ）",
+            "モザイク社会",
+            "サラダボウル",
+            "多文化主義"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S3-33",
+          "question": "アメリカ合衆国の現在の多民族社会を表す言葉は何か。",
+          "answer": "サラダボウル",
+          "options": [
+            "サラダボウル",
+            "メルティングポット",
+            "モザイク社会",
+            "多文化主義"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "人種・民族問題",
+      "questions": [
+        {
+          "id": "P3-C1-S4-01",
+          "question": "イギリスのバルフォア宣言でユダヤ人に約束された土地はどこか。",
+          "answer": "パレスチナ",
+          "options": [
+            "パレスチナ",
+            "イスラエル",
+            "ヨルダン",
+            "レバノン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-02",
+          "question": "1948年に建国されたユダヤ人国家は何か。",
+          "answer": "イスラエル",
+          "options": [
+            "イスラエル",
+            "パレスチナ",
+            "ヨルダン",
+            "シリア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-03",
+          "question": "パレスチナ人の抵抗運動を代表する組織は何か。",
+          "answer": "PLO（パレスチナ解放機構）",
+          "options": [
+            "PLO（パレスチナ解放機構）",
+            "ハマス",
+            "ヒズボラ",
+            "アルカイダ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-04",
+          "question": "南アフリカ共和国で行われていた人種隔離政策を何というか。",
+          "answer": "アパルトヘイト",
+          "options": [
+            "アパルトヘイト",
+            "ジム・クロウ法",
+            "白豪主義",
+            "同化政策"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-05",
+          "question": "1994年に南アフリカ共和国初の黒人大統領に就任した人物は誰か。",
+          "answer": "ネルソン・マンデラ",
+          "options": [
+            "ネルソン・マンデラ",
+            "デズモンド・ツツ",
+            "ロバート・ムガベ",
+            "コフィ・アナン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-06",
+          "question": "1967～70年にナイジェリアで起きた民族対立による内戦を何というか。",
+          "answer": "ビアフラ戦争",
+          "options": [
+            "ビアフラ戦争",
+            "ルワンダ内戦",
+            "ソマリア内戦",
+            "コンゴ紛争"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-07",
+          "question": "1994年にルワンダで起きたフツ族とツチ族の対立による大虐殺を何というか。",
+          "answer": "ルワンダ虐殺（ジェノサイド）",
+          "options": [
+            "ルワンダ虐殺（ジェノサイド）",
+            "ビアフラ戦争",
+            "ソマリア内戦",
+            "ボスニア紛争"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-08",
+          "question": "旧ユーゴスラビアの解体に伴い起きた民族紛争で，特にボスニアで行われた行為を何というか。",
+          "answer": "民族浄化（エスニッククレンジング）",
+          "options": [
+            "民族浄化（エスニッククレンジング）",
+            "アパルトヘイト",
+            "ジェノサイド",
+            "ポグロム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-09",
+          "question": "カナダのケベック州で分離独立運動を展開する民族は何か。",
+          "answer": "フランス系カナダ人",
+          "options": [
+            "フランス系カナダ人",
+            "イギリス系カナダ人",
+            "先住民",
+            "ヒスパニック"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-10",
+          "question": "オーストラリアがかつて行っていた白人以外の移民を制限する政策を何というか。",
+          "answer": "白豪主義",
+          "options": [
+            "白豪主義",
+            "アパルトヘイト",
+            "同化政策",
+            "排外主義"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-11",
+          "question": "戦争・迫害・自然災害などで故郷を離れざるを得なくなった人々を何というか。",
+          "answer": "難民",
+          "options": [
+            "難民",
+            "移民",
+            "ディアスポラ",
+            "亡命者"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-12",
+          "question": "難民の保護を担当する国連の機関を何というか。",
+          "answer": "UNHCR（国連難民高等弁務官事務所）",
+          "options": [
+            "UNHCR（国連難民高等弁務官事務所）",
+            "UNESCO",
+            "UNICEF",
+            "WHO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-13",
+          "question": "北アイルランドで対立する2つの宗教は何か。",
+          "answer": "カトリックとプロテスタント",
+          "options": [
+            "カトリックとプロテスタント",
+            "スンナ派とシーア派",
+            "ヒンドゥー教とイスラーム",
+            "仏教とキリスト教"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-14",
+          "question": "スペインのカタルーニャ地方の中心都市はどこか。",
+          "answer": "バルセロナ",
+          "options": [
+            "バルセロナ",
+            "マドリード",
+            "ビルバオ",
+            "セビリア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-15",
+          "question": "ベルギーで対立する2つの言語集団は何か。",
+          "answer": "フラマン語（オランダ語系）とワロン語（フランス語系）",
+          "options": [
+            "フラマン語（オランダ語系）とワロン語（フランス語系）",
+            "英語とフランス語",
+            "ドイツ語とフランス語",
+            "イタリア語とドイツ語"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-16",
+          "question": "スイスの公用語は何語か。",
+          "answer": "ドイツ語・フランス語・イタリア語・ロマンシュ語",
+          "options": [
+            "ドイツ語・フランス語・イタリア語・ロマンシュ語",
+            "英語・フランス語",
+            "ドイツ語・フランス語",
+            "フランス語・イタリア語"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-17",
+          "question": "インドとパキスタンが領有権を争う地域はどこか。",
+          "answer": "カシミール",
+          "options": [
+            "カシミール",
+            "パンジャーブ",
+            "ベンガル",
+            "アッサム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-18",
+          "question": "中国のチベット自治区で独立を求める宗教指導者は誰か。",
+          "answer": "ダライ・ラマ",
+          "options": [
+            "ダライ・ラマ",
+            "パンチェン・ラマ",
+            "マハトマ・ガンジー",
+            "アウンサンスーチー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-19",
+          "question": "ミャンマーで迫害を受けているイスラーム系少数民族は何か。",
+          "answer": "ロヒンギャ",
+          "options": [
+            "ロヒンギャ",
+            "カレン族",
+            "シャン族",
+            "モン族"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P3-C1-S4-20",
+          "question": "アメリカ合衆国の公民権運動の指導者は誰か。",
+          "answer": "マーティン・ルーサー・キング牧師",
+          "options": [
+            "マーティン・ルーサー・キング牧師",
+            "マルコムX",
+            "ローザ・パークス",
+            "ネルソン・マンデラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

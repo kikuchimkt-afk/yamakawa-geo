@@ -1,0 +1,995 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 4,
+    "title": "つながる世界"
+  },
+  "chapter": {
+    "number": 1,
+    "title": "交通・通信"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "交通の発達",
+      "questions": [
+        {
+          "id": "P4-C1-S1-01",
+          "question": "砂漠地帯で隊列を組んで移動する商人の集団を何というか。",
+          "answer": "隊商（キャラバン）",
+          "options": [
+            "隊商（キャラバン）",
+            "遊牧民",
+            "巡礼",
+            "商隊"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-02",
+          "question": "中国から中央アジアを経てローマに至る古代の交易路を何というか。",
+          "answer": "シルクロード（絹の道）",
+          "options": [
+            "シルクロード（絹の道）",
+            "アジアハイウェイ",
+            "スパイスロード",
+            "茶馬古道"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-03",
+          "question": "江戸時代に整備された日本の主要な5つの街道を何というか。",
+          "answer": "五街道",
+          "options": [
+            "五街道",
+            "参勤交代路",
+            "脇街道",
+            "中山道"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-04",
+          "question": "2地点間の移動に要する時間で表した距離を何というか。",
+          "answer": "時間距離",
+          "options": [
+            "時間距離",
+            "経済距離",
+            "絶対距離",
+            "相対距離"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-05",
+          "question": "交通機関の発達により時間距離が短縮される現象を何というか。",
+          "answer": "時空間の収縮（時間距離の短縮）",
+          "options": [
+            "時空間の収縮（時間距離の短縮）",
+            "グローバル化",
+            "モータリゼーション",
+            "交通革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-06",
+          "question": "2地点間の移動に要する費用で表した距離を何というか。",
+          "answer": "経済距離（費用距離）",
+          "options": [
+            "経済距離（費用距離）",
+            "時間距離",
+            "絶対距離",
+            "相対距離"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-07",
+          "question": "大量の貨物を長距離輸送するのに適した交通機関は何か。",
+          "answer": "船舶（海運）",
+          "options": [
+            "船舶（海運）",
+            "鉄道",
+            "自動車",
+            "航空機"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-08",
+          "question": "戸口から戸口への輸送に適した交通機関は何か。",
+          "answer": "自動車（トラック）",
+          "options": [
+            "自動車（トラック）",
+            "鉄道",
+            "船舶",
+            "航空機"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-09",
+          "question": "高価で軽量な貨物や緊急性のある貨物の輸送に適した交通機関は何か。",
+          "answer": "航空機",
+          "options": [
+            "航空機",
+            "船舶",
+            "鉄道",
+            "自動車"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S1-10",
+          "question": "複数の交通機関を組み合わせて貨物を効率的に輸送する方式を何というか。",
+          "answer": "複合一貫輸送（インターモーダル）",
+          "options": [
+            "複合一貫輸送（インターモーダル）",
+            "コンテナ輸送",
+            "パイプライン",
+            "鉄道輸送"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "陸上交通",
+      "questions": [
+        {
+          "id": "P4-C1-S2-01",
+          "question": "1825年にイギリスで世界初の実用的な鉄道が開通した区間はどこか。",
+          "answer": "ストックトン〜ダーリントン",
+          "options": [
+            "ストックトン〜ダーリントン",
+            "リヴァプール〜マンチェスター",
+            "ロンドン〜バーミンガム",
+            "パリ〜リヨン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-02",
+          "question": "ロシアのモスクワからウラジオストクを結ぶ世界最長の鉄道を何というか。",
+          "answer": "シベリア鉄道",
+          "options": [
+            "シベリア鉄道",
+            "バム鉄道",
+            "中央アジア鉄道",
+            "満州鉄道"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-03",
+          "question": "シベリア鉄道の北側に建設されたバイカル＝アムール鉄道を略して何というか。",
+          "answer": "バム鉄道（BAM）",
+          "options": [
+            "バム鉄道（BAM）",
+            "シベリア鉄道",
+            "東清鉄道",
+            "中東鉄道"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-04",
+          "question": "フランスの高速鉄道を何というか。",
+          "answer": "TGV",
+          "options": [
+            "TGV",
+            "ICE",
+            "AVE",
+            "新幹線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-05",
+          "question": "ドイツの高速鉄道を何というか。",
+          "answer": "ICE",
+          "options": [
+            "ICE",
+            "TGV",
+            "AVE",
+            "新幹線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-06",
+          "question": "1964年に開通した東京と新大阪を結ぶ日本の高速鉄道を何というか。",
+          "answer": "東海道新幹線",
+          "options": [
+            "東海道新幹線",
+            "山陽新幹線",
+            "東北新幹線",
+            "北陸新幹線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-07",
+          "question": "イギリスとフランスを結ぶドーバー海峡の海底トンネルを何というか。",
+          "answer": "ユーロトンネル（英仏海峡トンネル）",
+          "options": [
+            "ユーロトンネル（英仏海峡トンネル）",
+            "青函トンネル",
+            "関門トンネル",
+            "ゴッタルドトンネル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-08",
+          "question": "自動車が普及し，社会や経済に大きな影響を与える現象を何というか。",
+          "answer": "モータリゼーション",
+          "options": [
+            "モータリゼーション",
+            "産業革命",
+            "情報革命",
+            "交通革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-09",
+          "question": "アメリカの大西洋岸と太平洋岸を結ぶ大陸横断鉄道が完成した年はいつか。",
+          "answer": "1869年",
+          "options": [
+            "1869年",
+            "1825年",
+            "1914年",
+            "1964年"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-10",
+          "question": "インドの鉄道が広軌・狭軌・メーターゲージなど異なる軌間を持つ特徴を何というか。",
+          "answer": "多軌間（マルチゲージ）",
+          "options": [
+            "多軌間（マルチゲージ）",
+            "標準軌",
+            "広軌",
+            "狭軌"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-11",
+          "question": "中国が建設を進めるユーラシア大陸を横断する経済圏構想を何というか。",
+          "answer": "一帯一路",
+          "options": [
+            "一帯一路",
+            "シルクロード",
+            "アジアハイウェイ",
+            "AIIB"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-12",
+          "question": "アジア各国を結ぶ国際幹線道路を何というか。",
+          "answer": "アジアハイウェイ",
+          "options": [
+            "アジアハイウェイ",
+            "一帯一路",
+            "シルクロード",
+            "パンアメリカンハイウェイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-13",
+          "question": "北アメリカと南アメリカを結ぶ長大な幹線道路を何というか。",
+          "answer": "パンアメリカンハイウェイ",
+          "options": [
+            "パンアメリカンハイウェイ",
+            "アジアハイウェイ",
+            "一帯一路",
+            "アウトバーン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S2-14",
+          "question": "ドイツの速度制限のない高速道路を何というか。",
+          "answer": "アウトバーン",
+          "options": [
+            "アウトバーン",
+            "オートルート",
+            "ハイウェイ",
+            "モーターウェイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "水上交通",
+      "questions": [
+        {
+          "id": "P4-C1-S3-01",
+          "question": "複数の国を流れる河川を何というか。",
+          "answer": "国際河川",
+          "options": [
+            "国際河川",
+            "内陸水路",
+            "運河",
+            "国内河川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-02",
+          "question": "ヨーロッパ最大の国際河川で，ドイツ・オランダなどを流れる河川は何か。",
+          "answer": "ライン川",
+          "options": [
+            "ライン川",
+            "ドナウ川",
+            "エルベ川",
+            "セーヌ川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-03",
+          "question": "ライン川の河口にあるヨーロッパ最大の港湾都市はどこか。",
+          "answer": "ロッテルダム",
+          "options": [
+            "ロッテルダム",
+            "アムステルダム",
+            "アントウェルペン",
+            "ハンブルク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-04",
+          "question": "ドイツからオーストリア・ハンガリーを経て黒海に注ぐ国際河川は何か。",
+          "answer": "ドナウ川",
+          "options": [
+            "ドナウ川",
+            "ライン川",
+            "エルベ川",
+            "ヴォルガ川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-05",
+          "question": "ライン川とドナウ川を結ぶ運河を何というか。",
+          "answer": "マイン＝ドナウ運河",
+          "options": [
+            "マイン＝ドナウ運河",
+            "キール運河",
+            "スエズ運河",
+            "パナマ運河"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-06",
+          "question": "アメリカの五大湖と大西洋を結ぶ水路を何というか。",
+          "answer": "セントローレンス水路",
+          "options": [
+            "セントローレンス水路",
+            "エリー運河",
+            "ミシシッピ川",
+            "ハドソン川"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-07",
+          "question": "地中海と紅海を結ぶ運河を何というか。",
+          "answer": "スエズ運河",
+          "options": [
+            "スエズ運河",
+            "パナマ運河",
+            "キール運河",
+            "コリント運河"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-08",
+          "question": "スエズ運河が開通した年はいつか。",
+          "answer": "1869年",
+          "options": [
+            "1869年",
+            "1914年",
+            "1825年",
+            "1956年"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-09",
+          "question": "大西洋と太平洋を結ぶ中央アメリカの運河を何というか。",
+          "answer": "パナマ運河",
+          "options": [
+            "パナマ運河",
+            "スエズ運河",
+            "ニカラグア運河",
+            "キール運河"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-10",
+          "question": "パナマ運河が開通した年はいつか。",
+          "answer": "1914年",
+          "options": [
+            "1914年",
+            "1869年",
+            "1825年",
+            "1956年"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-11",
+          "question": "北海とバルト海を結ぶドイツの運河を何というか。",
+          "answer": "キール運河（北海バルト海運河）",
+          "options": [
+            "キール運河（北海バルト海運河）",
+            "マイン＝ドナウ運河",
+            "スエズ運河",
+            "エリー運河"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-12",
+          "question": "貨物を定められた規格の箱に入れて輸送する方式を何というか。",
+          "answer": "コンテナ輸送",
+          "options": [
+            "コンテナ輸送",
+            "バルク輸送",
+            "パイプライン輸送",
+            "複合輸送"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-13",
+          "question": "冬季に凍結しない港を何というか。",
+          "answer": "不凍港",
+          "options": [
+            "不凍港",
+            "自由港",
+            "貿易港",
+            "漁港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-14",
+          "question": "ロシアが不凍港を求めた歴史的な政策を何というか。",
+          "answer": "南下政策",
+          "options": [
+            "南下政策",
+            "北進政策",
+            "海洋進出",
+            "領土拡張"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-15",
+          "question": "ロシアの北極海沿岸を通る航路を何というか。",
+          "answer": "北極海航路（北方航路）",
+          "options": [
+            "北極海航路（北方航路）",
+            "シベリア航路",
+            "スエズ航路",
+            "パナマ航路"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-16",
+          "question": "マレー半島とスマトラ島の間の海峡を何というか。",
+          "answer": "マラッカ海峡",
+          "options": [
+            "マラッカ海峡",
+            "スンダ海峡",
+            "ロンボク海峡",
+            "ホルムズ海峡"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-17",
+          "question": "ペルシア湾の出口にある海峡を何というか。",
+          "answer": "ホルムズ海峡",
+          "options": [
+            "ホルムズ海峡",
+            "マラッカ海峡",
+            "バブエルマンデブ海峡",
+            "ボスポラス海峡"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-18",
+          "question": "紅海とアデン湾の間の海峡を何というか。",
+          "answer": "バブエルマンデブ海峡",
+          "options": [
+            "バブエルマンデブ海峡",
+            "ホルムズ海峡",
+            "マラッカ海峡",
+            "スエズ運河"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-19",
+          "question": "黒海と地中海を結ぶトルコの海峡を何というか。",
+          "answer": "ボスポラス海峡・ダーダネルス海峡",
+          "options": [
+            "ボスポラス海峡・ダーダネルス海峡",
+            "ホルムズ海峡",
+            "マラッカ海峡",
+            "ジブラルタル海峡"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-20",
+          "question": "ヨーロッパとアフリカの間の海峡を何というか。",
+          "answer": "ジブラルタル海峡",
+          "options": [
+            "ジブラルタル海峡",
+            "ボスポラス海峡",
+            "ドーバー海峡",
+            "マラッカ海峡"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-21",
+          "question": "世界のコンテナ取扱量が最も多い港はどこか。",
+          "answer": "上海",
+          "options": [
+            "上海",
+            "シンガポール",
+            "深圳",
+            "釜山"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-22",
+          "question": "船舶の登録を税制上有利な外国に置くことを何というか。",
+          "answer": "便宜置籍船（FOC）",
+          "options": [
+            "便宜置籍船（FOC）",
+            "自国籍船",
+            "チャーター船",
+            "コンテナ船"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-23",
+          "question": "便宜置籍船の登録が多い国はどこか。",
+          "answer": "パナマ・リベリア",
+          "options": [
+            "パナマ・リベリア",
+            "アメリカ・イギリス",
+            "日本・中国",
+            "ギリシア・ノルウェー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S3-24",
+          "question": "原油を専用に運搬する大型船を何というか。",
+          "answer": "タンカー",
+          "options": [
+            "タンカー",
+            "コンテナ船",
+            "バルクキャリア",
+            "LNG船"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "航空交通",
+      "questions": [
+        {
+          "id": "P4-C1-S4-01",
+          "question": "多くの航空路線が集中し，乗り継ぎの拠点となる空港を何というか。",
+          "answer": "ハブ空港",
+          "options": [
+            "ハブ空港",
+            "国際空港",
+            "地方空港",
+            "軍用空港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-02",
+          "question": "シンガポールのハブ空港はどこか。",
+          "answer": "チャンギ国際空港",
+          "options": [
+            "チャンギ国際空港",
+            "仁川国際空港",
+            "スワンナプーム国際空港",
+            "香港国際空港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-03",
+          "question": "韓国のハブ空港はどこか。",
+          "answer": "仁川国際空港",
+          "options": [
+            "仁川国際空港",
+            "チャンギ国際空港",
+            "スワンナプーム国際空港",
+            "金浦空港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-04",
+          "question": "アラブ首長国連邦ドバイのハブ空港はどこか。",
+          "answer": "ドバイ国際空港",
+          "options": [
+            "ドバイ国際空港",
+            "アブダビ国際空港",
+            "チャンギ国際空港",
+            "仁川国際空港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-05",
+          "question": "日本最大の国際空港はどこか。",
+          "answer": "成田国際空港",
+          "options": [
+            "成田国際空港",
+            "羽田空港",
+            "関西国際空港",
+            "中部国際空港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-06",
+          "question": "大阪湾の人工島に建設された国際空港はどこか。",
+          "answer": "関西国際空港",
+          "options": [
+            "関西国際空港",
+            "成田国際空港",
+            "羽田空港",
+            "中部国際空港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-07",
+          "question": "航空機による貨物輸送を何というか。",
+          "answer": "エアカーゴ（航空貨物）",
+          "options": [
+            "エアカーゴ（航空貨物）",
+            "コンテナ輸送",
+            "宅配便",
+            "フォワーディング"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-08",
+          "question": "格安な運賃で運航する航空会社を何というか。",
+          "answer": "LCC（ローコストキャリア）",
+          "options": [
+            "LCC（ローコストキャリア）",
+            "フラッグキャリア",
+            "チャーター便",
+            "FSC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-09",
+          "question": "アメリカのアトランタにあるハブ空港で，世界最大の旅客数を誇る空港はどこか。",
+          "answer": "ハーツフィールド＝ジャクソン・アトランタ国際空港",
+          "options": [
+            "ハーツフィールド＝ジャクソン・アトランタ国際空港",
+            "JFK国際空港",
+            "ロサンゼルス国際空港",
+            "シカゴ・オヘア国際空港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S4-10",
+          "question": "ロンドンのハブ空港で，ヨーロッパ最大の旅客数を誇る空港はどこか。",
+          "answer": "ヒースロー空港",
+          "options": [
+            "ヒースロー空港",
+            "ガトウィック空港",
+            "シャルル・ド・ゴール空港",
+            "フランクフルト空港"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "通信",
+      "questions": [
+        {
+          "id": "P4-C1-S5-01",
+          "question": "人工衛星を利用した通信を何というか。",
+          "answer": "衛星通信",
+          "options": [
+            "衛星通信",
+            "光通信",
+            "無線通信",
+            "インターネット"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-02",
+          "question": "光の信号で大量のデータを高速に伝送する通信ケーブルを何というか。",
+          "answer": "光ファイバーケーブル",
+          "options": [
+            "光ファイバーケーブル",
+            "同軸ケーブル",
+            "電話線",
+            "LAN"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-03",
+          "question": "世界中のコンピューターをネットワークで結んだ情報通信網を何というか。",
+          "answer": "インターネット",
+          "options": [
+            "インターネット",
+            "イントラネット",
+            "LAN",
+            "WAN"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-04",
+          "question": "情報通信技術の革新により社会が大きく変化することを何というか。",
+          "answer": "IT革命（ICT革命）",
+          "options": [
+            "IT革命（ICT革命）",
+            "産業革命",
+            "エネルギー革命",
+            "緑の革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-05",
+          "question": "情報通信技術を利用できる人とできない人の間に生じる格差を何というか。",
+          "answer": "デジタルデバイド（情報格差）",
+          "options": [
+            "デジタルデバイド（情報格差）",
+            "南北問題",
+            "経済格差",
+            "教育格差"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-06",
+          "question": "携帯電話の普及が急速に進んだアフリカなどの発展途上国で，固定電話の段階を飛び越えて普及した現象を何というか。",
+          "answer": "リープフロッグ現象",
+          "options": [
+            "リープフロッグ現象",
+            "デジタルデバイド",
+            "IT革命",
+            "モバイル革命"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-07",
+          "question": "あらゆるものがインターネットに接続される技術を何というか。",
+          "answer": "IoT（モノのインターネット）",
+          "options": [
+            "IoT（モノのインターネット）",
+            "AI",
+            "ビッグデータ",
+            "クラウド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-08",
+          "question": "膨大な量のデジタルデータを何というか。",
+          "answer": "ビッグデータ",
+          "options": [
+            "ビッグデータ",
+            "IoT",
+            "AI",
+            "クラウド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-09",
+          "question": "ICT産業の発展が著しいインドの都市はどこか。",
+          "answer": "バンガロール（ベンガルール）",
+          "options": [
+            "バンガロール（ベンガルール）",
+            "ムンバイ",
+            "デリー",
+            "チェンナイ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C1-S5-10",
+          "question": "SNSなどの普及で世界中の人々がリアルタイムで情報を共有できる社会を何というか。",
+          "answer": "情報化社会（高度情報化社会）",
+          "options": [
+            "情報化社会（高度情報化社会）",
+            "グローバル社会",
+            "消費社会",
+            "脱工業化社会"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

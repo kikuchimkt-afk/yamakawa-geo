@@ -1,0 +1,2563 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 1,
+    "title": "人間と環境"
+  },
+  "chapter": {
+    "number": 3,
+    "title": "気候・植生・土壌"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "気候因子と気候要素",
+      "questions": [
+        {
+          "id": "P1-C3-S1-01",
+          "question": "地球を取り巻く大気圏内でおこる自然現象のうち，気温・降水・風や高気圧・低気圧・前線・台風などのように，とくに天気に関係ある現象を何というか。",
+          "answer": "気象",
+          "options": [
+            "気象",
+            "気候",
+            "天候",
+            "気候要素"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-02",
+          "question": "ある地域における，大気現象の1年間にわたる平均的な総合状態を何というか。",
+          "answer": "気候",
+          "options": [
+            "気候",
+            "気象",
+            "天候",
+            "天気"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-03",
+          "question": "気温・降水量・風のほか，湿度・日照時間・蒸発散量・雲量など，気候を構成する個々の大気現象をまとめて何というか。",
+          "answer": "気候要素",
+          "options": [
+            "気候要素",
+            "気候因子",
+            "気象要素",
+            "気候区"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-04",
+          "question": "緯度・海抜高度・海陸分布・地形・海流・隔海度など，大気現象の地域差をつくる要因となるものをまとめて何というか。",
+          "answer": "気候因子",
+          "options": [
+            "気候因子",
+            "気候要素",
+            "気象因子",
+            "気候区分"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-05",
+          "question": "直交座標の横軸に月平均降水量を，縦軸に月平均気温を目盛り，各月の気温と降水量の平均値の相関を示す12の点を月の順に結んで得られるグラフを何というか。",
+          "answer": "ハイサーグラフ",
+          "options": [
+            "ハイサーグラフ",
+            "雨温図",
+            "クリモグラフ",
+            "気候図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-06",
+          "question": "直交座標の縦軸に降水量と気温を，横軸に12カ月をとり，各月の降水量と平均気温を棒グラフと折れ線グラフで表わした図を何というか。",
+          "answer": "雨温図",
+          "options": [
+            "雨温図",
+            "ハイサーグラフ",
+            "クリモグラフ",
+            "気候図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-07",
+          "question": "雲の分布や地表面の温度などを測定する，気象観測のための人工衛星を何というか。",
+          "answer": "気象衛星",
+          "options": [
+            "気象衛星",
+            "測候所",
+            "気象レーダー",
+            "アメダス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-08",
+          "question": "ある地点における1年間の最暖月と最寒月の平均気温の差を何というか。",
+          "answer": "気温の年較差",
+          "options": [
+            "気温の年較差",
+            "気温の日較差",
+            "気温の逓減率",
+            "気温の逆転"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-09",
+          "question": "1日のうちの最高気温と最低気温の差を何というか。",
+          "answer": "気温の日較差",
+          "options": [
+            "気温の日較差",
+            "気温の年較差",
+            "気温の逓減率",
+            "気温の逆転"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-10",
+          "question": "海抜高度が増すことにより，気温が低下する割合を何というか。",
+          "answer": "気温の逓減率",
+          "options": [
+            "気温の逓減率",
+            "気温の年較差",
+            "気温の日較差",
+            "海面更正"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-11",
+          "question": "気温や気圧の観測値から高さの影響を除くため，ある地点での観測値を海抜0m地点の値に換算することを何というか。",
+          "answer": "海面更正",
+          "options": [
+            "海面更正",
+            "気温の逓減率",
+            "等温線",
+            "標高補正"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-12",
+          "question": "地球上の年平均気温の最も高い点を連ねた線を何というか。",
+          "answer": "熱赤道",
+          "options": [
+            "熱赤道",
+            "赤道",
+            "等温線",
+            "回帰線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-13",
+          "question": "海岸からどの程度隔たっているかを示す指標を何というか。",
+          "answer": "隔海度",
+          "options": [
+            "隔海度",
+            "海陸分布",
+            "海洋性",
+            "大陸性"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-14",
+          "question": "盆地などの冬の静かな夜間によくみられる現象で，地表面の放射冷却により，下層の気温が上層の気温より低下する現象を何というか。",
+          "answer": "気温の逆転",
+          "options": [
+            "気温の逆転",
+            "放射冷却",
+            "気温の逓減率",
+            "フェーン現象"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-15",
+          "question": "夏の夕立や熱帯地方におけるスコールなど，日中の強い日射によって生じる上昇気流によりもたらされる降雨を何というか。",
+          "answer": "対流性降雨",
+          "options": [
+            "対流性降雨",
+            "地形性降雨",
+            "前線性降雨",
+            "台風性降雨"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-16",
+          "question": "大気の流れが山脈などにさえぎられたとき，その風上側に生じる上昇気流によりもたらされる降雨を何というか。",
+          "answer": "地形性降雨",
+          "options": [
+            "地形性降雨",
+            "対流性降雨",
+            "前線性降雨",
+            "台風性降雨"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-17",
+          "question": "温暖前線や寒冷前線など，暖かい気団が冷たい気団の上面に沿って上昇するとき，あるいは冷たい気団が暖かい気団の下に入り込んで暖かい気団を押し上げたときにもたらされる降雨を何というか。",
+          "answer": "前線性降雨（気流性降雨）",
+          "options": [
+            "前線性降雨（気流性降雨）",
+            "対流性降雨",
+            "地形性降雨",
+            "台風性降雨"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-18",
+          "question": "太陽熱で温められた空気が上昇し，上空で冷やされて下降する対流により，さまざまな気象現象がおこる大気圏の最も下層の部分を何というか。",
+          "answer": "対流圏",
+          "options": [
+            "対流圏",
+            "成層圏",
+            "中間圏",
+            "熱圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-19",
+          "question": "空気が薄いため，対流が生じず大気が安定している対流圏の上部の大気圏を何というか。",
+          "answer": "成層圏",
+          "options": [
+            "成層圏",
+            "対流圏",
+            "中間圏",
+            "熱圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-20",
+          "question": "地表が受ける大気の圧力を何というか。",
+          "answer": "気圧",
+          "options": [
+            "気圧",
+            "気温",
+            "気象",
+            "大気圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-21",
+          "question": "周囲より相対的に気圧の低い区域を何というか。",
+          "answer": "低気圧",
+          "options": [
+            "低気圧",
+            "高気圧",
+            "気圧の谷",
+            "前線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-22",
+          "question": "周囲より相対的に気圧が高い区域を何というか。",
+          "answer": "高気圧",
+          "options": [
+            "高気圧",
+            "低気圧",
+            "気圧の尾根",
+            "前線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-23",
+          "question": "地表から上空に向かう大気の流れを何というか。",
+          "answer": "上昇気流",
+          "options": [
+            "上昇気流",
+            "下降気流",
+            "偏西風",
+            "貿易風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-24",
+          "question": "上空から地表に向かう大気の流れを何というか。",
+          "answer": "下降気流",
+          "options": [
+            "下降気流",
+            "上昇気流",
+            "偏西風",
+            "季節風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-25",
+          "question": "地球上の気温や気圧の差によって生じる大規模な大気の対流運動を何というか。",
+          "answer": "大気の大循環",
+          "options": [
+            "大気の大循環",
+            "季節風",
+            "偏西風",
+            "ジェット気流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-26",
+          "question": "大陸や海洋など広い範囲を覆い，ほぼ一様な気温や湿度をもつ大気の塊を何というか。",
+          "answer": "気団",
+          "options": [
+            "気団",
+            "前線",
+            "気圧",
+            "大気"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-27",
+          "question": "温度・湿度・密度などが異なる2つの気団が接触した場合，両気団の地表における境目を何というか。",
+          "answer": "前線",
+          "options": [
+            "前線",
+            "気団",
+            "等圧線",
+            "気圧の谷"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-28",
+          "question": "寒帯気団と熱帯気団との間の前線を何というか。",
+          "answer": "寒帯前線",
+          "options": [
+            "寒帯前線",
+            "温暖前線",
+            "寒冷前線",
+            "停滞前線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-29",
+          "question": "赤道を挟んで，南北緯度10度付近に形成される低圧帯を何というか。",
+          "answer": "赤道低圧帯",
+          "options": [
+            "赤道低圧帯",
+            "亜熱帯高圧帯",
+            "亜寒帯低圧帯",
+            "極高圧帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-30",
+          "question": "南北両半球の回帰線付近から，緯度30度付近にかけて形成される高圧帯を何というか。",
+          "answer": "亜熱帯（中緯度）高圧帯",
+          "options": [
+            "亜熱帯（中緯度）高圧帯",
+            "赤道低圧帯",
+            "亜寒帯低圧帯",
+            "極高圧帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-31",
+          "question": "亜熱帯高圧帯と，両極地方に発達する高圧帯に挟まれて形成される，緯度60度付近の低圧帯を何というか。",
+          "answer": "亜寒帯（高緯度）低圧帯",
+          "options": [
+            "亜寒帯（高緯度）低圧帯",
+            "赤道低圧帯",
+            "亜熱帯高圧帯",
+            "極高圧帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-32",
+          "question": "南北両極地方は年中低温のため，安定した高圧帯を形成する。この高圧帯を何というか。",
+          "answer": "極高圧帯",
+          "options": [
+            "極高圧帯",
+            "亜寒帯低圧帯",
+            "亜熱帯高圧帯",
+            "赤道低圧帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-33",
+          "question": "各地方において，最もひんぱんに吹く風を何というか。",
+          "answer": "卓越風",
+          "options": [
+            "卓越風",
+            "恒常風",
+            "偏西風",
+            "貿易風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-34",
+          "question": "1年中ほぼ同じ方向に吹く風を何というか。",
+          "answer": "恒常風",
+          "options": [
+            "恒常風",
+            "卓越風",
+            "季節風",
+            "偏西風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-35",
+          "question": "亜熱帯高圧帯から赤道低圧帯に向けて吹く恒常風を何というか。",
+          "answer": "貿易風",
+          "options": [
+            "貿易風",
+            "偏西風",
+            "極風",
+            "季節風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-36",
+          "question": "亜熱帯高圧帯から亜寒帯低圧帯に向けて吹く恒常風を何というか。",
+          "answer": "偏西風",
+          "options": [
+            "偏西風",
+            "貿易風",
+            "極風",
+            "季節風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-37",
+          "question": "中緯度地方の対流圏と成層圏の境界付近を吹く偏西風の一部で，冬は平均秒速40～100mにも達する強い気流を何というか。",
+          "answer": "ジェット気流",
+          "options": [
+            "ジェット気流",
+            "偏西風",
+            "貿易風",
+            "フェーン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-38",
+          "question": "極高圧帯から亜寒帯低圧帯に向けて吹く恒常風を何というか。",
+          "answer": "極風（極偏東風）",
+          "options": [
+            "極風（極偏東風）",
+            "貿易風",
+            "偏西風",
+            "季節風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-39",
+          "question": "夏は大洋上の高圧帯から大陸内部の低圧帯へ，冬は大陸内部の高圧帯から大洋上の低圧帯へと吹く，夏と冬とで方向が逆となる風を何というか。",
+          "answer": "季節風（モンスーン）",
+          "options": [
+            "季節風（モンスーン）",
+            "偏西風",
+            "貿易風",
+            "恒常風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-40",
+          "question": "熱帯あるいは亜熱帯の大洋上に発生し，温帯地方を襲う移動性低気圧を何というか。",
+          "answer": "熱帯低気圧",
+          "options": [
+            "熱帯低気圧",
+            "温帯低気圧",
+            "高気圧",
+            "前線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-41",
+          "question": "北太平洋の熱帯海域で発生し，東アジアを襲う熱帯低気圧を何というか。",
+          "answer": "台風",
+          "options": [
+            "台風",
+            "サイクロン",
+            "ハリケーン",
+            "トルネード"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-42",
+          "question": "アラビア海やベンガル湾で発生し，南アジアを襲う熱帯低気圧を何というか。",
+          "answer": "サイクロン",
+          "options": [
+            "サイクロン",
+            "台風",
+            "ハリケーン",
+            "トルネード"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-43",
+          "question": "カリブ海に発生して，西インド諸島からメキシコ湾岸の諸地方を襲う熱帯低気圧を何というか。",
+          "answer": "ハリケーン",
+          "options": [
+            "ハリケーン",
+            "台風",
+            "サイクロン",
+            "トルネード"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-44",
+          "question": "日中の強い日射により，高温となった陸上の低圧部へ向けて海から吹く風を何というか。",
+          "answer": "海風",
+          "options": [
+            "海風",
+            "陸風",
+            "谷風",
+            "山風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-45",
+          "question": "夜間に陸地が冷えて大気の密度が増し，相対的に低圧部になった海上に向けて陸地から吹く風を何というか。",
+          "answer": "陸風",
+          "options": [
+            "陸風",
+            "海風",
+            "山風",
+            "谷風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-46",
+          "question": "山地において，夜間に大気が冷却されて密度を増し斜面に沿って下降することにより生じる風を何というか。",
+          "answer": "山風",
+          "options": [
+            "山風",
+            "谷風",
+            "陸風",
+            "フェーン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-47",
+          "question": "山地において，強い日射により暖められた大気が，斜面に沿って上昇することにより生じる風を何というか。",
+          "answer": "谷風",
+          "options": [
+            "谷風",
+            "山風",
+            "海風",
+            "フェーン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-48",
+          "question": "風が山地をこえる際に湿度を下げ，高温で乾燥した風となって吹きおろす，その風を何というか。",
+          "answer": "フェーン",
+          "options": [
+            "フェーン",
+            "ボラ",
+            "ブリザード",
+            "やませ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-49",
+          "question": "アメリカ合衆国の中央平原やオーストラリア南部に発生する巨大な竜巻を何というか。",
+          "answer": "トルネード",
+          "options": [
+            "トルネード",
+            "ハリケーン",
+            "サイクロン",
+            "台風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-50",
+          "question": "アメリカ合衆国北部，カナダ，南極地方に吹く地吹雪を伴う寒冷な強風を何というか。",
+          "answer": "ブリザード",
+          "options": [
+            "ブリザード",
+            "ボラ",
+            "フェーン",
+            "トルネード"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S1-51",
+          "question": "冬にディナルアルプス山脈からアドリア海に吹きおろす冷たく乾いた風を何というか。",
+          "answer": "ボラ",
+          "options": [
+            "ボラ",
+            "ブリザード",
+            "フェーン",
+            "ミストラル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "気候区",
+      "questions": [
+        {
+          "id": "P1-C3-S2-01",
+          "question": "海から離れた大陸内部に典型的に発達する，気温の日較差や年較差が大きく，降水量が少なく湿度の低い気候を何というか。",
+          "answer": "大陸性気候",
+          "options": [
+            "大陸性気候",
+            "海洋性気候",
+            "東岸気候",
+            "西岸気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-02",
+          "question": "大洋上の島嶼や，海洋からの偏西風が年中吹く中緯度地方の大陸西岸に典型的に発達する，気温の日較差や年較差が小さく，降水量が多く湿度が比較的高い気候を何というか。",
+          "answer": "海洋性気候",
+          "options": [
+            "海洋性気候",
+            "大陸性気候",
+            "西岸気候",
+            "東岸気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-03",
+          "question": "中高緯度の大陸の東海岸に発達する，冬は寒く乾燥し，夏はむし暑い，気温の年較差が大きい気候を総称して何というか。",
+          "answer": "東岸気候",
+          "options": [
+            "東岸気候",
+            "西岸気候",
+            "大陸性気候",
+            "海洋性気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-04",
+          "question": "中高緯度の大陸の西海岸に発達する，冬は温暖で，夏は冷涼な気温の年較差の小さい気候を総称して何というか。",
+          "answer": "西岸気候",
+          "options": [
+            "西岸気候",
+            "東岸気候",
+            "海洋性気候",
+            "大陸性気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-05",
+          "question": "地球上の植生分布にあわせて気温や降水量の等値線を選び，大小のアルファベット記号を組み合わせて世界の主要気候区を設定したドイツの気候学者は誰か。",
+          "answer": "ケッペン",
+          "options": [
+            "ケッペン",
+            "トレワーサ",
+            "ウェゲナー",
+            "フンボルト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-06",
+          "question": "ケッペンの気候区分で，最寒月平均気温18℃以上の気候記号は何か。",
+          "answer": "A",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-07",
+          "question": "ケッペンの気候区分で，最寒月平均気温18℃未満，-3℃以上の気候記号は何か。",
+          "answer": "C",
+          "options": [
+            "C",
+            "A",
+            "D",
+            "B"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-08",
+          "question": "ケッペンの気候区分で，最寒月平均気温-3℃未満で，最暖月平均気温10℃以上の気候記号は何か。",
+          "answer": "D",
+          "options": [
+            "D",
+            "C",
+            "E",
+            "B"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-09",
+          "question": "ケッペンの気候区分で，最暖月平均気温10℃未満の気候記号は何か。",
+          "answer": "E",
+          "options": [
+            "E",
+            "D",
+            "B",
+            "A"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-10",
+          "question": "ケッペンの気候区分で，最暖月平均気温0℃以上，10℃未満はどの記号で表されるか。",
+          "answer": "ET",
+          "options": [
+            "ET",
+            "EF",
+            "D",
+            "C"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-11",
+          "question": "ケッペンの気候区分で，最暖月平均気温0℃未満はどの記号で表されるか。",
+          "answer": "EF",
+          "options": [
+            "EF",
+            "ET",
+            "D",
+            "B"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-12",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。熱帯雨林気候。",
+          "answer": "Af",
+          "options": [
+            "Af",
+            "Aw",
+            "Am",
+            "Cs"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-13",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。サバナ気候。",
+          "answer": "Aw",
+          "options": [
+            "Aw",
+            "Af",
+            "Am",
+            "Cw"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-14",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。砂漠気候。",
+          "answer": "BW",
+          "options": [
+            "BW",
+            "BS",
+            "Af",
+            "Aw"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-15",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。ステップ気候。",
+          "answer": "BS",
+          "options": [
+            "BS",
+            "BW",
+            "Cs",
+            "Cw"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-16",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。温暖湿潤気候。",
+          "answer": "Cfa",
+          "options": [
+            "Cfa",
+            "Cfb",
+            "Cs",
+            "Cw"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-17",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。西岸海洋性気候。",
+          "answer": "Cfb",
+          "options": [
+            "Cfb",
+            "Cfa",
+            "Cs",
+            "Cw"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-18",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。地中海性気候。",
+          "answer": "Cs",
+          "options": [
+            "Cs",
+            "Cw",
+            "Cfb",
+            "Cfa"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-19",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。温暖冬季少雨気候（温帯夏雨気候）。",
+          "answer": "Cw",
+          "options": [
+            "Cw",
+            "Cs",
+            "Cfa",
+            "Cfb"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-20",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。亜寒帯（冷帯）湿潤気候。",
+          "answer": "Df",
+          "options": [
+            "Df",
+            "Dw",
+            "Cfa",
+            "ET"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-21",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。亜寒帯（冷帯）冬季少雨気候。",
+          "answer": "Dw",
+          "options": [
+            "Dw",
+            "Df",
+            "Cw",
+            "ET"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-22",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。ツンドラ気候。",
+          "answer": "ET",
+          "options": [
+            "ET",
+            "EF",
+            "Df",
+            "Dw"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-23",
+          "question": "次の気候区名を気候記号の組み合わせによって答えよ。氷雪気候。",
+          "answer": "EF",
+          "options": [
+            "EF",
+            "ET",
+            "Dw",
+            "Df"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-24",
+          "question": "次の気候区分図を参照して，図の凡例の(a)～(j)のそれぞれにあたる気候区の気候記号を答えよ。",
+          "answer": "(a)Af (b)Aw (c)BW (d)BS (e)Cfa (f)Cfb (g)Cs (h)Cw (i)Df (j)Dw",
+          "options": [
+            "(a)Af (b)Aw (c)BW (d)BS (e)Cfa (f)Cfb (g)Cs (h)Cw (i)Df (j)Dw",
+            "(a)Aw (b)Af (c)BS (d)BW (e)Cfb (f)Cfa (g)Cw (h)Cs (i)Dw (j)Df",
+            "(a)Af (b)Am (c)BW (d)BS (e)Cs (f)Cfb (g)Cfa (h)Cw (i)Df (j)Dw",
+            "(a)Aw (b)Af (c)BW (d)BS (e)Cfa (f)Cs (g)Cfb (h)Cw (i)Df (j)ET"
+          ],
+          "difficulty": 1,
+          "hasImage": true,
+          "image": "images/ch3/climate_map.png"
+        },
+        {
+          "id": "P1-C3-S2-25",
+          "question": "低緯度地方の高山帯のET・EF→Hの記号で表わす気候を何というか。",
+          "answer": "高山気候",
+          "options": [
+            "高山気候",
+            "ツンドラ気候",
+            "亜寒帯気候",
+            "氷雪気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-26",
+          "question": "AfとAwの中間の気候→Amの記号で表わす気候を何というか。",
+          "answer": "熱帯モンスーン気候",
+          "options": [
+            "熱帯モンスーン気候",
+            "サバナ気候",
+            "熱帯雨林気候",
+            "温暖湿潤気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-27",
+          "question": "ケッペンの気候区分のA・C・Dの気候は，年降水量が蒸発量を上回るか，最暖月平均気温が10℃を上回る地域である。このような気候は植生分布からみて何というか。",
+          "answer": "樹木気候",
+          "options": [
+            "樹木気候",
+            "無樹木気候",
+            "湿潤気候",
+            "温暖気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-28",
+          "question": "ケッペンの気候区分のB・Eの気候は，年降水量が蒸発量を下回るか，最暖月平均気温が10℃を下回る地域である。このような気候は植生分布からみて何というか。",
+          "answer": "無樹木気候",
+          "options": [
+            "無樹木気候",
+            "樹木気候",
+            "乾燥気候",
+            "寒帯気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-29",
+          "question": "ケッペンはA気候を，その年降水量と最乾月の降水量をもとに，Af，Am，Awの3つの気候に区分している。両者の関係を示した次の図のa・b・cのそれぞれにあてはまる気候型を，記号で答えよ。",
+          "answer": "a: Aw, b: Am, c: Af",
+          "options": [
+            "a: Aw, b: Am, c: Af",
+            "a: Af, b: Am, c: Aw",
+            "a: Am, b: Aw, c: Af",
+            "a: Aw, b: Af, c: Am"
+          ],
+          "difficulty": 1,
+          "hasImage": true,
+          "image": "images/ch3/a_climate_graph.png"
+        },
+        {
+          "id": "P1-C3-S2-30",
+          "question": "ケッペンの気候区分に従うと，月平均気温が18℃以上と年中高温な気候帯を何というか。",
+          "answer": "熱帯（A）",
+          "options": [
+            "熱帯（A）",
+            "温帯（C）",
+            "亜寒帯（D）",
+            "乾燥帯（B）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-31",
+          "question": "コンゴ川流域やアマゾン川流域，東南アジアの一部など，赤道に沿う地域に分布し，1年中高温多雨で植物がよく繁茂する，気温の日較差が年較差より大きい気候を何というか。",
+          "answer": "熱帯雨林気候（Af）",
+          "options": [
+            "熱帯雨林気候（Af）",
+            "サバナ気候（Aw）",
+            "熱帯モンスーン気候（Am）",
+            "温暖湿潤気候（Cfa）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-32",
+          "question": "熱帯雨林気候地域において，日中の強い日射によって定期的にもたらされる対流性降雨を何というか。",
+          "answer": "スコール",
+          "options": [
+            "スコール",
+            "モンスーン",
+            "台風",
+            "前線性降雨"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-33",
+          "question": "その地域特有な自然環境の中で病原体がつくられ，流行を繰り返す病気を何というか。",
+          "answer": "風土病",
+          "options": [
+            "風土病",
+            "伝染病",
+            "感染症",
+            "マラリア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-34",
+          "question": "アマゾン川流域・コンゴ川流域・パプアニューギニアなどに多くみられ，ハマダラ蚊の媒介により伝染し，発熱を繰り返す熱病を何というか。",
+          "answer": "マラリア",
+          "options": [
+            "マラリア",
+            "デング熱",
+            "風土病",
+            "コレラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-35",
+          "question": "熱帯雨林気候と中緯度の乾燥気候の間に発達し，高日季の降雨と低日季の乾燥に特色をもち，長草草原と疎林の卓越する気候を何というか。",
+          "answer": "サバナ気候（Aw）",
+          "options": [
+            "サバナ気候（Aw）",
+            "熱帯雨林気候（Af）",
+            "ステップ気候（BS）",
+            "温暖冬季少雨気候（Cw）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-36",
+          "question": "熱帯雨林気候とサバナ気候の間に分布し，1年は雨季と弱い乾季に分かれ，熱帯林が繁茂する気候を何というか。",
+          "answer": "弱い乾季のある熱帯雨林気候（Am）（熱帯モンスーン気候）",
+          "options": [
+            "弱い乾季のある熱帯雨林気候（Am）（熱帯モンスーン気候）",
+            "サバナ気候（Aw）",
+            "熱帯雨林気候（Af）",
+            "温暖湿潤気候（Cfa）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-37",
+          "question": "熱帯と温帯の間の気候帯を何というか。",
+          "answer": "亜熱帯",
+          "options": [
+            "亜熱帯",
+            "熱帯",
+            "温帯",
+            "亜寒帯"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-38",
+          "question": "ケッペンの気候区分では，年間の蒸発量が，年間の降水量を上回る気候帯を何というか。",
+          "answer": "乾燥帯（B）",
+          "options": [
+            "乾燥帯（B）",
+            "熱帯（A）",
+            "温帯（C）",
+            "寒帯（E）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-39",
+          "question": "亜熱帯高圧帯の卓越する地域，大陸の内部，大山脈の風下側など，一般に年降水量が250mm以下で植物被覆がみられず，気温の日較差が極端に大きく，岩石の風化作用の激しい気候を何というか。",
+          "answer": "砂漠気候（BW）",
+          "options": [
+            "砂漠気候（BW）",
+            "ステップ気候（BS）",
+            "乾燥帯（B）",
+            "サバナ気候（Aw）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-40",
+          "question": "沖合を寒流が流れているため水蒸気の供給が不十分な大陸の西岸に形成される砂漠を何というか。",
+          "answer": "海岸砂漠",
+          "options": [
+            "海岸砂漠",
+            "内陸砂漠",
+            "回帰線砂漠",
+            "雨蔭砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-41",
+          "question": "アフリカ大陸北部を占める世界最大の砂漠を何というか。",
+          "answer": "サハラ砂漠",
+          "options": [
+            "サハラ砂漠",
+            "カラハリ砂漠",
+            "ナミブ砂漠",
+            "リビア砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-42",
+          "question": "エジプトのナイル川からリビア東部に広がる砂漠を何というか。",
+          "answer": "リビア砂漠",
+          "options": [
+            "リビア砂漠",
+            "サハラ砂漠",
+            "カラハリ砂漠",
+            "ナミブ砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-43",
+          "question": "南アフリカ共和国の北部から北はボツワナ，西はナミビア，東はジンバブエの西端にかけて広がる砂漠を何というか。",
+          "answer": "カラハリ砂漠",
+          "options": [
+            "カラハリ砂漠",
+            "サハラ砂漠",
+            "ナミブ砂漠",
+            "リビア砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-44",
+          "question": "アフリカ南部，ナミビアの大西洋沿岸の海岸砂漠を何というか。",
+          "answer": "ナミブ砂漠",
+          "options": [
+            "ナミブ砂漠",
+            "カラハリ砂漠",
+            "サハラ砂漠",
+            "アタカマ砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-45",
+          "question": "オーストラリア北西部の砂漠を何というか。",
+          "answer": "グレートサンディー砂漠",
+          "options": [
+            "グレートサンディー砂漠",
+            "グレートヴィクトリア砂漠",
+            "タクラマカン砂漠",
+            "ゴビ砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-46",
+          "question": "オーストラリア南西部の砂漠を何というか。",
+          "answer": "グレートヴィクトリア砂漠",
+          "options": [
+            "グレートヴィクトリア砂漠",
+            "グレートサンディー砂漠",
+            "カラハリ砂漠",
+            "ゴビ砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-47",
+          "question": "チリとペルーの国境付近から南に細長くのびるアンデス山脈西側の海岸砂漠を何というか。",
+          "answer": "アタカマ砂漠",
+          "options": [
+            "アタカマ砂漠",
+            "ナミブ砂漠",
+            "サハラ砂漠",
+            "ゴビ砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-48",
+          "question": "アラビア半島北部の砂漠を何というか。",
+          "answer": "ネフド（ナフード）砂漠",
+          "options": [
+            "ネフド（ナフード）砂漠",
+            "ルブアルハリ砂漠",
+            "サハラ砂漠",
+            "カラハリ砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-49",
+          "question": "アラビア半島南部の砂漠を何というか。",
+          "answer": "ルブアルハリ砂漠",
+          "options": [
+            "ルブアルハリ砂漠",
+            "ネフド砂漠",
+            "サハラ砂漠",
+            "ゴビ砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-50",
+          "question": "インド北西部からパキスタン東部にかけて広がる砂漠を何というか。",
+          "answer": "大インド砂漠（タール砂漠）",
+          "options": [
+            "大インド砂漠（タール砂漠）",
+            "ゴビ砂漠",
+            "タクラマカン砂漠",
+            "ネフド砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-51",
+          "question": "中国北西部，タリム盆地の大部分を占める砂漠を何というか。",
+          "answer": "タクラマカン砂漠",
+          "options": [
+            "タクラマカン砂漠",
+            "ゴビ砂漠",
+            "大インド砂漠",
+            "キジルクーム砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-52",
+          "question": "中国北部からモンゴル南部にかけて広がる砂漠を何というか。",
+          "answer": "ゴビ砂漠",
+          "options": [
+            "ゴビ砂漠",
+            "タクラマカン砂漠",
+            "キジルクーム砂漠",
+            "カラクーム砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-53",
+          "question": "中央アジアのウズベキスタン北部の砂漠を何というか。",
+          "answer": "キジルクーム砂漠",
+          "options": [
+            "キジルクーム砂漠",
+            "カラクーム砂漠",
+            "ゴビ砂漠",
+            "タクラマカン砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-54",
+          "question": "中央アジアのトルクメニスタンの砂漠を何というか。",
+          "answer": "カラクーム砂漠",
+          "options": [
+            "カラクーム砂漠",
+            "キジルクーム砂漠",
+            "ゴビ砂漠",
+            "タクラマカン砂漠"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-55",
+          "question": "砂漠気候の周辺に分布し，降雨が少ないため樹木が生育せず短草草原となる気候を何というか。",
+          "answer": "ステップ気候（BS）",
+          "options": [
+            "ステップ気候（BS）",
+            "砂漠気候（BW）",
+            "サバナ気候（Aw）",
+            "地中海性気候（Cs）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-56",
+          "question": "中央アジアのカザフスタンに広がるステップ地帯を何というか。",
+          "answer": "カザフステップ",
+          "options": [
+            "カザフステップ",
+            "グレートプレーンズ",
+            "パンパ",
+            "プレーリー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-57",
+          "question": "熱帯と寒帯の間に位置し，ケッペンの気候区分では最寒月の平均気温が-3℃以上18℃未満，温和で適度な降水に恵まれた気候帯を何というか。",
+          "answer": "温帯（C）",
+          "options": [
+            "温帯（C）",
+            "熱帯（A）",
+            "亜寒帯（D）",
+            "寒帯（E）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-58",
+          "question": "大陸東岸の内陸部やサバナ気候地域の内陸側に分布し，夏季の雨量が冬季の10倍以上になる温帯気候を何というか。",
+          "answer": "温暖冬季少雨気候（温帯夏雨気候）（Cw）",
+          "options": [
+            "温暖冬季少雨気候（温帯夏雨気候）（Cw）",
+            "温暖湿潤気候（Cfa）",
+            "西岸海洋性気候（Cfb）",
+            "地中海性気候（Cs）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-59",
+          "question": "中緯度の大陸西岸に発達する，夏季は中緯度高圧帯の支配下で乾燥し，冬季は偏西風の影響を受けて比較的雨が多い温暖な気候を何というか。",
+          "answer": "地中海性気候（Cs）",
+          "options": [
+            "地中海性気候（Cs）",
+            "西岸海洋性気候（Cfb）",
+            "温暖湿潤気候（Cfa）",
+            "温暖冬季少雨気候（Cw）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-60",
+          "question": "主として中緯度地方の大陸東岸に分布し，気温の年較差が比較的大きく，1年間を通して降雨に恵まれる温帯気候を何というか。",
+          "answer": "温暖湿潤気候（Cfa）",
+          "options": [
+            "温暖湿潤気候（Cfa）",
+            "西岸海洋性気候（Cfb）",
+            "地中海性気候（Cs）",
+            "温暖冬季少雨気候（Cw）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-61",
+          "question": "アジアの温暖湿潤気候（Cfa）や温暖冬季少雨気候（Cw）の気候地域で，モンスーンの影響を強く受ける気候をとくに何というか。",
+          "answer": "温帯モンスーン気候",
+          "options": [
+            "温帯モンスーン気候",
+            "季節風気候",
+            "東岸気候",
+            "亜熱帯気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-62",
+          "question": "偏西風と暖流の影響を受けるため，気温の年較差が少なく降水量も年間を通して安定している大陸西岸に発達する海洋性気候を何というか。",
+          "answer": "西岸海洋性気候（Cfb・Cfc）",
+          "options": [
+            "西岸海洋性気候（Cfb・Cfc）",
+            "温暖湿潤気候（Cfa）",
+            "地中海性気候（Cs）",
+            "大陸性気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-63",
+          "question": "温帯と寒帯の間の気候帯を何というか。",
+          "answer": "亜寒帯（冷帯）気候（D）",
+          "options": [
+            "亜寒帯（冷帯）気候（D）",
+            "温帯（C）",
+            "寒帯（E）",
+            "乾燥帯（B）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-64",
+          "question": "ユーラシア大陸北西部や北アメリカ大陸北半部に広がる亜寒帯（冷帯）気候を何というか。",
+          "answer": "亜寒帯（冷帯）湿潤気候（Df）",
+          "options": [
+            "亜寒帯（冷帯）湿潤気候（Df）",
+            "亜寒帯冬季少雨気候（Dw）",
+            "温暖湿潤気候（Cfa）",
+            "ツンドラ気候（ET）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-65",
+          "question": "バイカル湖以東のシベリア，中国東北地区および華北に分布する亜寒帯（冷帯）気候を何というか。",
+          "answer": "亜寒帯（冷帯）冬季少雨気候（Dw）",
+          "options": [
+            "亜寒帯（冷帯）冬季少雨気候（Dw）",
+            "亜寒帯湿潤気候（Df）",
+            "温暖冬季少雨気候（Cw）",
+            "ツンドラ気候（ET）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-66",
+          "question": "地球上における最寒地点を何というか。",
+          "answer": "寒極",
+          "options": [
+            "寒極",
+            "北極",
+            "南極",
+            "氷点"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-67",
+          "question": "亜寒帯（冷帯）および寒帯地域において，1年中凍結しているか，夏の短い間しか表面の氷が溶けない地層を何というか。",
+          "answer": "永久凍土",
+          "options": [
+            "永久凍土",
+            "ツンドラ",
+            "氷床",
+            "凍土"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-68",
+          "question": "両極の周辺に広がる寒冷な気候帯を何というか。",
+          "answer": "寒帯（E）",
+          "options": [
+            "寒帯（E）",
+            "亜寒帯（D）",
+            "温帯（C）",
+            "氷雪気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-69",
+          "question": "北極海沿岸地方の，ほとんど氷に閉ざされ，夏の短い間だけ表面が溶けて地衣類や蘚苔類が生育する，最暖月の平均気温10℃未満，0℃以上の気候を何というか。",
+          "answer": "ツンドラ気候（ET）",
+          "options": [
+            "ツンドラ気候（ET）",
+            "氷雪気候（EF）",
+            "亜寒帯気候（D）",
+            "寒帯気候（E）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-70",
+          "question": "グリーンランド内陸部や南極大陸など，1年中氷雪に覆われ最暖月の平均気温が0℃未満の寒帯気候を何というか。",
+          "answer": "氷雪気候（EF）",
+          "options": [
+            "氷雪気候（EF）",
+            "ツンドラ気候（ET）",
+            "亜寒帯気候（D）",
+            "寒帯気候（E）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S2-71",
+          "question": "一般に温帯で海抜2,000m以上，熱帯で海抜3,000m以上の高地で，気温の垂直的変化により，同緯度の低地よりも低温を示す気候を何というか。",
+          "answer": "高山気候（H）",
+          "options": [
+            "高山気候（H）",
+            "ツンドラ気候（ET）",
+            "氷雪気候（EF）",
+            "亜寒帯気候（D）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "植生",
+      "questions": [
+        {
+          "id": "P1-C3-S3-01",
+          "question": "地表を覆って生育する植物集団の状態を何というか。",
+          "answer": "植生",
+          "options": [
+            "植生",
+            "植物帯",
+            "森林",
+            "草原"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-02",
+          "question": "熱帯雨林や熱帯雨緑林を含めた，熱帯地方の森林を総称して何というか。",
+          "answer": "熱帯林",
+          "options": [
+            "熱帯林",
+            "温帯林",
+            "針葉樹林",
+            "照葉樹林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-03",
+          "question": "熱帯の多雨地域に発達する，多様な樹種からなる常緑広葉の森林を何というか。",
+          "answer": "熱帯雨林",
+          "options": [
+            "熱帯雨林",
+            "熱帯雨緑林",
+            "セルバ",
+            "ジャングル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-04",
+          "question": "アマゾン川流域で，常緑広葉樹が多層の樹林をつくり，「緑の魔境」として知られた熱帯雨林を何というか。",
+          "answer": "セルバ",
+          "options": [
+            "セルバ",
+            "ジャングル",
+            "リヤノ",
+            "カンポ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-05",
+          "question": "東南アジアやアフリカの熱帯雨林を何というか。",
+          "answer": "ジャングル",
+          "options": [
+            "ジャングル",
+            "セルバ",
+            "マングローブ",
+            "サバナ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-06",
+          "question": "雨季と弱い乾季のある熱帯の気候のもとで，乾季に落葉する樹種を含む森林を何というか。",
+          "answer": "熱帯雨緑林（熱帯モンスーン林）",
+          "options": [
+            "熱帯雨緑林（熱帯モンスーン林）",
+            "熱帯雨林",
+            "ジャングル",
+            "セルバ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-07",
+          "question": "熱帯雨林気候の潮の満ち引きがある海岸や，海水の流入・遡上する河口部に生育する常緑広葉樹を何というか。",
+          "answer": "マングローブ",
+          "options": [
+            "マングローブ",
+            "セルバ",
+            "ジャングル",
+            "熱帯雨緑林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-08",
+          "question": "熱帯地域の雨季と乾季とがはっきりした地方にみられる，疎林を含む熱帯長草草原を一般に何というか。",
+          "answer": "サバナ",
+          "options": [
+            "サバナ",
+            "ステップ",
+            "プレーリー",
+            "パンパ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-09",
+          "question": "徳利状の幹をもつ高木で，アフリカのサバナ地方の代表的樹木を何というか。",
+          "answer": "バオバブ",
+          "options": [
+            "バオバブ",
+            "ユーカリ",
+            "アカシア",
+            "マングローブ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-10",
+          "question": "ベネズエラ・コロンビアのオリノコ川流域に広がるサバナ型熱帯草原を何というか。",
+          "answer": "リヤノ",
+          "options": [
+            "リヤノ",
+            "カンポ・セラード",
+            "グランチャコ",
+            "パンパ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-11",
+          "question": "ブラジル高原に広がる，イネ科の草本類と疎林からなる熱帯長草草原を何というか。",
+          "answer": "カンポ・セラード",
+          "options": [
+            "カンポ・セラード",
+            "リヤノ",
+            "グランチャコ",
+            "パンパ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-12",
+          "question": "パラグアイ川流域の熱帯長草草原を何というか。",
+          "answer": "グランチャコ",
+          "options": [
+            "グランチャコ",
+            "リヤノ",
+            "カンポ・セラード",
+            "パンパ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-13",
+          "question": "乾燥気候下の，樹木のない短草草原を一般に何というか。",
+          "answer": "ステップ",
+          "options": [
+            "ステップ",
+            "サバナ",
+            "プレーリー",
+            "パンパ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-14",
+          "question": "北アメリカのロッキー山脈の東側，西経100度付近までに広がるステップ気候の平原を何というか。",
+          "answer": "グレートプレーンズ",
+          "options": [
+            "グレートプレーンズ",
+            "プレーリー",
+            "パンパ",
+            "カザフステップ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-15",
+          "question": "温帯気候地域に分布する森林を何というか。",
+          "answer": "温帯林",
+          "options": [
+            "温帯林",
+            "熱帯林",
+            "針葉樹林",
+            "混合林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-16",
+          "question": "熱帯から温帯にかけて多く分布する，1年間を通して緑色の広い葉をつけている樹木を何というか。",
+          "answer": "常緑広葉樹",
+          "options": [
+            "常緑広葉樹",
+            "落葉広葉樹",
+            "針葉樹",
+            "硬葉樹"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-17",
+          "question": "温帯南部の気温が高く降水量も多い地方に分布する，かし・つばき・しい・くすなど，クチン質の光沢のある葉をもつ常緑広葉樹を何というか。",
+          "answer": "照葉樹",
+          "options": [
+            "照葉樹",
+            "硬葉樹",
+            "落葉広葉樹",
+            "針葉樹"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-18",
+          "question": "地中海地方の月桂樹・オリーブ・コルクがしやオーストラリアのユーカリなどのように，夏の乾燥に耐えるための，硬く厚い葉をもつ常緑樹を何というか。",
+          "answer": "硬葉樹",
+          "options": [
+            "硬葉樹",
+            "照葉樹",
+            "落葉広葉樹",
+            "針葉樹"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-19",
+          "question": "冬に落葉するぶな・なら・かえでなどの広い葉をもつ樹木を何というか。",
+          "answer": "落葉広葉樹",
+          "options": [
+            "落葉広葉樹",
+            "常緑広葉樹",
+            "針葉樹",
+            "硬葉樹"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-20",
+          "question": "北アメリカやヨーロッパの温帯草原で，丈の長い草が生い茂る草原を何というか。",
+          "answer": "プレーリー",
+          "options": [
+            "プレーリー",
+            "ステップ",
+            "パンパ",
+            "サバナ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-21",
+          "question": "アルゼンチンのラプラタ川流域に広がる温帯草原を何というか。",
+          "answer": "パンパ",
+          "options": [
+            "パンパ",
+            "プレーリー",
+            "ステップ",
+            "リヤノ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-22",
+          "question": "亜寒帯（冷帯）に広がる針葉樹の大森林を何というか。",
+          "answer": "タイガ",
+          "options": [
+            "タイガ",
+            "ツンドラ",
+            "ステップ",
+            "セルバ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S3-23",
+          "question": "ツンドラ気候で夏の短い間だけ地表面が溶けて生育する，地衣類や蘚苔類を何というか。",
+          "answer": "ツンドラ",
+          "options": [
+            "ツンドラ",
+            "タイガ",
+            "ステップ",
+            "マキ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "土壌",
+      "questions": [
+        {
+          "id": "P1-C3-S4-01",
+          "question": "岩石の風化物と有機物が混合し，地表に堆積した層を何というか。",
+          "answer": "土壌",
+          "options": [
+            "土壌",
+            "岩石",
+            "堆積物",
+            "腐植土"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-02",
+          "question": "母岩の風化物の上に有機物が混合して形成される土壌の層を何というか。",
+          "answer": "土壌断面",
+          "options": [
+            "土壌断面",
+            "成帯土壌",
+            "間帯土壌",
+            "腐植土"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-03",
+          "question": "気候や植生の影響を強く受けて，気候帯に応じて帯状に分布する土壌を何というか。",
+          "answer": "成帯土壌",
+          "options": [
+            "成帯土壌",
+            "間帯土壌",
+            "腐植土",
+            "残積土"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-04",
+          "question": "母岩や地形などの局地的条件の影響を強く受ける土壌を何というか。",
+          "answer": "間帯土壌",
+          "options": [
+            "間帯土壌",
+            "成帯土壌",
+            "沖積土",
+            "残積土"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-05",
+          "question": "熱帯の高温多雨のもとで，有機物の分解が早く，鉄やアルミニウムの酸化物が残って赤色を呈する痩せた土壌を何というか。",
+          "answer": "ラトソル",
+          "options": [
+            "ラトソル",
+            "テラロッサ",
+            "テラローシャ",
+            "レグール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-06",
+          "question": "赤色のラトソルが硬い皮殻状に固まった土壌を何というか。",
+          "answer": "ラテライト",
+          "options": [
+            "ラテライト",
+            "ラトソル",
+            "テラロッサ",
+            "レグール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-07",
+          "question": "ステップ気候下の草原地帯に分布する，豊富な腐植を含んだ肥沃な黒色の土壌を何というか。",
+          "answer": "黒土",
+          "options": [
+            "黒土",
+            "ポドゾル",
+            "ラトソル",
+            "テラロッサ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-08",
+          "question": "ウクライナからロシア南部にかけて分布する，世界で最も肥沃な黒色土を何というか。",
+          "answer": "チェルノーゼム",
+          "options": [
+            "チェルノーゼム",
+            "プレーリー土",
+            "パンパ土",
+            "レグール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-09",
+          "question": "砂漠気候下に分布する，有機物に乏しく塩分を含んだ土壌を何というか。",
+          "answer": "砂漠土",
+          "options": [
+            "砂漠土",
+            "ポドゾル",
+            "ラトソル",
+            "チェルノーゼム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-10",
+          "question": "亜寒帯（冷帯）の針葉樹林下に分布する，有機物の分解が遅く，灰白色を呈する痩せた酸性の土壌を何というか。",
+          "answer": "ポドゾル",
+          "options": [
+            "ポドゾル",
+            "チェルノーゼム",
+            "ラトソル",
+            "砂漠土"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-11",
+          "question": "ツンドラ気候下に分布する，永久凍土の影響を受けた泥炭質の土壌を何というか。",
+          "answer": "ツンドラ土",
+          "options": [
+            "ツンドラ土",
+            "ポドゾル",
+            "砂漠土",
+            "泥炭"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-12",
+          "question": "北アメリカのプレーリー地帯に分布する，腐植に富む肥沃な黒色土を何というか。",
+          "answer": "プレーリー土",
+          "options": [
+            "プレーリー土",
+            "チェルノーゼム",
+            "パンパ土",
+            "黒土"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-13",
+          "question": "地中海沿岸の石灰岩地帯に分布する赤色の間帯土壌を何というか。",
+          "answer": "テラロッサ",
+          "options": [
+            "テラロッサ",
+            "テラローシャ",
+            "ラトソル",
+            "ラテライト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-14",
+          "question": "ブラジル高原の玄武岩の風化物からなる紫褐色の間帯土壌を何というか。",
+          "answer": "テラローシャ",
+          "options": [
+            "テラローシャ",
+            "テラロッサ",
+            "ラトソル",
+            "レグール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-15",
+          "question": "インドのデカン高原に分布する玄武岩の風化による黒色の間帯土壌を何というか。",
+          "answer": "レグール（黒綿花土）",
+          "options": [
+            "レグール（黒綿花土）",
+            "テラロッサ",
+            "テラローシャ",
+            "チェルノーゼム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S4-16",
+          "question": "中国の黄土高原やヨーロッパの一部に分布する，風成塵などが堆積してできた黄色い土壌を何というか。",
+          "answer": "レス",
+          "options": [
+            "レス",
+            "砂漠土",
+            "ラトソル",
+            "チェルノーゼム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "日本の気候",
+      "questions": [
+        {
+          "id": "P1-C3-S5-01",
+          "question": "日本の気候に最も大きな影響を与えている風を何というか。",
+          "answer": "季節風（モンスーン）",
+          "options": [
+            "季節風（モンスーン）",
+            "偏西風",
+            "貿易風",
+            "フェーン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-02",
+          "question": "日本列島の周辺の海上を流れる海流のうち，太平洋側を南西から北東に向かって流れる暖流を何というか。",
+          "answer": "黒潮（日本海流）",
+          "options": [
+            "黒潮（日本海流）",
+            "親潮",
+            "対馬海流",
+            "リマン海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-03",
+          "question": "日本列島の周辺の海上を流れる海流のうち，日本海側を南西に向かって流れる暖流を何というか。",
+          "answer": "対馬海流",
+          "options": [
+            "対馬海流",
+            "黒潮",
+            "親潮",
+            "リマン海流"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-04",
+          "question": "梅雨期にオホーツク海方面から日本に接近する冷涼湿潤な気団を何というか。",
+          "answer": "オホーツク海気団",
+          "options": [
+            "オホーツク海気団",
+            "小笠原気団",
+            "シベリア気団",
+            "揚子江気団"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-05",
+          "question": "夏に日本を覆う高温多湿な気団を何というか。",
+          "answer": "小笠原気団",
+          "options": [
+            "小笠原気団",
+            "オホーツク海気団",
+            "シベリア気団",
+            "揚子江気団"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-06",
+          "question": "冬に日本を覆う寒冷乾燥な気団を何というか。",
+          "answer": "シベリア気団",
+          "options": [
+            "シベリア気団",
+            "オホーツク海気団",
+            "小笠原気団",
+            "揚子江気団"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-07",
+          "question": "6月から7月にかけて，日本列島に長雨をもたらす現象を何というか。",
+          "answer": "梅雨",
+          "options": [
+            "梅雨",
+            "秋雨",
+            "台風",
+            "やませ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-08",
+          "question": "9月から10月にかけて，日本列島に長雨をもたらす現象を何というか。",
+          "answer": "秋雨",
+          "options": [
+            "秋雨",
+            "梅雨",
+            "台風",
+            "やませ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-09",
+          "question": "初夏から夏にかけて，北東から吹く冷たく湿った風を何というか。",
+          "answer": "やませ",
+          "options": [
+            "やませ",
+            "フェーン",
+            "ボラ",
+            "からっ風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-10",
+          "question": "梅雨が明けて夏になると吹く南寄りの風を何というか。",
+          "answer": "白南風（しらはえ）",
+          "options": [
+            "白南風（しらはえ）",
+            "やませ",
+            "フェーン",
+            "からっ風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-11",
+          "question": "やませなどの冷気が太平洋側の農業地域にもたらす冷害を何というか。",
+          "answer": "冷害",
+          "options": [
+            "冷害",
+            "干害",
+            "風害",
+            "霜害"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-12",
+          "question": "冬に日本海側から山脈を越えて太平洋側に吹きおろす冷たく乾燥した北西風を何というか。",
+          "answer": "からっ風",
+          "options": [
+            "からっ風",
+            "やませ",
+            "フェーン",
+            "ボラ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-13",
+          "question": "風が山を越えて吹き下ろす際に高温で乾燥した風となる現象を何というか。",
+          "answer": "フェーン",
+          "options": [
+            "フェーン",
+            "ボラ",
+            "やませ",
+            "からっ風"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-14",
+          "question": "北海道にみられる，梅雨がなく冬の寒さが厳しい気候を何というか。",
+          "answer": "北海道の気候",
+          "options": [
+            "北海道の気候",
+            "日本海岸式気候",
+            "太平洋岸式気候",
+            "内陸式気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-15",
+          "question": "冬に北西の季節風により多量の雪が降る日本海側の気候を何というか。",
+          "answer": "日本海岸式気候",
+          "options": [
+            "日本海岸式気候",
+            "太平洋岸式気候",
+            "北海道の気候",
+            "瀬戸内式気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-16",
+          "question": "夏は高温多湿，冬は乾燥して晴天が多い太平洋側の気候を何というか。",
+          "answer": "太平洋岸式気候",
+          "options": [
+            "太平洋岸式気候",
+            "日本海岸式気候",
+            "内陸式気候",
+            "瀬戸内式気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-17",
+          "question": "気温の較差が大きく，降水量が少ない内陸部の気候を何というか。",
+          "answer": "内陸（中央高地）式気候",
+          "options": [
+            "内陸（中央高地）式気候",
+            "太平洋岸式気候",
+            "瀬戸内式気候",
+            "日本海岸式気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-18",
+          "question": "山地に挟まれ年中晴天が多く，降水量が少ない気候を何というか。",
+          "answer": "瀬戸内式気候",
+          "options": [
+            "瀬戸内式気候",
+            "内陸式気候",
+            "太平洋岸式気候",
+            "南西諸島の気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C3-S5-19",
+          "question": "年中高温多湿で，台風の通り道となる気候を何というか。",
+          "answer": "南西諸島の気候",
+          "options": [
+            "南西諸島の気候",
+            "瀬戸内式気候",
+            "太平洋岸式気候",
+            "北海道の気候"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

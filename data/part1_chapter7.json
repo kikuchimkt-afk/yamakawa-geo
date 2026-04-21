@@ -1,0 +1,2395 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 1,
+    "title": "人間と環境"
+  },
+  "chapter": {
+    "number": 7,
+    "title": "生活圏の拡大と地図"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "生活圏の拡大と地図の利用",
+      "questions": [
+        {
+          "id": "P1-C7-S1-01",
+          "question": "紀元前500年ごろ，バビロニアで作成された現存する最古の世界地図を何というか。",
+          "answer": "バビロニアの世界地図",
+          "options": [
+            "バビロニアの世界地図",
+            "TO図",
+            "プトレマイオスの世界地図",
+            "ポルトラノ海図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-02",
+          "question": "紀元前6世紀ごろ，古代ギリシャで初めて地中海を中心とした世界図を作成した人物は誰か。",
+          "answer": "ヘカタイオス",
+          "options": [
+            "ヘカタイオス",
+            "アリストテレス",
+            "エラトステネス",
+            "プトレマイオス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-03",
+          "question": "紀元前4世紀ごろ，地球球体説を唱えた古代ギリシャの哲学者は誰か。",
+          "answer": "アリストテレス",
+          "options": [
+            "アリストテレス",
+            "ヘカタイオス",
+            "エラトステネス",
+            "プトレマイオス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-04",
+          "question": "紀元前3世紀ごろ，太陽の高度を利用して地球の周囲の長さを測定した古代ギリシャの学者は誰か。",
+          "answer": "エラトステネス",
+          "options": [
+            "エラトステネス",
+            "アリストテレス",
+            "プトレマイオス",
+            "ヘカタイオス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-05",
+          "question": "2世紀ごろ，経緯線を用いた世界地図を作成し，天動説を唱えた古代ギリシャの学者は誰か。",
+          "answer": "プトレマイオス",
+          "options": [
+            "プトレマイオス",
+            "エラトステネス",
+            "アリストテレス",
+            "ヘカタイオス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-06",
+          "question": "中世ヨーロッパのキリスト教的世界観に基づき作成された，東を上にしてアジア・ヨーロッパ・アフリカの3大陸を描いた世界地図を何というか。",
+          "answer": "TO（OT）マップ",
+          "options": [
+            "TO（OT）マップ",
+            "プトレマイオスの世界地図",
+            "ポルトラノ海図",
+            "バビロニアの世界地図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-07",
+          "question": "13世紀後半，陸路を経て元の都大都を訪れ，帰国後に『東方見聞録（世界の記述）』を著したヴェネツィア商人は誰か。",
+          "answer": "マルコ=ポーロ",
+          "options": [
+            "マルコ=ポーロ",
+            "イブン=バットゥータ",
+            "マゼラン",
+            "コロンブス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-08",
+          "question": "14世紀，アフリカ・アジアの広い地域を旅行し，『三大陸周遊記』を著したモロッコの旅行家は誰か。",
+          "answer": "イブン=バットゥータ",
+          "options": [
+            "イブン=バットゥータ",
+            "マルコ=ポーロ",
+            "リビングストン",
+            "ヘディン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-09",
+          "question": "13～14世紀，地中海沿岸地域の航海のために作られた，方位線を放射状に引いた海図を何というか。",
+          "answer": "ポルトラノ海図",
+          "options": [
+            "ポルトラノ海図",
+            "TO図",
+            "メルカトル図",
+            "プトレマイオス図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-10",
+          "question": "1492年，現存する最古の地球儀を製作したドイツの地理学者は誰か。",
+          "answer": "マルティン=ベハイム",
+          "options": [
+            "マルティン=ベハイム",
+            "メルカトル",
+            "オルテリウス",
+            "トスカネリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-11",
+          "question": "コロンブスの航海のもととなった地図を作成し，大西洋を西に渡ればアジアに到達できることを示したイタリアの地理学者は誰か。",
+          "answer": "トスカネリ",
+          "options": [
+            "トスカネリ",
+            "マルティン=ベハイム",
+            "メルカトル",
+            "プトレマイオス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-12",
+          "question": "1488年，アフリカ南端の喜望峰に到達したポルトガルの航海者は誰か。",
+          "answer": "バルトロメウ=ディアス",
+          "options": [
+            "バルトロメウ=ディアス",
+            "ヴァスコ=ダ=ガマ",
+            "マゼラン",
+            "コロンブス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-13",
+          "question": "1498年，インド航路を開拓したポルトガルの航海者は誰か。",
+          "answer": "ヴァスコ=ダ=ガマ",
+          "options": [
+            "ヴァスコ=ダ=ガマ",
+            "バルトロメウ=ディアス",
+            "マゼラン",
+            "コロンブス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-14",
+          "question": "1519～22年，史上初めての世界一周航海を成し遂げた艦隊の指揮官は誰か。",
+          "answer": "マゼラン",
+          "options": [
+            "マゼラン",
+            "ヴァスコ=ダ=ガマ",
+            "コロンブス",
+            "クック"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-15",
+          "question": "1570年，『世界の舞台』という最初の近代的世界地図帳を作成したフランドルの地理学者は誰か。",
+          "answer": "オルテリウス",
+          "options": [
+            "オルテリウス",
+            "メルカトル",
+            "マルティン=ベハイム",
+            "トスカネリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-16",
+          "question": "1569年，正角円筒図法の世界地図を作成したフランドルの地理学者は誰か。",
+          "answer": "メルカトル",
+          "options": [
+            "メルカトル",
+            "オルテリウス",
+            "マルティン=ベハイム",
+            "プトレマイオス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-17",
+          "question": "1492年，コロンブスが到達した大陸は，のちに誰の名前にちなんで命名されたか。",
+          "answer": "アメリゴ=ヴェスプッチ",
+          "options": [
+            "アメリゴ=ヴェスプッチ",
+            "コロンブス",
+            "マゼラン",
+            "トスカネリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-18",
+          "question": "17世紀，オーストラリア大陸の北岸・西岸およびニュージーランド・タスマニア島・フィジーを発見したオランダの航海者は誰か。",
+          "answer": "タスマン",
+          "options": [
+            "タスマン",
+            "クック",
+            "マゼラン",
+            "コロンブス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-19",
+          "question": "18世紀，太平洋の島々を詳しく調査し，オーストラリア東岸やニュージーランドを探検したイギリスの航海者は誰か。",
+          "answer": "クック",
+          "options": [
+            "クック",
+            "タスマン",
+            "マゼラン",
+            "リビングストン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-20",
+          "question": "19世紀，中国を探検し，「シルクロード」の命名者でもあるドイツの地理学者は誰か。",
+          "answer": "リヒトホーフェン",
+          "options": [
+            "リヒトホーフェン",
+            "ヘディン",
+            "フンボルト",
+            "リッター"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-21",
+          "question": "19世紀末から20世紀初頭，中央アジアの砂漠地帯を探検したスウェーデンの探検家は誰か。",
+          "answer": "ヘディン",
+          "options": [
+            "ヘディン",
+            "リヒトホーフェン",
+            "フンボルト",
+            "スタンリー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-22",
+          "question": "19世紀，アフリカ内陸部を探検し，ヴィクトリアの滝を発見したイギリスの探検家・宣教師は誰か。",
+          "answer": "リビングストン",
+          "options": [
+            "リビングストン",
+            "スタンリー",
+            "クック",
+            "ヘディン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-23",
+          "question": "行方不明になったリビングストンの捜索にアフリカに入り，コンゴ川を探検したアメリカの探検家は誰か。",
+          "answer": "スタンリー",
+          "options": [
+            "スタンリー",
+            "リビングストン",
+            "クック",
+            "ヘディン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-24",
+          "question": "1911年，人類初の南極点到達を果たしたノルウェーの探検家は誰か。",
+          "answer": "アムンゼン",
+          "options": [
+            "アムンゼン",
+            "スコット",
+            "クック",
+            "ヘディン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-25",
+          "question": "南アメリカを探検し，『コスモス』を著した近代地理学の先駆者であるドイツの地理学者は誰か。",
+          "answer": "フンボルト",
+          "options": [
+            "フンボルト",
+            "リッター",
+            "ラッツェル",
+            "リヒトホーフェン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-26",
+          "question": "『地理学』を著し，フンボルトとともに近代地理学の基礎を築いたドイツの地理学者は誰か。",
+          "answer": "リッター",
+          "options": [
+            "リッター",
+            "フンボルト",
+            "ラッツェル",
+            "ブラッシュ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-27",
+          "question": "環境決定論を唱え，人間の活動は自然環境に規定されるとしたドイツの地理学者は誰か。",
+          "answer": "ラッツェル",
+          "options": [
+            "ラッツェル",
+            "リッター",
+            "フンボルト",
+            "ブラッシュ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-28",
+          "question": "環境可能論を唱え，自然環境は人間に可能性を提供するものであるとしたフランスの地理学者は誰か。",
+          "answer": "ブラッシュ",
+          "options": [
+            "ブラッシュ",
+            "ラッツェル",
+            "リッター",
+            "フンボルト"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-29",
+          "question": "奈良時代の僧侶の名にちなんで呼ばれる，日本最古の日本地図を何というか。",
+          "answer": "行基図",
+          "options": [
+            "行基図",
+            "伊能図",
+            "坤輿万国全図",
+            "大日本沿海輿地全図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-30",
+          "question": "江戸時代後期，全国の沿岸を測量して精密な日本地図を作成した人物は誰か。",
+          "answer": "伊能忠敬",
+          "options": [
+            "伊能忠敬",
+            "行基",
+            "シーボルト",
+            "マテオ=リッチ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-31",
+          "question": "伊能忠敬が作成した精密な日本地図を何というか。",
+          "answer": "大日本沿海輿地全図",
+          "options": [
+            "大日本沿海輿地全図",
+            "行基図",
+            "坤輿万国全図",
+            "日本図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S1-32",
+          "question": "16世紀末，イエズス会の宣教師マテオ=リッチが中国で作成した世界地図を何というか。",
+          "answer": "坤輿万国全図",
+          "options": [
+            "坤輿万国全図",
+            "大日本沿海輿地全図",
+            "行基図",
+            "メルカトル図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "地図の種類と用途",
+      "questions": [
+        {
+          "id": "P1-C7-S2-01",
+          "question": "地上の実際の距離と地図上の距離との比率を何というか。",
+          "answer": "縮尺",
+          "options": [
+            "縮尺",
+            "方位",
+            "凡例",
+            "等高線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-02",
+          "question": "5万分の1の地図上で5cmの距離は実際の距離で何mか。",
+          "answer": "2,500m",
+          "options": [
+            "2,500m",
+            "500m",
+            "5,000m",
+            "250m"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-03",
+          "question": "2万5千分の1の地図上で4cmの距離は実際の距離で何mか。",
+          "answer": "1,000m",
+          "options": [
+            "1,000m",
+            "500m",
+            "2,500m",
+            "100m"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-04",
+          "question": "実際の距離8kmを12.5cmで表す地図の縮尺はいくつか。",
+          "answer": "6万4,000分の1",
+          "options": [
+            "6万4,000分の1",
+            "5万分の1",
+            "2万5千分の1",
+            "10万分の1"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-05",
+          "question": "小縮尺の地図を大縮尺の地図をもとに再構成した地図を何というか。",
+          "answer": "編集図",
+          "options": [
+            "編集図",
+            "実測図",
+            "主題図",
+            "地形図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-06",
+          "question": "多くの情報を総合的に表示した地図を何というか。地形図や地勢図がその代表例である。",
+          "answer": "一般図",
+          "options": [
+            "一般図",
+            "主題図",
+            "編集図",
+            "実測図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-07",
+          "question": "特定のテーマについて詳しく表現した地図を何というか。",
+          "answer": "主題図",
+          "options": [
+            "主題図",
+            "一般図",
+            "編集図",
+            "地形図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-08",
+          "question": "大縮尺で，地表の起伏や土地利用，建物，道路などを精密に表現した地図を何というか。",
+          "answer": "地形図",
+          "options": [
+            "地形図",
+            "地勢図",
+            "地質図",
+            "海図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-09",
+          "question": "地表の地質構造を色分けして表現した地図を何というか。",
+          "answer": "地質図",
+          "options": [
+            "地質図",
+            "地形図",
+            "土地利用図",
+            "地勢図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-10",
+          "question": "航海のために作成された地図を何というか。",
+          "answer": "海図",
+          "options": [
+            "海図",
+            "地形図",
+            "航空図",
+            "地勢図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-11",
+          "question": "高い視点から地表を斜め上方から見下ろすように描いた地図を何というか。",
+          "answer": "鳥瞰図",
+          "options": [
+            "鳥瞰図",
+            "統計地図",
+            "主題図",
+            "地形図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-12",
+          "question": "統計データを地図上に表現した地図を総称して何というか。",
+          "answer": "統計地図",
+          "options": [
+            "統計地図",
+            "主題図",
+            "鳥瞰図",
+            "一般図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-13",
+          "question": "統計量を円・棒グラフなどの図形の大きさで表現した統計地図を何というか。",
+          "answer": "図形表現図",
+          "options": [
+            "図形表現図",
+            "ドットマップ",
+            "階級区分図",
+            "カルトグラム"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-14",
+          "question": "統計量を点（ドット）の散布で表現した統計地図を何というか。",
+          "answer": "ドットマップ",
+          "options": [
+            "ドットマップ",
+            "図形表現図",
+            "階級区分図",
+            "メッシュマップ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-15",
+          "question": "統計量の大きさに応じて地域を色や模様で区分した統計地図を何というか。",
+          "answer": "階級区分図",
+          "options": [
+            "階級区分図",
+            "ドットマップ",
+            "図形表現図",
+            "等値線図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-16",
+          "question": "現象の空間的分布を表現した地図を何というか。",
+          "answer": "分布図",
+          "options": [
+            "分布図",
+            "統計地図",
+            "等値線図",
+            "流線図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-17",
+          "question": "一定の区画（メッシュ）ごとの統計値を色分けなどで表現した地図を何というか。",
+          "answer": "メッシュマップ",
+          "options": [
+            "メッシュマップ",
+            "階級区分図",
+            "ドットマップ",
+            "分布図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-18",
+          "question": "面積や距離を統計値に応じて変形させて表現した地図を何というか。",
+          "answer": "カルトグラム",
+          "options": [
+            "カルトグラム",
+            "メッシュマップ",
+            "図形表現図",
+            "階級区分図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-19",
+          "question": "等しい値の地点を線で結んで表現した地図を何というか。",
+          "answer": "等値線図",
+          "options": [
+            "等値線図",
+            "カルトグラム",
+            "流線図",
+            "分布図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-20",
+          "question": "人・物・情報などの移動を矢印などの線で表現した地図を何というか。",
+          "answer": "流線図",
+          "options": [
+            "流線図",
+            "等値線図",
+            "カルトグラム",
+            "分布図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-21",
+          "question": "コンピュータを用いて，地理的情報を収集・管理・分析・表示するシステムを何というか。",
+          "answer": "GIS（地理情報システム）",
+          "options": [
+            "GIS（地理情報システム）",
+            "GPS",
+            "リモートセンシング",
+            "GNSS"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-22",
+          "question": "国土に関する様々なデータをデジタル化して整備した情報を何というか。",
+          "answer": "国土数値情報",
+          "options": [
+            "国土数値情報",
+            "GIS",
+            "国土基本情報",
+            "地理情報"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-23",
+          "question": "自然災害による被害予測を地図上に示したものを何というか。",
+          "answer": "ハザードマップ",
+          "options": [
+            "ハザードマップ",
+            "国土数値情報",
+            "GIS",
+            "防災計画"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-24",
+          "question": "アメリカが打ち上げた地球観測衛星を何というか。",
+          "answer": "ランドサット",
+          "options": [
+            "ランドサット",
+            "GPS",
+            "GNSS",
+            "ひまわり"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-25",
+          "question": "人工衛星や航空機などを用いて，遠隔から地表の情報を収集する技術を何というか。",
+          "answer": "リモートセンシング",
+          "options": [
+            "リモートセンシング",
+            "GIS",
+            "GPS",
+            "GNSS"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-26",
+          "question": "人工衛星の電波を利用して地上の位置を正確に測定するシステムを何というか。",
+          "answer": "GPS（全地球測位システム）",
+          "options": [
+            "GPS（全地球測位システム）",
+            "GIS",
+            "リモートセンシング",
+            "GNSS"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-27",
+          "question": "GPSを含む各国の衛星測位システムの総称を何というか。",
+          "answer": "GNSS（全球測位衛星システム）",
+          "options": [
+            "GNSS（全球測位衛星システム）",
+            "GPS",
+            "GIS",
+            "リモートセンシング"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-28",
+          "question": "日本が運用する準天頂衛星システムを何というか。",
+          "answer": "みちびき",
+          "options": [
+            "みちびき",
+            "ひまわり",
+            "ランドサット",
+            "だいち"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-29",
+          "question": "GISにおいて，異なるテーマの地図を重ね合わせて分析する手法を何というか。",
+          "answer": "オーバーレイ",
+          "options": [
+            "オーバーレイ",
+            "メッシュ分析",
+            "バッファリング",
+            "ネットワーク分析"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-30",
+          "question": "人工衛星から撮影された地球表面の画像を何というか。",
+          "answer": "衛星画像",
+          "options": [
+            "衛星画像",
+            "空中写真",
+            "航空写真",
+            "リモートセンシング"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-31",
+          "question": "GISにおいて，ある地点からの距離や範囲を設定して分析する手法を何というか。",
+          "answer": "バッファリング",
+          "options": [
+            "バッファリング",
+            "オーバーレイ",
+            "ネットワーク分析",
+            "メッシュ分析"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-32",
+          "question": "航空機から垂直に撮影した写真を何というか。",
+          "answer": "空中写真",
+          "options": [
+            "空中写真",
+            "衛星画像",
+            "航空写真",
+            "鳥瞰図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-33",
+          "question": "インターネット上で地理情報を閲覧・利用できるサービスを何というか。",
+          "answer": "Web GIS",
+          "options": [
+            "Web GIS",
+            "GIS",
+            "GPS",
+            "リモートセンシング"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S2-34",
+          "question": "国土地理院が提供するWeb上の地理情報閲覧サービスを何というか。",
+          "answer": "地理院地図",
+          "options": [
+            "地理院地図",
+            "Web GIS",
+            "国土数値情報",
+            "ハザードマップ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "地球儀と時差",
+      "questions": [
+        {
+          "id": "P1-C7-S3-01",
+          "question": "地球の自転軸の傾きは何度何分か。",
+          "answer": "23度26分",
+          "options": [
+            "23度26分",
+            "23度30分",
+            "22度30分",
+            "25度"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-02",
+          "question": "地球の赤道半径は約何kmか。",
+          "answer": "約6,400km",
+          "options": [
+            "約6,400km",
+            "約5,400km",
+            "約7,400km",
+            "約4,400km"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-03",
+          "question": "地球の赤道の周囲の長さは約何kmか。",
+          "answer": "約4万km",
+          "options": [
+            "約4万km",
+            "約3万km",
+            "約5万km",
+            "約6万km"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-04",
+          "question": "地球上のある地点から地球の中心を通って反対側に位置する地点を何というか。",
+          "answer": "対蹠点",
+          "options": [
+            "対蹠点",
+            "対極",
+            "赤道",
+            "子午線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-05",
+          "question": "陸地面積の割合が最も大きい半球を何というか。",
+          "answer": "陸半球",
+          "options": [
+            "陸半球",
+            "水半球",
+            "北半球",
+            "東半球"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-06",
+          "question": "海洋面積の割合が最も大きい半球を何というか。",
+          "answer": "水半球",
+          "options": [
+            "水半球",
+            "陸半球",
+            "南半球",
+            "西半球"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-07",
+          "question": "赤道より北側の半球を何というか。",
+          "answer": "北半球",
+          "options": [
+            "北半球",
+            "南半球",
+            "陸半球",
+            "東半球"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-08",
+          "question": "赤道より南側の半球を何というか。",
+          "answer": "南半球",
+          "options": [
+            "南半球",
+            "北半球",
+            "水半球",
+            "西半球"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-09",
+          "question": "経度0度から東経180度までの半球を何というか。",
+          "answer": "東半球",
+          "options": [
+            "東半球",
+            "西半球",
+            "北半球",
+            "陸半球"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-10",
+          "question": "経度0度から西経180度までの半球を何というか。",
+          "answer": "西半球",
+          "options": [
+            "西半球",
+            "東半球",
+            "南半球",
+            "水半球"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-11",
+          "question": "地球の南北の位置を表す座標を何というか。",
+          "answer": "緯度",
+          "options": [
+            "緯度",
+            "経度",
+            "方位",
+            "標高"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-12",
+          "question": "地球の東西の位置を表す座標を何というか。",
+          "answer": "経度",
+          "options": [
+            "経度",
+            "緯度",
+            "方位",
+            "標高"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-13",
+          "question": "緯度0度の線を何というか。",
+          "answer": "赤道",
+          "options": [
+            "赤道",
+            "本初子午線",
+            "回帰線",
+            "極圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-14",
+          "question": "同じ緯度の地点を結んだ線を何というか。",
+          "answer": "緯線",
+          "options": [
+            "緯線",
+            "経線",
+            "等高線",
+            "子午線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-15",
+          "question": "北緯23度26分の緯線を何というか。",
+          "answer": "北回帰線",
+          "options": [
+            "北回帰線",
+            "南回帰線",
+            "北極圏",
+            "南極圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-16",
+          "question": "南緯23度26分の緯線を何というか。",
+          "answer": "南回帰線",
+          "options": [
+            "南回帰線",
+            "北回帰線",
+            "南極圏",
+            "北極圏"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-17",
+          "question": "北緯66度34分の緯線を何というか。",
+          "answer": "北極圏",
+          "options": [
+            "北極圏",
+            "南極圏",
+            "北回帰線",
+            "南回帰線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-18",
+          "question": "南緯66度34分の緯線を何というか。",
+          "answer": "南極圏",
+          "options": [
+            "南極圏",
+            "北極圏",
+            "南回帰線",
+            "北回帰線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-19",
+          "question": "北半球で太陽の南中高度が最も高くなる日を何というか。",
+          "answer": "夏至",
+          "options": [
+            "夏至",
+            "冬至",
+            "春分",
+            "秋分"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-20",
+          "question": "北半球で太陽の南中高度が最も低くなる日を何というか。",
+          "answer": "冬至",
+          "options": [
+            "冬至",
+            "夏至",
+            "春分",
+            "秋分"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-21",
+          "question": "経度0度を通る経線を何というか。イギリスのグリニッジ天文台を通る。",
+          "answer": "本初子午線",
+          "options": [
+            "本初子午線",
+            "日付変更線",
+            "標準時子午線",
+            "赤道"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-22",
+          "question": "本初子午線を基準とした標準時を何というか。",
+          "answer": "グリニッジ標準時（GMT）",
+          "options": [
+            "グリニッジ標準時（GMT）",
+            "協定世界時（UTC）",
+            "日本標準時",
+            "太平洋標準時"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-23",
+          "question": "各国・地域が標準時の基準として定めた経線を何というか。",
+          "answer": "標準時子午線",
+          "options": [
+            "標準時子午線",
+            "本初子午線",
+            "日付変更線",
+            "赤道"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-24",
+          "question": "日本の標準時子午線は東経何度か。",
+          "answer": "東経135度",
+          "options": [
+            "東経135度",
+            "東経140度",
+            "東経130度",
+            "東経145度"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-25",
+          "question": "経度180度付近に設けられた，日付の境界線を何というか。",
+          "answer": "日付変更線",
+          "options": [
+            "日付変更線",
+            "本初子午線",
+            "標準時子午線",
+            "赤道"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-26",
+          "question": "日付変更線を西から東に越えた場合，日付はどうなるか。",
+          "answer": "1日もどす",
+          "options": [
+            "1日もどす",
+            "1日進める",
+            "変わらない",
+            "2日もどす"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-27",
+          "question": "日付変更線を東から西に越えた場合，日付はどうなるか。",
+          "answer": "1日進める",
+          "options": [
+            "1日進める",
+            "1日もどす",
+            "変わらない",
+            "2日進める"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-28",
+          "question": "経度15度ごとに何時間の時差が生じるか。",
+          "answer": "1時間",
+          "options": [
+            "1時間",
+            "2時間",
+            "30分",
+            "15分"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-29",
+          "question": "地球上の位置を正確に表すための基準として国際的に定められた測地基準系を何というか。",
+          "answer": "世界測地系",
+          "options": [
+            "世界測地系",
+            "日本測地系",
+            "地理座標系",
+            "国際座標系"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-30",
+          "question": "夏季に時計を1時間進めて日照時間を有効活用する制度を何というか。",
+          "answer": "サマータイム（夏時間）",
+          "options": [
+            "サマータイム（夏時間）",
+            "標準時",
+            "世界標準時",
+            "協定世界時"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-31",
+          "question": "1つの国内で複数の標準時を使用する場合，それぞれの時間帯を何というか。",
+          "answer": "タイムゾーン",
+          "options": [
+            "タイムゾーン",
+            "標準時",
+            "サマータイム",
+            "時差"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-32",
+          "question": "同じ経線上にある地点を結んだ線を何というか。",
+          "answer": "経線（子午線）",
+          "options": [
+            "経線（子午線）",
+            "緯線",
+            "等高線",
+            "日付変更線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S3-33",
+          "question": "昼夜の長さが等しくなる日を何というか。",
+          "answer": "春分・秋分",
+          "options": [
+            "春分・秋分",
+            "夏至",
+            "冬至",
+            "立春"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "地図投影法",
+      "questions": [
+        {
+          "id": "P1-C7-S4-01",
+          "question": "球面である地球を平面の地図上に表現する方法を何というか。",
+          "answer": "地図投影法",
+          "options": [
+            "地図投影法",
+            "縮尺",
+            "方位",
+            "凡例"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-02",
+          "question": "地図投影法において，地図の中心を通る経線を何というか。",
+          "answer": "中央経線",
+          "options": [
+            "中央経線",
+            "本初子午線",
+            "標準時子午線",
+            "日付変更線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-03",
+          "question": "地球に円錐をかぶせて投影する図法を何というか。",
+          "answer": "円錐図法",
+          "options": [
+            "円錐図法",
+            "円筒図法",
+            "方位図法",
+            "擬円筒図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-04",
+          "question": "円錐図法の一種で，中央経線と緯線上の距離が正しい図法を何というか。",
+          "answer": "正距円錐図法",
+          "options": [
+            "正距円錐図法",
+            "ランベルト正角円錐図法",
+            "ボンヌ図法",
+            "多円錐図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-05",
+          "question": "円錐図法の一種で，面積が正しい（正積）図法を何というか。フランスの地形図に使われた。",
+          "answer": "ボンヌ図法",
+          "options": [
+            "ボンヌ図法",
+            "正距円錐図法",
+            "ランベルト正角円錐図法",
+            "多円錐図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-06",
+          "question": "円錐図法の一種で，角度が正しい（正角）図法を何というか。",
+          "answer": "ランベルト正角円錐図法",
+          "options": [
+            "ランベルト正角円錐図法",
+            "正距円錐図法",
+            "ボンヌ図法",
+            "メルカトル図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-07",
+          "question": "多数の円錐を組み合わせた図法を何というか。",
+          "answer": "多円錐図法",
+          "options": [
+            "多円錐図法",
+            "円錐図法",
+            "ボンヌ図法",
+            "正距円錐図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-08",
+          "question": "地球に円筒をかぶせて投影する図法を何というか。",
+          "answer": "円筒図法",
+          "options": [
+            "円筒図法",
+            "円錐図法",
+            "方位図法",
+            "擬円筒図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-09",
+          "question": "円筒図法を変形させた図法を何というか。",
+          "answer": "擬円筒図法",
+          "options": [
+            "擬円筒図法",
+            "円筒図法",
+            "円錐図法",
+            "方位図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-10",
+          "question": "地球に平面を接触させて投影する図法を何というか。",
+          "answer": "方位図法",
+          "options": [
+            "方位図法",
+            "円筒図法",
+            "円錐図法",
+            "擬円筒図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-11",
+          "question": "方位図法の一種で，無限遠方からの平行光線で投影する図法を何というか。",
+          "answer": "正射図法",
+          "options": [
+            "正射図法",
+            "平射図法",
+            "心射図法",
+            "正距方位図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-12",
+          "question": "方位図法の一種で，地球の反対側から投影する図法を何というか。",
+          "answer": "平射図法",
+          "options": [
+            "平射図法",
+            "正射図法",
+            "心射図法",
+            "正距方位図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-13",
+          "question": "方位図法の一種で，地球の中心から投影する図法を何というか。",
+          "answer": "心射図法",
+          "options": [
+            "心射図法",
+            "正射図法",
+            "平射図法",
+            "正距方位図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-14",
+          "question": "方位図法において，中心からの方位が正しく表されることを何というか。",
+          "answer": "正方位",
+          "options": [
+            "正方位",
+            "正角",
+            "正距",
+            "正積"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-15",
+          "question": "正角円筒図法の代表で，航海用海図に用いられる図法を何というか。",
+          "answer": "メルカトル図法",
+          "options": [
+            "メルカトル図法",
+            "正距方位図法",
+            "サンソン図法",
+            "モルワイデ図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-16",
+          "question": "メルカトル図法で，2点間の最短距離を直線で表すとどのような線になるか。",
+          "answer": "等角航路（航程線）",
+          "options": [
+            "等角航路（航程線）",
+            "大圏航路",
+            "直線航路",
+            "最短航路"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-17",
+          "question": "地球上の2点間の最短経路を何というか。",
+          "answer": "大圏航路（大圏コース）",
+          "options": [
+            "大圏航路（大圏コース）",
+            "等角航路",
+            "直線航路",
+            "最短航路"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-18",
+          "question": "中心からの距離と方位が正しい方位図法を何というか。航空図に用いられる。",
+          "answer": "正距方位図法",
+          "options": [
+            "正距方位図法",
+            "メルカトル図法",
+            "心射図法",
+            "正射図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-19",
+          "question": "正積擬円筒図法の一種で，赤道と中央経線が直角に交わり，中央経線上と赤道上の距離が正しい図法を何というか。",
+          "answer": "サンソン図法",
+          "options": [
+            "サンソン図法",
+            "モルワイデ図法",
+            "グード図法",
+            "エケルト図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-20",
+          "question": "正積擬円筒図法の一種で，経線が楕円弧で表される図法を何というか。",
+          "answer": "モルワイデ図法",
+          "options": [
+            "モルワイデ図法",
+            "サンソン図法",
+            "グード図法",
+            "エケルト図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-21",
+          "question": "サンソン図法とモルワイデ図法を組み合わせた正積図法を何というか。",
+          "answer": "グード図法（ホモロサイン図法）",
+          "options": [
+            "グード図法（ホモロサイン図法）",
+            "サンソン図法",
+            "モルワイデ図法",
+            "エケルト図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-22",
+          "question": "正積擬円筒図法の一種で，極が赤道の半分の長さの直線で表される図法を何というか。",
+          "answer": "エケルト図法",
+          "options": [
+            "エケルト図法",
+            "モルワイデ図法",
+            "サンソン図法",
+            "グード図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-23",
+          "question": "地図上の角度が実際の角度と等しい性質を何というか。",
+          "answer": "正角",
+          "options": [
+            "正角",
+            "正積",
+            "正距",
+            "正方位"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-24",
+          "question": "地図上の面積が実際の面積比と等しい性質を何というか。",
+          "answer": "正積",
+          "options": [
+            "正積",
+            "正角",
+            "正距",
+            "正方位"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-25",
+          "question": "特定の線上の距離が正しい性質を何というか。",
+          "answer": "正距",
+          "options": [
+            "正距",
+            "正角",
+            "正積",
+            "正方位"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-26",
+          "question": "メルカトル図法の特徴として，高緯度地方の面積がどうなるか。",
+          "answer": "拡大される",
+          "options": [
+            "拡大される",
+            "縮小される",
+            "正確に表される",
+            "歪みがない"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-27",
+          "question": "メルカトル図法において，地図上の直線が何を表すか。",
+          "answer": "等角航路",
+          "options": [
+            "等角航路",
+            "大圏航路",
+            "最短距離",
+            "方位線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-28",
+          "question": "正距方位図法の中心点を東京とした場合，中心からの何が正しく表されるか。",
+          "answer": "距離と方位",
+          "options": [
+            "距離と方位",
+            "面積",
+            "角度",
+            "形状"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-29",
+          "question": "ユニバーサル横メルカトル図法の略称は何か。",
+          "answer": "U.T.M.図法",
+          "options": [
+            "U.T.M.図法",
+            "メルカトル図法",
+            "円筒図法",
+            "正角図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-30",
+          "question": "グード図法（ホモロサイン図法）の特徴として，海洋部分をどのように処理しているか。",
+          "answer": "断裂させている",
+          "options": [
+            "断裂させている",
+            "拡大している",
+            "省略している",
+            "圧縮している"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-31",
+          "question": "正角・正積・正距の3つの性質を同時に満たす地図投影法は存在するか。",
+          "answer": "存在しない",
+          "options": [
+            "存在しない",
+            "メルカトル図法",
+            "正距方位図法",
+            "グード図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-32",
+          "question": "メルカトル図法でグリーンランドの面積がアフリカ大陸と同じくらいに見えるのは，どのような性質が失われているからか。",
+          "answer": "正積（面積の正確さ）",
+          "options": [
+            "正積（面積の正確さ）",
+            "正角",
+            "正距",
+            "正方位"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-33",
+          "question": "航空路線の最短経路を地図上に正しく示すのに適した図法は何か。",
+          "answer": "正距方位図法",
+          "options": [
+            "正距方位図法",
+            "メルカトル図法",
+            "サンソン図法",
+            "モルワイデ図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S4-34",
+          "question": "世界全図で面積を正しく表すのに適した図法はどれか。",
+          "answer": "モルワイデ図法",
+          "options": [
+            "モルワイデ図法",
+            "メルカトル図法",
+            "正距方位図法",
+            "心射図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "地形図の見方",
+      "questions": [
+        {
+          "id": "P1-C7-S5-01",
+          "question": "地図を実際の方位に合わせて置くことを何というか。",
+          "answer": "地図の整置",
+          "options": [
+            "地図の整置",
+            "北上",
+            "方位合わせ",
+            "コンパス読図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-02",
+          "question": "日本の緯度・経度の原点を何というか。東京都港区麻布台に設置されている。",
+          "answer": "日本経緯度原点",
+          "options": [
+            "日本経緯度原点",
+            "日本水準原点",
+            "三角点",
+            "水準点"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-03",
+          "question": "日本の標高の基準点を何というか。東京都千代田区永田町に設置されている。",
+          "answer": "日本水準原点",
+          "options": [
+            "日本水準原点",
+            "日本経緯度原点",
+            "三角点",
+            "水準点"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-04",
+          "question": "標高の基準となる点で，道路沿いなどに設置されている基準点を何というか。",
+          "answer": "水準点",
+          "options": [
+            "水準点",
+            "三角点",
+            "日本水準原点",
+            "標高点"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-05",
+          "question": "三角測量のために設けられた基準点を何というか。",
+          "answer": "三角点",
+          "options": [
+            "三角点",
+            "水準点",
+            "基準点",
+            "標高点"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-06",
+          "question": "地形図上で同じ標高の地点を結んだ線を何というか。",
+          "answer": "等高線",
+          "options": [
+            "等高線",
+            "等深線",
+            "等温線",
+            "等圧線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-07",
+          "question": "等高線のうち，一定の標高間隔ごとに引かれる基本的な等高線を何というか。",
+          "answer": "主曲線",
+          "options": [
+            "主曲線",
+            "計曲線",
+            "間曲線",
+            "助曲線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-08",
+          "question": "主曲線5本ごとに太線で引かれる等高線を何というか。",
+          "answer": "計曲線",
+          "options": [
+            "計曲線",
+            "主曲線",
+            "間曲線",
+            "助曲線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-09",
+          "question": "主曲線の間隔を2等分して引かれる破線の等高線を何というか。",
+          "answer": "間曲線",
+          "options": [
+            "間曲線",
+            "助曲線",
+            "主曲線",
+            "計曲線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-10",
+          "question": "間曲線の間隔をさらに2等分して引かれる等高線を何というか。",
+          "answer": "助曲線",
+          "options": [
+            "助曲線",
+            "間曲線",
+            "主曲線",
+            "計曲線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-11",
+          "question": "等高線が高い方から低い方に張り出している地形を何というか。",
+          "answer": "尾根",
+          "options": [
+            "尾根",
+            "谷",
+            "鞍部",
+            "崖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-12",
+          "question": "等高線が低い方から高い方に向かって入り込んでいる地形を何というか。",
+          "answer": "谷",
+          "options": [
+            "谷",
+            "尾根",
+            "鞍部",
+            "崖"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-13",
+          "question": "山と山の間にある，標高の低い部分を何というか。",
+          "answer": "鞍部（峠）",
+          "options": [
+            "鞍部（峠）",
+            "谷",
+            "尾根",
+            "山頂"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-14",
+          "question": "等高線の間隔が狭いほど，傾斜はどうなるか。",
+          "answer": "急である",
+          "options": [
+            "急である",
+            "緩やかである",
+            "平坦である",
+            "変化しない"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-15",
+          "question": "日本の地形図を発行している国の機関を何というか。",
+          "answer": "国土地理院",
+          "options": [
+            "国土地理院",
+            "国土交通省",
+            "環境省",
+            "気象庁"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-16",
+          "question": "2万5千分の1の地形図の主曲線の間隔は何mか。",
+          "answer": "10m",
+          "options": [
+            "10m",
+            "20m",
+            "50m",
+            "100m"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-17",
+          "question": "5万分の1の地形図の主曲線の間隔は何mか。",
+          "answer": "20m",
+          "options": [
+            "20m",
+            "10m",
+            "50m",
+            "100m"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-18",
+          "question": "国土地理院発行の20万分の1の地図を何というか。",
+          "answer": "地勢図",
+          "options": [
+            "地勢図",
+            "地形図",
+            "地方図",
+            "国際図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-19",
+          "question": "国土地理院発行の50万分の1の地図を何というか。",
+          "answer": "地方図",
+          "options": [
+            "地方図",
+            "地勢図",
+            "地形図",
+            "国際図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-20",
+          "question": "100万分の1の国際的な規格で統一された地図を何というか。",
+          "answer": "国際図",
+          "options": [
+            "国際図",
+            "地方図",
+            "地勢図",
+            "一般図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-21",
+          "question": "測量によって直接作成された地図を何というか。",
+          "answer": "実測図",
+          "options": [
+            "実測図",
+            "編集図",
+            "主題図",
+            "一般図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-22",
+          "question": "航空機から撮影した写真をもとに地図を作成する方法を何というか。",
+          "answer": "空中写真測量",
+          "options": [
+            "空中写真測量",
+            "三角測量",
+            "水準測量",
+            "リモートセンシング"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-23",
+          "question": "既存の地図を基にして作成された地図を何というか。",
+          "answer": "編集図",
+          "options": [
+            "編集図",
+            "実測図",
+            "主題図",
+            "統計地図"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-24",
+          "question": "三角点を基準にして目標点の位置を求める測量法を何というか。",
+          "answer": "三角測量",
+          "options": [
+            "三角測量",
+            "水準測量",
+            "空中写真測量",
+            "GPS測量"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-25",
+          "question": "2万5千分の1の地形図において，計曲線の間隔は何mか。",
+          "answer": "50m",
+          "options": [
+            "50m",
+            "100m",
+            "25m",
+            "10m"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-26",
+          "question": "5万分の1の地形図において，計曲線の間隔は何mか。",
+          "answer": "100m",
+          "options": [
+            "100m",
+            "50m",
+            "200m",
+            "20m"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-27",
+          "question": "2万5千分の1の地形図1枚が表す範囲は約何km×何kmか。",
+          "answer": "約10km×約10km",
+          "options": [
+            "約10km×約10km",
+            "約5km×約5km",
+            "約20km×約20km",
+            "約15km×約15km"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-28",
+          "question": "現地に赴いて直接調査を行なう方法を何というか。",
+          "answer": "フィールドワーク（野外調査）",
+          "options": [
+            "フィールドワーク（野外調査）",
+            "文献調査",
+            "統計調査",
+            "聞き取り調査"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-29",
+          "question": "文献や資料を収集・分析する調査方法を何というか。",
+          "answer": "文献・資料調査",
+          "options": [
+            "文献・資料調査",
+            "フィールドワーク",
+            "統計調査",
+            "聞き取り調査"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-30",
+          "question": "調査結果をポスターにまとめ，発表と質疑応答を行なう方法を何というか。",
+          "answer": "ポスターセッション",
+          "options": [
+            "ポスターセッション",
+            "プレゼンテーション",
+            "レポート発表",
+            "ディスカッション"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-31",
+          "question": "日本の国土地理院が発行する2万5千分の1の地形図で用いられている図法は何か。",
+          "answer": "U.T.M.図法（ユニバーサル横メルカトル図法）",
+          "options": [
+            "U.T.M.図法（ユニバーサル横メルカトル図法）",
+            "メルカトル図法",
+            "正距円錐図法",
+            "多円錐図法"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-32",
+          "question": "日本の標高の基準は何を基準としているか。",
+          "answer": "東京湾の平均海面",
+          "options": [
+            "東京湾の平均海面",
+            "太平洋の平均海面",
+            "日本海の平均海面",
+            "瀬戸内海の平均海面"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-33",
+          "question": "等高線が閉じた同心円状になっている地形は何を表しているか。",
+          "answer": "山頂（丘）",
+          "options": [
+            "山頂（丘）",
+            "盆地",
+            "谷",
+            "鞍部"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-34",
+          "question": "2万5千分の1地形図上で1cmは実際に何mか。",
+          "answer": "250m",
+          "options": [
+            "250m",
+            "500m",
+            "100m",
+            "25m"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P1-C7-S5-35",
+          "question": "地形図の記号の意味を説明する表を何というか。",
+          "answer": "凡例",
+          "options": [
+            "凡例",
+            "縮尺",
+            "方位記号",
+            "等高線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

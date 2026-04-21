@@ -1,0 +1,1067 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 4,
+    "title": "つながる世界"
+  },
+  "chapter": {
+    "number": 3,
+    "title": "国家群と国際協力"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "国家と領域",
+      "questions": [
+        {
+          "id": "P4-C3-S1-01",
+          "question": "国家を構成する三つの要素は何か。",
+          "answer": "主権・領域・国民",
+          "options": [
+            "主権・領域・国民",
+            "立法・行政・司法",
+            "土地・労働・資本",
+            "政治・経済・文化"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-02",
+          "question": "国家の主権が及ぶ範囲を何というか。",
+          "answer": "領域",
+          "options": [
+            "領域",
+            "領土",
+            "領海",
+            "領空"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-03",
+          "question": "国家の領域のうち，陸地の部分を何というか。",
+          "answer": "領土",
+          "options": [
+            "領土",
+            "領海",
+            "領空",
+            "領域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-04",
+          "question": "国家の領域のうち，海の部分を何というか。",
+          "answer": "領海",
+          "options": [
+            "領海",
+            "領土",
+            "領空",
+            "排他的経済水域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-05",
+          "question": "領海の範囲は沿岸から何海里か。",
+          "answer": "12海里",
+          "options": [
+            "12海里",
+            "200海里",
+            "3海里",
+            "24海里"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-06",
+          "question": "国家の領域のうち，空の部分を何というか。",
+          "answer": "領空",
+          "options": [
+            "領空",
+            "領土",
+            "領海",
+            "宇宙空間"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-07",
+          "question": "沿岸国が海底の資源や漁業資源を管理する権利を持つ水域を何というか。",
+          "answer": "排他的経済水域（EEZ）",
+          "options": [
+            "排他的経済水域（EEZ）",
+            "領海",
+            "公海",
+            "接続水域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-08",
+          "question": "排他的経済水域の範囲は沿岸から何海里か。",
+          "answer": "200海里",
+          "options": [
+            "200海里",
+            "12海里",
+            "24海里",
+            "350海里"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-09",
+          "question": "どの国の主権も及ばない海域を何というか。",
+          "answer": "公海",
+          "options": [
+            "公海",
+            "領海",
+            "排他的経済水域",
+            "接続水域"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-10",
+          "question": "1982年に採択された海洋に関する包括的な国際条約を何というか。",
+          "answer": "国連海洋法条約",
+          "options": [
+            "国連海洋法条約",
+            "ジュネーブ条約",
+            "ウィーン条約",
+            "パリ条約"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-11",
+          "question": "山脈・河川・湖沼・海峡など自然の地形に沿った国境を何というか。",
+          "answer": "自然的国境",
+          "options": [
+            "自然的国境",
+            "人為的国境",
+            "数理的国境",
+            "歴史的国境"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-12",
+          "question": "経線や緯線に沿って直線的に引かれた国境を何というか。",
+          "answer": "数理的（幾何学的）国境",
+          "options": [
+            "数理的（幾何学的）国境",
+            "自然的国境",
+            "人為的国境",
+            "民族的国境"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-13",
+          "question": "アメリカとカナダの国境の一部として用いられている緯線は何か。",
+          "answer": "北緯49度線",
+          "options": [
+            "北緯49度線",
+            "北緯38度線",
+            "赤道",
+            "北緯23.4度線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-14",
+          "question": "かつての朝鮮半島の軍事境界線として用いられた緯線は何か。",
+          "answer": "北緯38度線",
+          "options": [
+            "北緯38度線",
+            "北緯49度線",
+            "北緯17度線",
+            "北緯22度線"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-15",
+          "question": "アフリカで直線的な国境が多い理由は何か。",
+          "answer": "植民地時代にヨーロッパ列強が引いたため",
+          "options": [
+            "植民地時代にヨーロッパ列強が引いたため",
+            "自然地形に沿ったため",
+            "民族分布に基づいたため",
+            "住民投票で決めたため"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-16",
+          "question": "大陸から離れた島を領有する，本国と離れた領土を何というか。",
+          "answer": "海外領土（属領）",
+          "options": [
+            "海外領土（属領）",
+            "植民地",
+            "自治領",
+            "保護領"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-17",
+          "question": "周囲を他国に完全に囲まれた国を何というか。",
+          "answer": "内陸国",
+          "options": [
+            "内陸国",
+            "島国",
+            "半島国",
+            "大陸国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-18",
+          "question": "内陸国の例を1つ挙げよ。",
+          "answer": "スイス・モンゴル・ボリビアなど",
+          "options": [
+            "スイス・モンゴル・ボリビアなど",
+            "日本・イギリス",
+            "フランス・ドイツ",
+            "アメリカ・中国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-19",
+          "question": "日本の最西端の島はどこか。",
+          "answer": "与那国島",
+          "options": [
+            "与那国島",
+            "沖ノ鳥島",
+            "南鳥島",
+            "択捉島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-20",
+          "question": "日本の最南端の島はどこか。",
+          "answer": "沖ノ鳥島",
+          "options": [
+            "沖ノ鳥島",
+            "与那国島",
+            "南鳥島",
+            "択捉島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-21",
+          "question": "日本の最東端の島はどこか。",
+          "answer": "南鳥島",
+          "options": [
+            "南鳥島",
+            "沖ノ鳥島",
+            "与那国島",
+            "択捉島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-22",
+          "question": "日本の最北端の島はどこか。",
+          "answer": "択捉島",
+          "options": [
+            "択捉島",
+            "南鳥島",
+            "沖ノ鳥島",
+            "与那国島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-23",
+          "question": "日本がロシアに返還を求めている北方四島を挙げよ。",
+          "answer": "択捉島・国後島・色丹島・歯舞群島",
+          "options": [
+            "択捉島・国後島・色丹島・歯舞群島",
+            "北海道・樺太・千島列島",
+            "沖縄・奄美大島",
+            "対馬・壱岐"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-24",
+          "question": "日本が韓国との間で領有権を主張している島はどこか。",
+          "answer": "竹島",
+          "options": [
+            "竹島",
+            "尖閣諸島",
+            "沖ノ鳥島",
+            "南鳥島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-25",
+          "question": "日本が中国との間で領有権をめぐる問題を抱えている諸島はどこか。",
+          "answer": "尖閣諸島",
+          "options": [
+            "尖閣諸島",
+            "竹島",
+            "南沙諸島",
+            "西沙諸島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-26",
+          "question": "南シナ海で中国・ベトナム・フィリピンなどが領有権を争う諸島はどこか。",
+          "answer": "南沙諸島（スプラトリー諸島）",
+          "options": [
+            "南沙諸島（スプラトリー諸島）",
+            "西沙諸島",
+            "尖閣諸島",
+            "竹島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-27",
+          "question": "インドとパキスタンが領有権を争う地域はどこか。",
+          "answer": "カシミール",
+          "options": [
+            "カシミール",
+            "チベット",
+            "パンジャーブ",
+            "バングラデシュ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-28",
+          "question": "国の面積が最も大きい国はどこか。",
+          "answer": "ロシア",
+          "options": [
+            "ロシア",
+            "カナダ",
+            "アメリカ",
+            "中国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S1-29",
+          "question": "独立国の数が最も多い大陸はどこか。",
+          "answer": "アフリカ",
+          "options": [
+            "アフリカ",
+            "アジア",
+            "ヨーロッパ",
+            "南アメリカ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "国家群",
+      "questions": [
+        {
+          "id": "P4-C3-S2-01",
+          "question": "第二次世界大戦後のアメリカを中心とする西側陣営とソ連を中心とする東側陣営の対立を何というか。",
+          "answer": "冷戦（冷たい戦争）",
+          "options": [
+            "冷戦（冷たい戦争）",
+            "熱戦",
+            "世界大戦",
+            "局地紛争"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-02",
+          "question": "1949年にアメリカを中心に結成された西側の軍事同盟を何というか。",
+          "answer": "NATO（北大西洋条約機構）",
+          "options": [
+            "NATO（北大西洋条約機構）",
+            "ワルシャワ条約機構",
+            "SEATO",
+            "ANZUS"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-03",
+          "question": "1955年にソ連を中心に結成された東側の軍事同盟を何というか。",
+          "answer": "ワルシャワ条約機構（WTO）",
+          "options": [
+            "ワルシャワ条約機構（WTO）",
+            "NATO",
+            "COMECON",
+            "SEATO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-04",
+          "question": "東西冷戦の象徴であった，1989年に崩壊したドイツの壁は何か。",
+          "answer": "ベルリンの壁",
+          "options": [
+            "ベルリンの壁",
+            "万里の長城",
+            "鉄のカーテン",
+            "竹のカーテン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-05",
+          "question": "1991年に解体した社会主義超大国はどこか。",
+          "answer": "ソビエト連邦（ソ連）",
+          "options": [
+            "ソビエト連邦（ソ連）",
+            "中華人民共和国",
+            "ユーゴスラビア",
+            "チェコスロバキア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-06",
+          "question": "ソ連解体後に旧ソ連諸国で結成された緩やかな連合体を何というか。",
+          "answer": "CIS（独立国家共同体）",
+          "options": [
+            "CIS（独立国家共同体）",
+            "NATO",
+            "EU",
+            "ASEAN"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-07",
+          "question": "1952年にフランス・西ドイツなど6カ国で結成された石炭・鉄鋼の共同体を何というか。",
+          "answer": "ECSC（ヨーロッパ石炭鉄鋼共同体）",
+          "options": [
+            "ECSC（ヨーロッパ石炭鉄鋼共同体）",
+            "EEC",
+            "EURATOM",
+            "EC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-08",
+          "question": "1958年にECSCと同じ6カ国で結成された経済共同体を何というか。",
+          "answer": "EEC（ヨーロッパ経済共同体）",
+          "options": [
+            "EEC（ヨーロッパ経済共同体）",
+            "ECSC",
+            "EURATOM",
+            "EC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-09",
+          "question": "1958年にECSCと同じ6カ国で結成された原子力共同体を何というか。",
+          "answer": "EURATOM（ヨーロッパ原子力共同体）",
+          "options": [
+            "EURATOM（ヨーロッパ原子力共同体）",
+            "ECSC",
+            "EEC",
+            "EC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-10",
+          "question": "1967年にECSC・EEC・EURATOMが統合されて発足した共同体を何というか。",
+          "answer": "EC（ヨーロッパ共同体）",
+          "options": [
+            "EC（ヨーロッパ共同体）",
+            "EU",
+            "NATO",
+            "EFTA"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-11",
+          "question": "1993年にECを発展させて発足した，政治・経済統合を目指す組織を何というか。",
+          "answer": "EU（ヨーロッパ連合）",
+          "options": [
+            "EU（ヨーロッパ連合）",
+            "EC",
+            "NATO",
+            "EFTA"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-12",
+          "question": "EUの共通通貨を何というか。",
+          "answer": "ユーロ",
+          "options": [
+            "ユーロ",
+            "ドル",
+            "ポンド",
+            "マルク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-13",
+          "question": "EUの本部が置かれている都市はどこか。",
+          "answer": "ブリュッセル",
+          "options": [
+            "ブリュッセル",
+            "パリ",
+            "ベルリン",
+            "ストラスブール"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-14",
+          "question": "2020年にEUから離脱した国はどこか。",
+          "answer": "イギリス",
+          "options": [
+            "イギリス",
+            "ノルウェー",
+            "スイス",
+            "アイスランド"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-15",
+          "question": "EU加盟国間で人の移動を自由にする協定を何というか。",
+          "answer": "シェンゲン協定",
+          "options": [
+            "シェンゲン協定",
+            "マーストリヒト条約",
+            "リスボン条約",
+            "ローマ条約"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-16",
+          "question": "先進工業国と発展途上国の経済格差の問題を何というか。",
+          "answer": "南北問題",
+          "options": [
+            "南北問題",
+            "南南問題",
+            "東西問題",
+            "貧富の格差"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-17",
+          "question": "発展途上国間の経済格差の問題を何というか。",
+          "answer": "南南問題",
+          "options": [
+            "南南問題",
+            "南北問題",
+            "東西問題",
+            "格差問題"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-18",
+          "question": "石油輸出国の利益を守るために結成された組織を何というか。",
+          "answer": "OPEC（石油輸出国機構）",
+          "options": [
+            "OPEC（石油輸出国機構）",
+            "OAPEC",
+            "IEA",
+            "IAEA"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-19",
+          "question": "1967年に結成された東南アジアの地域協力組織を何というか。",
+          "answer": "ASEAN（東南アジア諸国連合）",
+          "options": [
+            "ASEAN（東南アジア諸国連合）",
+            "APEC",
+            "SAARC",
+            "GCC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-20",
+          "question": "アジア太平洋地域の経済協力の枠組みを何というか。",
+          "answer": "APEC（アジア太平洋経済協力）",
+          "options": [
+            "APEC（アジア太平洋経済協力）",
+            "ASEAN",
+            "TPP",
+            "RCEP"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-21",
+          "question": "アフリカの地域統合組織を何というか。",
+          "answer": "AU（アフリカ連合）",
+          "options": [
+            "AU（アフリカ連合）",
+            "OAU",
+            "ECOWAS",
+            "SADC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-22",
+          "question": "南アメリカの関税同盟を何というか。",
+          "answer": "MERCOSUR（メルコスール／南米南部共同市場）",
+          "options": [
+            "MERCOSUR（メルコスール／南米南部共同市場）",
+            "NAFTA",
+            "USMCA",
+            "OAS"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-23",
+          "question": "アメリカ・カナダ・メキシコの自由貿易協定を何というか。",
+          "answer": "USMCA（旧NAFTA）",
+          "options": [
+            "USMCA（旧NAFTA）",
+            "MERCOSUR",
+            "OAS",
+            "APEC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-24",
+          "question": "ペルシア湾岸の産油国6カ国で構成される協力会議を何というか。",
+          "answer": "GCC（湾岸協力会議）",
+          "options": [
+            "GCC（湾岸協力会議）",
+            "OPEC",
+            "OAPEC",
+            "アラブ連盟"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-25",
+          "question": "先進7カ国の首脳が集まる会議を何というか。",
+          "answer": "G7（主要国首脳会議）",
+          "options": [
+            "G7（主要国首脳会議）",
+            "G20",
+            "国連総会",
+            "安全保障理事会"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-26",
+          "question": "新興国を含む主要20カ国の会議を何というか。",
+          "answer": "G20",
+          "options": [
+            "G20",
+            "G7",
+            "G8",
+            "BRICS"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-27",
+          "question": "ブラジル・ロシア・インド・中国・南アフリカの新興5カ国を何というか。",
+          "answer": "BRICS",
+          "options": [
+            "BRICS",
+            "G20",
+            "ASEAN",
+            "APEC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-28",
+          "question": "韓国・台湾・香港・シンガポールなどの新興工業国を何というか。",
+          "answer": "NIES（新興工業経済地域）",
+          "options": [
+            "NIES（新興工業経済地域）",
+            "BRICS",
+            "LDC",
+            "OPEC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S2-29",
+          "question": "国連が認定する最も開発の遅れた国々を何というか。",
+          "answer": "LDC（後発発展途上国）",
+          "options": [
+            "LDC（後発発展途上国）",
+            "NIES",
+            "BRICS",
+            "LLDC"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "国際協力",
+      "questions": [
+        {
+          "id": "P4-C3-S3-01",
+          "question": "1945年に設立された国際平和と安全の維持を目的とする国際機関を何というか。",
+          "answer": "国際連合（国連）",
+          "options": [
+            "国際連合（国連）",
+            "国際連盟",
+            "NATO",
+            "EU"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-02",
+          "question": "国連の本部が置かれている都市はどこか。",
+          "answer": "ニューヨーク",
+          "options": [
+            "ニューヨーク",
+            "ジュネーブ",
+            "ウィーン",
+            "パリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-03",
+          "question": "国連の主要機関で，国際平和と安全の維持に主要な責任を持つ機関を何というか。",
+          "answer": "安全保障理事会",
+          "options": [
+            "安全保障理事会",
+            "国連総会",
+            "経済社会理事会",
+            "国際司法裁判所"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-04",
+          "question": "安全保障理事会の常任理事国は何カ国か。",
+          "answer": "5カ国",
+          "options": [
+            "5カ国",
+            "10カ国",
+            "15カ国",
+            "20カ国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-05",
+          "question": "安全保障理事会の常任理事国を挙げよ。",
+          "answer": "アメリカ・イギリス・フランス・ロシア・中国",
+          "options": [
+            "アメリカ・イギリス・フランス・ロシア・中国",
+            "アメリカ・イギリス・ドイツ・日本・中国",
+            "アメリカ・日本・ドイツ・インド・ブラジル",
+            "イギリス・フランス・ドイツ・イタリア・スペイン"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-06",
+          "question": "教育・科学・文化を通じて国際協力を推進する国連の専門機関を何というか。",
+          "answer": "UNESCO（国連教育科学文化機関）",
+          "options": [
+            "UNESCO（国連教育科学文化機関）",
+            "UNICEF",
+            "WHO",
+            "FAO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-07",
+          "question": "発展途上国の子どもの健康・福祉を支援する国連の基金を何というか。",
+          "answer": "UNICEF（国連児童基金）",
+          "options": [
+            "UNICEF（国連児童基金）",
+            "UNESCO",
+            "WHO",
+            "FAO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-08",
+          "question": "世界の保健衛生の向上を目的とする国連の専門機関を何というか。",
+          "answer": "WHO（世界保健機関）",
+          "options": [
+            "WHO（世界保健機関）",
+            "UNESCO",
+            "UNICEF",
+            "FAO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-09",
+          "question": "食料・農業の改善を目的とする国連の専門機関を何というか。",
+          "answer": "FAO（国連食糧農業機関）",
+          "options": [
+            "FAO（国連食糧農業機関）",
+            "WFP",
+            "WHO",
+            "UNICEF"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-10",
+          "question": "労働条件の改善を目的とする国連の専門機関を何というか。",
+          "answer": "ILO（国際労働機関）",
+          "options": [
+            "ILO（国際労働機関）",
+            "WHO",
+            "FAO",
+            "UNESCO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-11",
+          "question": "発展途上国への融資を行う国連の専門機関を何というか。",
+          "answer": "IBRD（国際復興開発銀行／世界銀行）",
+          "options": [
+            "IBRD（国際復興開発銀行／世界銀行）",
+            "IMF",
+            "ADB",
+            "AIIB"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-12",
+          "question": "紛争地域で停戦監視や治安維持を行う国連の活動を何というか。",
+          "answer": "PKO（国連平和維持活動）",
+          "options": [
+            "PKO（国連平和維持活動）",
+            "PKF",
+            "NATO",
+            "多国籍軍"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-13",
+          "question": "PKOの中で，武力を伴う平和維持部隊を何というか。",
+          "answer": "PKF（国連平和維持軍）",
+          "options": [
+            "PKF（国連平和維持軍）",
+            "PKO",
+            "NATO",
+            "多国籍軍"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-14",
+          "question": "先進国が発展途上国に対して行う経済援助を何というか。",
+          "answer": "ODA（政府開発援助）",
+          "options": [
+            "ODA（政府開発援助）",
+            "NGO",
+            "NPO",
+            "FDI"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-15",
+          "question": "政府から独立して，国際的な課題に取り組む民間組織を何というか。",
+          "answer": "NGO（非政府組織）",
+          "options": [
+            "NGO（非政府組織）",
+            "NPO",
+            "ODA",
+            "国連"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P4-C3-S3-16",
+          "question": "営利を目的としない民間の組織を何というか。",
+          "answer": "NPO（非営利組織）",
+          "options": [
+            "NPO（非営利組織）",
+            "NGO",
+            "ODA",
+            "CSR"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

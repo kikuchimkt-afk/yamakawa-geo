@@ -1,0 +1,815 @@
+{
+  "title": "山川 一問一答 地理",
+  "part": {
+    "number": 2,
+    "title": "資源と産業"
+  },
+  "chapter": {
+    "number": 3,
+    "title": "林業"
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "世界の林業",
+      "questions": [
+        {
+          "id": "P2-C3-S1-01",
+          "question": "アマゾン盆地の熱帯雨林のように，人間の影響が全く及んでいない森林を何というか。",
+          "answer": "天然林（自然林）",
+          "options": [
+            "天然林（自然林）",
+            "人工林",
+            "経済林",
+            "保安林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-02",
+          "question": "植林などにより，人間が育成した森林を何というか。",
+          "answer": "人工林",
+          "options": [
+            "人工林",
+            "天然林",
+            "経済林",
+            "保安林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-03",
+          "question": "各種の林産資源の生産を行ない，営利の対象となる森林を何というか。",
+          "answer": "経済林",
+          "options": [
+            "経済林",
+            "保安林",
+            "天然林",
+            "人工林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-04",
+          "question": "建築資材や家具製造など，産業用に用いられる木材を何というか。",
+          "answer": "用材",
+          "options": [
+            "用材",
+            "薪炭材",
+            "パルプ",
+            "合板"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-05",
+          "question": "薪や木炭の原料となる木材を何というか。",
+          "answer": "薪炭材",
+          "options": [
+            "薪炭材",
+            "用材",
+            "パルプ",
+            "合板"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-06",
+          "question": "水源の涵養や治水・土壌保全など，公益機能を果たすことを目的とした森林を何というか。",
+          "answer": "保安林",
+          "options": [
+            "保安林",
+            "経済林",
+            "天然林",
+            "人工林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-07",
+          "question": "河川の水源地帯で洪水緩和や流量調節を目的として，特別に保護・管理されている森林を何というか。",
+          "answer": "水源涵養林",
+          "options": [
+            "水源涵養林",
+            "防風林",
+            "保安林",
+            "天然林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-08",
+          "question": "風の強い地方で，耕地や家屋を保護するために作られた人工林を何というか。",
+          "answer": "防風林",
+          "options": [
+            "防風林",
+            "水源涵養林",
+            "保安林",
+            "経済林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-09",
+          "question": "森林面積，木材蓄積量とも世界最大なのは，どの気候帯の森林か。",
+          "answer": "熱帯林",
+          "options": [
+            "熱帯林",
+            "温帯林",
+            "冷帯林",
+            "亜寒帯林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-10",
+          "question": "熱帯林に繁茂する樹種を，総称して何というか。",
+          "answer": "常緑広葉樹",
+          "options": [
+            "常緑広葉樹",
+            "針葉樹",
+            "落葉広葉樹",
+            "混合林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-11",
+          "question": "熱帯林には，材質からみてどのような樹木が多いか。",
+          "answer": "硬木",
+          "options": [
+            "硬木",
+            "軟木",
+            "用材",
+            "薪炭材"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-12",
+          "question": "材質は堅硬でひずみが少なく，船材や家具などに利用される，タイやミャンマーなどが主産地の熱帯有用材は何か。",
+          "answer": "チーク",
+          "options": [
+            "チーク",
+            "ラワン",
+            "ユーカリ",
+            "マホガニー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-13",
+          "question": "フィリピンなどを主産地とするフタバガキ科の高木で，合板用に用いられる熱帯有用材は何か。",
+          "answer": "ラワン",
+          "options": [
+            "ラワン",
+            "チーク",
+            "マホガニー",
+            "ユーカリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-14",
+          "question": "オーストラリア原産のフトモモ科に属する高木で，葉から油をとり，薬品や香料として利用する樹木は何か。",
+          "answer": "ユーカリ",
+          "options": [
+            "ユーカリ",
+            "チーク",
+            "ラワン",
+            "マホガニー"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-15",
+          "question": "西インド諸島や中央アメリカなどに産する常緑高木で，高級家具材として用いられる熱帯有用材は何か。",
+          "answer": "マホガニー",
+          "options": [
+            "マホガニー",
+            "チーク",
+            "ラワン",
+            "ユーカリ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-16",
+          "question": "熱帯林の保護と合理的な利用を図るため，1986年に設立された準国連機関を何というか。",
+          "answer": "国際熱帯木材機関（ITTO）",
+          "options": [
+            "国際熱帯木材機関（ITTO）",
+            "国連環境計画（UNEP）",
+            "世界自然保護基金（WWF）",
+            "FAO"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-17",
+          "question": "常緑広葉樹，落葉広葉樹と針葉樹との混合林からなり，人工林の割合が比較的高いのはどの気候帯の森林か。",
+          "answer": "温帯林",
+          "options": [
+            "温帯林",
+            "熱帯林",
+            "冷帯林",
+            "亜寒帯林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-18",
+          "question": "ドイツのライン川河谷の東側にある人工造林地で，「黒い森」を意味する地域はどこか。",
+          "answer": "シュヴァルツヴァルト",
+          "options": [
+            "シュヴァルツヴァルト",
+            "チューリンゲンの森",
+            "バイエルンの森",
+            "ハルツ山地"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-19",
+          "question": "木材の輸出地域として最も重要なのは，どの気候帯の森林か。",
+          "answer": "冷帯林（亜寒帯林）",
+          "options": [
+            "冷帯林（亜寒帯林）",
+            "熱帯林",
+            "温帯林",
+            "寒帯林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-20",
+          "question": "冷帯林の主な樹種は何か。",
+          "answer": "針葉樹",
+          "options": [
+            "針葉樹",
+            "常緑広葉樹",
+            "落葉広葉樹",
+            "混合林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-21",
+          "question": "冷帯林には，材質からみてどのような樹木が多いか。",
+          "answer": "軟木",
+          "options": [
+            "軟木",
+            "硬木",
+            "用材",
+            "薪炭材"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-22",
+          "question": "冷帯林の森林は，林相の特徴から何と呼ばれるか。",
+          "answer": "純林",
+          "options": [
+            "純林",
+            "混合林",
+            "天然林",
+            "人工林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S1-23",
+          "question": "ロシア北西部，白海にそそぐ北ドヴィナ川の河口付近に位置する木材輸出港として知られる都市はどこか。",
+          "answer": "アルハンゲリスク",
+          "options": [
+            "アルハンゲリスク",
+            "ムルマンスク",
+            "サンクトペテルブルク",
+            "ノヴォシビルスク"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "日本の林業",
+      "questions": [
+        {
+          "id": "P2-C3-S2-01",
+          "question": "わが国の森林面積は，国土のほぼ何％を占めているか。",
+          "answer": "67％",
+          "options": [
+            "67％",
+            "50％",
+            "80％",
+            "40％"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-02",
+          "question": "日本の森林の所有形態別で，森林面積の約58％を占めるのは何か。",
+          "answer": "私有林",
+          "options": [
+            "私有林",
+            "国有林",
+            "公有林",
+            "社有林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-03",
+          "question": "日本の森林の所有形態別で，北海道から東北，中央高地にかけて広く分布し，森林面積の約31％を占めるのは何か。",
+          "answer": "国有林",
+          "options": [
+            "国有林",
+            "私有林",
+            "公有林",
+            "社有林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-04",
+          "question": "青森県の津軽半島に生育する針葉樹で，建築・家具・漆器などに用いられる3大美林の樹種は何か。",
+          "answer": "ひば（ヒバ）",
+          "options": [
+            "ひば（ヒバ）",
+            "すぎ（スギ）",
+            "ひのき（ヒノキ）",
+            "まつ（マツ）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-05",
+          "question": "秋田県の米代川流域に生育する針葉樹で，わが国では伐採量が最も多い3大美林の樹種は何か。",
+          "answer": "すぎ（スギ）",
+          "options": [
+            "すぎ（スギ）",
+            "ひば（ヒバ）",
+            "ひのき（ヒノキ）",
+            "まつ（マツ）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-06",
+          "question": "長野県の木曽地方に生育する優れた材質の針葉樹で，3大美林の樹種は何か。",
+          "answer": "ひのき（ヒノキ）",
+          "options": [
+            "ひのき（ヒノキ）",
+            "すぎ（スギ）",
+            "ひば（ヒバ）",
+            "まつ（マツ）"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-07",
+          "question": "天竜川流域にあり，すぎの産地として知られる林業地はどこか。",
+          "answer": "天竜",
+          "options": [
+            "天竜",
+            "飫肥",
+            "屋久島",
+            "吉野"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-08",
+          "question": "宮崎県南東部，日南市を集散地とするすぎの林業地はどこか。",
+          "answer": "飫肥（おび）",
+          "options": [
+            "飫肥（おび）",
+            "天竜",
+            "屋久島",
+            "吉野"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-09",
+          "question": "すぎの巨木で知られる鹿児島県の南方洋上の島はどこか。",
+          "answer": "屋久島",
+          "options": [
+            "屋久島",
+            "飫肥",
+            "天竜",
+            "種子島"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-10",
+          "question": "秋田県北部，米代川河口部の木材集散地で，春慶塗で知られる都市はどこか。",
+          "answer": "能代",
+          "options": [
+            "能代",
+            "尾鷲",
+            "新宮",
+            "秋田"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-11",
+          "question": "三重県南部，大台ヶ原山麓の木材集散地で，ひのきの美林で知られる都市はどこか。",
+          "answer": "尾鷲",
+          "options": [
+            "尾鷲",
+            "能代",
+            "新宮",
+            "熊野"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-12",
+          "question": "和歌山県東部，熊野川河口部の木材集散地はどこか。",
+          "answer": "新宮",
+          "options": [
+            "新宮",
+            "尾鷲",
+            "能代",
+            "田辺"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-13",
+          "question": "樹木から分離されたセルロースを主成分とする物質で，紙の原料などに用いられるものを何というか。",
+          "answer": "パルプ",
+          "options": [
+            "パルプ",
+            "用材",
+            "薪炭材",
+            "合板"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-14",
+          "question": "森林面積に占める人工林の割合が最も高い都道府県はどこか。",
+          "answer": "佐賀県",
+          "options": [
+            "佐賀県",
+            "宮崎県",
+            "奈良県",
+            "静岡県"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-15",
+          "question": "森林面積に占める人工林の割合が最も低い都道府県はどこか。",
+          "answer": "東京都",
+          "options": [
+            "東京都",
+            "北海道",
+            "沖縄県",
+            "大阪府"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-16",
+          "question": "素材生産量，人工林面積ともわが国で最大の都道府県はどこか。",
+          "answer": "宮崎県",
+          "options": [
+            "宮崎県",
+            "北海道",
+            "秋田県",
+            "鹿児島県"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S2-17",
+          "question": "わが国の木材自給率は2002年には18.8％と最低となったが，2015年には何％まで回復しているか。",
+          "answer": "33.2％",
+          "options": [
+            "33.2％",
+            "25.0％",
+            "40.0％",
+            "50.0％"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "世界の林産物",
+      "questions": [
+        {
+          "id": "P2-C3-S3-01",
+          "question": "世界の木材生産の用途別割合で，約半分を占めるのは何か。",
+          "answer": "薪炭材",
+          "options": [
+            "薪炭材",
+            "用材",
+            "パルプ",
+            "合板"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-02",
+          "question": "薪炭材の割合が特に高いのは，どのような国か。",
+          "answer": "発展途上国",
+          "options": [
+            "発展途上国",
+            "先進国",
+            "社会主義国",
+            "島嶼国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-03",
+          "question": "世界の木材総生産量で第1位の国はどこか。",
+          "answer": "アメリカ合衆国",
+          "options": [
+            "アメリカ合衆国",
+            "インド",
+            "中国",
+            "ブラジル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-04",
+          "question": "世界の木材総生産量で第2位の国はどこか。",
+          "answer": "インド",
+          "options": [
+            "インド",
+            "アメリカ合衆国",
+            "中国",
+            "ブラジル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-05",
+          "question": "世界の木材総生産量で第3位の国はどこか。",
+          "answer": "中国",
+          "options": [
+            "中国",
+            "インド",
+            "アメリカ合衆国",
+            "ブラジル"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-06",
+          "question": "世界の木材総生産量で第4位の国はどこか。",
+          "answer": "ブラジル",
+          "options": [
+            "ブラジル",
+            "中国",
+            "カナダ",
+            "ロシア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-07",
+          "question": "世界の木材総生産量で第5位の国はどこか。",
+          "answer": "カナダ",
+          "options": [
+            "カナダ",
+            "ブラジル",
+            "ロシア",
+            "インドネシア"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-08",
+          "question": "針葉樹（軟木）の主な生産地域は，どの気候帯か。",
+          "answer": "冷帯林",
+          "options": [
+            "冷帯林",
+            "熱帯林",
+            "温帯林",
+            "寒帯林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-09",
+          "question": "広葉樹（硬木）の主な生産地域は，どの気候帯か。",
+          "answer": "熱帯林",
+          "options": [
+            "熱帯林",
+            "冷帯林",
+            "温帯林",
+            "寒帯林"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-10",
+          "question": "針葉樹木材の生産国で第1位の国はどこか。",
+          "answer": "アメリカ合衆国",
+          "options": [
+            "アメリカ合衆国",
+            "カナダ",
+            "ロシア",
+            "中国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-11",
+          "question": "広葉樹木材の生産国で第1位の国はどこか。",
+          "answer": "ブラジル",
+          "options": [
+            "ブラジル",
+            "インド",
+            "中国",
+            "アメリカ合衆国"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-12",
+          "question": "合板（ベニヤ板）の生産量で第1位の国はどこか。",
+          "answer": "中国",
+          "options": [
+            "中国",
+            "マレーシア",
+            "インドネシア",
+            "日本"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-13",
+          "question": "合板の輸出量で第2位・第3位の東南アジアの国はどこか。",
+          "answer": "マレーシア・インドネシア",
+          "options": [
+            "マレーシア・インドネシア",
+            "タイ・ベトナム",
+            "フィリピン・ミャンマー",
+            "カンボジア・ラオス"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-14",
+          "question": "紙・板紙の生産量で第1位の国はどこか。",
+          "answer": "中国",
+          "options": [
+            "中国",
+            "アメリカ合衆国",
+            "日本",
+            "ドイツ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-15",
+          "question": "紙・板紙の生産量で第2位の国はどこか。",
+          "answer": "アメリカ合衆国",
+          "options": [
+            "アメリカ合衆国",
+            "中国",
+            "日本",
+            "ドイツ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        },
+        {
+          "id": "P2-C3-S3-16",
+          "question": "紙・板紙の生産量で第3位の国はどこか。",
+          "answer": "日本",
+          "options": [
+            "日本",
+            "中国",
+            "アメリカ合衆国",
+            "ドイツ"
+          ],
+          "difficulty": 1,
+          "hasImage": false,
+          "image": null
+        }
+      ]
+    }
+  ]
+}
